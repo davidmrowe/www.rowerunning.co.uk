@@ -31,5 +31,11 @@ jobs:
         JEKYLL_ENV: production
     - name: "Deploy to AWS S3"
       run: aws s3 sync ./_site/ s3://${{ secrets.AWS_S3_BUCKET_NAME }} --acl public-read --delete --cache-control max-age=604800
-    - name: "Create AWS Cloudfront Invalidation"
-      run: aws cloudfront create-invalidation --distribution-id ${{ secrets.AWS_CLOUDFRONT_DISTRIBUTION_ID }} --paths "/*"
+##    - name: "Create AWS Cloudfront Invalidation"
+##      run: aws cloudfront create-invalidation --distribution-id ${{ secrets.AWS_CLOUDFRONT_DISTRIBUTION_ID }} --paths "/*"
+    - name: Purge Cloudflare cache
+      uses: jakejarvis/cloudflare-purge-action@master
+      env:
+        # Zone is required by both authentication methods
+        CLOUDFLARE_ZONE: ${{ secrets.CLOUDFLARE_ZONE }}
+        CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}
