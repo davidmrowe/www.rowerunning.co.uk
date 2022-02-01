@@ -1,0 +1,23 @@
+---
+layout: default
+type: page
+---
+
+<div class="row">
+  <div class="col">
+    <main>
+      <h1>{{ page.title }}</h1>
+      <div class="row">
+
+        <div class="col-md-9">
+          {{ content }}
+        </div>
+
+        <div class="col-md-3">
+          {% include side_content.html %}
+        </div>
+
+      </div>
+    </main>
+  </div>
+</div>

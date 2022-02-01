@@ -1,0 +1,51 @@
+---
+layout: default
+type: category
+---
+
+<div class="row">
+  <div class="col">
+    <main>
+      <div class="row">
+
+        <div class="col">
+          <h1 class="h1 category-title">
+            All posts -&nbsp;{{ page.category | capitalize | replace: "-", " "}}
+          </h1>
+
+          {% assign postsByYear = site.categories[page.category] | group_by_exp:"post", "post.date | date: '%Y'"  %}
+          {% for year in postsByYear %}
+            <h2>{{ year.name }}</h2>
+
+            <ul class="archive-month">
+              {% assign postsByMonth = year.items  %}
+              <ul>
+                {% for post in postsByMonth %}
+                <li>
+                  <a href="{{ post.url | relative_url }}" class="post-link">
+                      {{ post.title }}
+                  </a>
+                  -
+                  {% if site.date_format_no_year %}
+                    {{ post.date | date: site.date_format_no_year }}
+                  {% else %}
+                    {{ post.date | date: "%b %Y" }}
+                  {% endif %}
+                </li>
+
+                {% endfor %}
+              </ul>
+          </ul>
+          {% endfor %}
+
+
+        </div>
+{% comment %}
+        <div class="col-md-3">
+          {% include side_content.html %}
+        </div>
+{% endcomment %}
+      </div>
+    </main>
+  </div>
+</div>

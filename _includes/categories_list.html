@@ -1,0 +1,14 @@
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+
+  {% if categories | size != 0 %}
+    <h3>Categories</h3>
+    <ul>
+    {% for category in categories %}
+    <li><a href="{{site.baseurl}}/category/{{category|slugize}}">{{category | replace: "-", " " }}</a></li>
+    {% endfor %}
+  {% endif %}
+</ul>

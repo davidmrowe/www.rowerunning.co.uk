@@ -1,0 +1,49 @@
+<aside>
+  {% comment %}
+  <nav>
+    <h3>Pages</h3>
+    {% include pages_list.html %}
+  </nav>
+  {% endcomment %}
+
+  {% comment %}
+  <nav>
+    <h3>Recent Posts</h3>
+    {% include posts_list.html limit=5 %}
+  </nav>
+  {% endcomment %}
+
+
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  {% if categories and categories.size != 0 %}
+    {% if categories contains "kona-diaries-2013" or categories contains "kona-diaries-2015" %} 
+      <img 
+        src="/assets/ironman-logo-with-stamp-290x165.png" 
+        class="img-fluid pb-4" 
+        alt="Ironman World Championship"
+      />
+    {% endif %}
+  {% endif %}
+
+  
+  <nav>
+    {% include categories_list_card.html %}
+  </nav>
+
+  <br />
+
+  <nav>
+  {% include posts_list_card.html limit=5 %}
+  </nav>
+
+  {% comment %}
+  <nav>
+    <h3>Tags</h3>
+    {% include tags_list.html limit=5 %}
+  </nav>
+  {% endcomment %}
+</aside>

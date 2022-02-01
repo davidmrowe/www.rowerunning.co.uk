@@ -1,0 +1,35 @@
+url: https://rowerunning.co.uk
+name: Rowe Running
+description: The adventures of David, Sharon and a little running, triathlon and Ironman exploits...
+title: Rowe Running
+
+excerpts: true
+exclude:
+  - "*.gemspec"
+  - "CONTRIBUTING*"
+  - "Gemfile*"
+  - "LICENSE*"
+  - "README*"
+  - "wordpress-exports*"
+
+paginate: 5
+paginate_path: /pages/:num/
+permalink: /:year/:month/:title/
+plugins:
+  - jekyll-paginate
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+
+analytics: true
+gtag: UA-70634-8
+
+date_format: "%-d %B %Y"
+date_format_no_year: "%-d %B"
+
+disqus_shortname: rowerunning

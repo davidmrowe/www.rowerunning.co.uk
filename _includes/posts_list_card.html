@@ -1,0 +1,15 @@
+
+  <div class="card">
+    <div class="card-header">
+      Recent Posts
+    </div>
+    <ul class="list-group list-group-flush">
+      {% for post in site.posts limit:include.limit %}
+        {% if page.title == post.title %}
+          <li class="list-group-item"><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% else %}
+          <li class="list-group-item"><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>

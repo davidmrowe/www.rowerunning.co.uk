@@ -1,0 +1,136 @@
+---
+layout: default
+type: homepage
+---
+<div class="row">
+  <div class="col">
+    <main>
+      <div class="row">
+        <div class="col">
+          {{ content }}
+        </div>
+      </div>
+      
+      <div class="row">
+        <div class="col">
+
+          <div class="card-deck">
+            {% for post in site.posts limit:2 %}
+
+            {% comment %} ONLY SHOW LAST (3rd) CARD ON LARGE SCREENS AND ABOVE{% endcomment %}
+            {% if forloop.index == 99 %}
+            <div class="card d-none d-lg-block">
+            {% else %}
+            <div class="card">
+            {% endif %}
+
+              <a href="{{ post.url | relative_url }}" class="card-link">
+
+              {% assign foundImage = 0 %}
+              {% if post.image %}
+                <img src="{{ post.image }}" class="card-img-top" />
+              {% else %}
+                {% assign images = post.content | split:"<img " %}
+                {% for image in images %}
+                  {% if image contains 'src' %}
+            
+                      {% if foundImage == 0 %}
+                          {% assign html = image | split:"/>" | first %}
+                          {% assign tags = html | split:" " %}
+                          {% for tag in tags %}
+                            {% if tag contains 'src' %}
+                              <img {{ tag }} class="card-img-top" />
+                            {% endif %}
+                          {% endfor %}
+                          {% assign foundImage = 1 %}
+                      {% endif %}
+                  {% endif %}
+                {% endfor %}
+              {% endif %}
+              </a>
+
+              <div class="card-body">
+                <a href="{{ post.url | relative_url }}" class="card-link">
+                  <h2 class="h4 card-title">
+                {{ post.title }}
+                  </h2>
+                </a>
+
+                <p class="card-subtitle">{{ post.excerpt | strip_html }}</p>
+                <p>
+                  <a href="{{ post.url | relative_url }}" class="card-link text-primary">
+                    Read more...
+                  </a>
+                </p>
+
+              {% if post %}
+                {% assign categories = post.categories %}
+              {% else %}
+                {% assign categories = page.categories %}
+              {% endif %}
+
+              {% if categories %}
+                {% for category in categories %}
+                  <a href="/category/{{ category }}" class="badge badge-secondary small">
+                    <span>{{category | replace: "-", " " }}</span>
+                  </a>
+                {% endfor %}
+              {% endif %}
+
+            </a>
+          </div><!-- card body -->
+          <div class="card-footer small">
+              {% if site.date_format %}
+              {{ post.date | date: site.date_format }}
+            {% else %}
+              {{ post.date | date: "%b %Y" }}
+            {% endif %}
+
+            </div>
+            </div><!-- card -->
+            {% endfor %}                
+          </div>
+
+        </div><!-- col -->
+{% comment %}
+        <div class="col-sm-6">
+
+          <div class="card-deck">
+
+            <div class="card">
+              {% comment %}
+              <img class="card-img-top" src=".../100px180/?text=Image cap" alt="Card image cap">
+              {% endcomment %}
+              <div class="card-header bg-secondary text-white">
+                Sharon's recent posts
+              </div>
+              <ul class="list-group list-group-flush" style="border-bottom: none;">
+                {% for post in site.categories['sharon'] limit:5 %}
+                <li class="list-group-item">
+                  <a href="{{ post.url | relative_url }}" class="card-link">
+                      {{ post.title }}
+                  </a>
+                  -
+                  {% if site.date_format %}
+                    {{ post.date | date: site.date_format }}
+                  {% else %}
+                    {{ post.date | date: "%b %Y" }}
+                  {% endif %}
+                </li>
+                {% endfor %}
+              </ul>
+              <div class="card-body p-0"></div>{% comment %}required for card footers to align correctly in deck{% endcomment %}
+              <div class="card-footer">
+                <a href="/category/sharon" class="card-link">
+                  All posts tagged Sharon
+                </a>
+              </div>
+            </div>
+
+          </div><!-- card-deck -->
+        </div><!-- col -->
+{% endcomment %}
+      </div>
+    </main>
+  </div>
+</div>
