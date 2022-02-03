@@ -2,6 +2,11 @@
 layout: default
 type: category
 ---
+{% if page.category == 'all' %}
+  {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'"  %}
+{% else %}
+  {% assign postsByYear = site.categories[page.category] | group_by_exp:"post", "post.date | date: '%Y'"  %}
+{% endif %}
 
 <div class="row">
   <div class="col">
@@ -10,10 +15,13 @@ type: category
 
         <div class="col">
           <h1 class="h1 category-title">
-            All posts -&nbsp;{{ page.category | capitalize | replace: "-", " "}}
+            {% if page.category == 'all' %}
+              All posts
+            {% else %}
+              All posts -&nbsp;{{ page.category | capitalize | replace: "-", " "}}
+            {% endif %}
           </h1>
 
-          {% assign postsByYear = site.categories[page.category] | group_by_exp:"post", "post.date | date: '%Y'"  %}
           {% for year in postsByYear %}
             <h2>{{ year.name }}</h2>
 

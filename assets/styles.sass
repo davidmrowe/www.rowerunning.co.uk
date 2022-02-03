@@ -1,0 +1,38 @@
+---
+---
+
+// Media query breakpoints ----------------------------------------------------
+$screen-xs: 576px
+$screen-sm: 768px
+$screen-md: 992px
+$screen-lg: 1200px
+
+// Media queries --------------------------------------------------------------
+$xs: "only screen and (min-width: #{$screen-xs})"
+$sm: "only screen and (min-width: #{$screen-sm})"
+$md: "only screen and (min-width: #{$screen-md})"
+$lg: "only screen and (min-width: #{$screen-lg})"
+
+
+article img
+  max-width: 100%;
+  height: auto;
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+article img + em
+  display: block;
+  text-align: center;
+  font-size: 0.75em;
+  font-style: normal;
+
+.card-img-top
+    width: 100%;
+    height: 50vw;
+    object-fit: cover;
+
+    @media #{$xs}
+      height: 25vw;
+
