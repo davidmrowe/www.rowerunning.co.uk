@@ -32,4 +32,4 @@ gtag: UA-70634-8
 date_format: "%-d %B %Y"
 date_format_no_year: "%-d %B"
 
-disqus_shortname: rowerunning
+# disqus_shortname: rowerunning
