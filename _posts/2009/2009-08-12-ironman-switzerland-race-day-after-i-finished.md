@@ -12,8 +12,8 @@ OK, so it's about a month after Ironman Switzerland and it's still on my mind. I
 
 The last month I've been trying (with limited success) to catch up on things and here we are nearly at the final blog entries about this race. If you've not read any so far, then here are links to what you've missed:
 
-- David - Race Reports - [Before The Race](/?p=668), [Swim](/?p=682),[Bike](/?p=702),[Run](/?p=724)
-- Sharon - "A Sherpa's Musings" -[part 1](/?p=663),[part 2](/?p=749)
+- David - Race Reports - [Before The Race](/2009/07/ironman-switzerland-2009-before-the-race/), [Swim](/2009/07/ironman-switzerland-2009-race-day-part-1/), [Bike](/2009/07/ironman-swizerland-2009-race-day-bike/), [Run](/2009/07/ironman-switzerland-2009-race-day-run/), [After](/2009/08/ironman-switzerland-race-day-after-i-finished/)
+- Sharon - "A Sherpa's Musings" -[part 1](/2009/07/ironman-switzerland-a-sherpas-musings/), [part 2](/2009/07/ironman-switzerland-a-sherpas-musings-part-2/)
 
 After I finished the race, got myself hydrated, fed, phoned my mum and dad and generally walked around with a bloody great smile on my face it was time to get supporting the rest of the pirates out there on the course. There were plenty out there and I wanted to help push them towards their own 'victory' for the day.
 

@@ -10,7 +10,7 @@ author:
 
 Its been a while since I've mentioned the London Marathon here on this site so it's time for an update. I have an entry to this years London Marathon, being held on 26 April, and the journey so far has been a little frustrating to say the least. It all stems back to September 2008 when I twisted my ankle on a Sunday long run.
 
-On 8 March I just about [managed a 13 mile run](/?p=476) but ended up hobbling around with pain near my left knee for a few days following. Things were not looking great. However, the past few weeks things have picked up quite nicely. I've been stretching and massaging my injuries away and have managed some solid final weeks of training.
+On 8 March I just about [managed a 13 mile run](/2009/03/not-the-london-marathon-8-march-2009/) but ended up hobbling around with pain near my left knee for a few days following. Things were not looking great. However, the past few weeks things have picked up quite nicely. I've been stretching and massaging my injuries away and have managed some solid final weeks of training.
 
 Here's a summary of my training over the past two months:
 

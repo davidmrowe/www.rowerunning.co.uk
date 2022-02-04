@@ -8,7 +8,7 @@ author:
   - "david"
 ---
 
-After the [first race](/?p=847) of the Surrey League fixtures a few weeks ago I was looking forward to getting muddy again. My plan was not to run any parkrun events in the morning to save myself for the Surrey League race but as you'll read on my [Bromley parkrun entry](/?p=905), that didn't quite happen this time! Oops.
+After the [first race](/2009/10/surrey-league-cross-country-200910-series-race-one-10-october-2009/) of the Surrey League fixtures a few weeks ago I was looking forward to getting muddy again. My plan was not to run any parkrun events in the morning to save myself for the Surrey League race but as you'll read on my [Bromley parkrun entry](/2009/11/bromley-parkrun-14-november-2009/), that didn't quite happen this time! Oops.
 
 After arriving with plenty of time at Coulsdon (ie., about 3.5 hours before the start!) I toured the town centre - and made full use of the library and the local Caf&eacute; Nero. After out-staying my welcome at the coffee shop I headed to the car to fetch my running gear and to go sign on at the South London Harriers clubhouse. At this point the weather was abysmal - pouring with rain and blowing a gale. Much like conditions at the earlier parkrun.
 

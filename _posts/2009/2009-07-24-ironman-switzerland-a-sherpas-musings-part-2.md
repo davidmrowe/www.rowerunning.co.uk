@@ -7,8 +7,7 @@ categories:
 author: 
   - "sharon"
 ---
-
-This is the second part of my musings from Ironman Switzerland. If you've not seen it, [please feel free to read part one](/?p=663). If you choose to read the rest of this entry, then be warned - it's fairly self-indulgent.
+This is the second part of my musings from Ironman Switzerland. If you've not seen it, [please feel free to read part one](/2009/07/ironman-switzerland-a-sherpas-musings/). If you choose to read the rest of this entry, then be warned - it's fairly self-indulgent.
 
 The adventure had begun back in May last year when I sent a text message to Nicola saying, "David says he will enter Ironman if you do". They obviously did. The training began in earnest at the start of the year, despite the weather. Since then I have definitely perfected the bike ride flapjack recipe!
 

@@ -8,7 +8,7 @@ author:
   - "david"
 ---
 
-In 2007 I took part in this Ranelagh Harriers organised run for the first time and I'd been looking forward to this years event for some time (read the [2007 report](/?p=118) for the history of this special run). On Tuesday night (1 July) the weather was absolutely beautiful with temperatures in the high 20's.
+In 2007 I took part in this Ranelagh Harriers organised run for the first time and I'd been looking forward to this years event for some time (read the [2007 report](/2007/06/20-ponds-run-2007/) for the history of this special run). On Tuesday night (1 July) the weather was absolutely beautiful with temperatures in the high 20's.
 
 Last year I ran with the 'not quite the fast group' but this year I'd planned to go with the faster group. We started out as a group of about 15 of us (we were also graced with the presence in our group of Hugh Jones - winner of the 1982 London Marathon with a time of 2:09:24), and my aim was to stick close to Chris O. - who led the fast group last year and seems to know Richmond Park like the back of his hand.
 

@@ -13,7 +13,7 @@ So, trying out different parkrun's seems to be becoming a bit of a habit now... 
 
 After a lot of overnight rain the weather cleared up, but there was plenty of evidence on the ground - many of the paths were waterlogged! If you look at the [course map](http://www.parkrun.org.uk/south-manchester/Course.aspx) at the parkrun website your head will probably be spinning with confusion trying to remember the course. However, the course was superbly marked and marshalled, so there was never any chance of taking a wrong turn.
 
-After last [weekends Epsom 10 miler when I hobbled home in pain](/?p=921) this past week has been interesting. On Monday and Tuesday the only way for me to get down the stairs was sat on my backside and sliding down the stairs one by one. Things have made a lot of improvement since then and I'm walking fairly normally now, although still feel some pain in my left foot when walking.
+After last [weekends Epsom 10 miler when I hobbled home in pain](/2009/11/epsom-10-22-november-2009/) this past week has been interesting. On Monday and Tuesday the only way for me to get down the stairs was sat on my backside and sliding down the stairs one by one. Things have made a lot of improvement since then and I'm walking fairly normally now, although still feel some pain in my left foot when walking.
 
 My plan for today was to just get round the course. I'd threatened to run with Sharon - which I thought she'd enjoy as its our 11 year wedding anniversary today - but she didn't want any of it!!!
 

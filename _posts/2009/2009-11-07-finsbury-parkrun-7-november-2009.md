@@ -9,7 +9,7 @@ author:
   - "david"
 ---
 
-Last week Sharon and I ran at [Gorleston Cliffs parkrun](/?p=879) and this week we'd arranged to try another [parkrun - this one being at Finsbury Park in North London](http://parkrun.org.uk/finsbury/). The event started last week (this was event #2) and after an early start Sharon, Kirsty and myself jumped on the Piccadilly Line and 22 stops later we were at Finsbury Park.
+Last week Sharon and I ran at [Gorleston Cliffs parkrun](2009/11/gorleston-cliffs-parkrun-31-october-2009/) and this week we'd arranged to try another [parkrun - this one being at Finsbury Park in North London](http://parkrun.org.uk/finsbury/). The event started last week (this was event #2) and after an early start Sharon, Kirsty and myself jumped on the Piccadilly Line and 22 stops later we were at Finsbury Park.
 
 The parkrun is so easy to get to - within five minutes walk from the station you're at the start area. After a quick toilet stop (I snuck into the ladies as the gents were disgusting!), a warm up and saying hello to our friend C&eacute;line who was running her first parkrun it was time to get started.
 

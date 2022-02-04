@@ -9,7 +9,7 @@ author:
   - "david"
 ---
 
-Earlier this year I purchased a road racing bike (a lovely [Specialized Roubaix Elite Compact](http://www.specialized.com/bc/SBCBkModel.jsp?a=b&minisite=10028&spid=33106&language=US)) and I've been trying to get some decent rides in as part of my triathlon training. Back in June I entered my first official middle-distance (comparable to Half Ironman distance - 1.2m swim, 56m bike, 13.1m run) triathlon and loved it (partly because of the awesome 'pirate' support) - [read my Bala report for the background](/?p=366).
+Earlier this year I purchased a road racing bike (a lovely [Specialized Roubaix Elite Compact](http://www.specialized.com/bc/SBCBkModel.jsp?a=b&minisite=10028&spid=33106&language=US)) and I've been trying to get some decent rides in as part of my triathlon training. Back in June I entered my first official middle-distance (comparable to Half Ironman distance - 1.2m swim, 56m bike, 13.1m run) triathlon and loved it (partly because of the awesome 'pirate' support) - [read my Bala report for the background](/2008/06/bala-middle-distance-triathlon-8-june-2008/).
 
 In triathlon the longest discipline (duration and distance) is always the bike and because of that getting decent miles in is a must. From talking to a few people and from reading forums it's all about the bike - if you come off of the bike feeling 'fresh' (well, as fresh as can be expected!), then your run 'should' be alright. If you push too hard on the bike or are not 'bike fit' then you're doomed!
 

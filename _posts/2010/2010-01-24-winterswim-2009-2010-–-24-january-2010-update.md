@@ -8,7 +8,7 @@ author:
   - "david"
 ---
 
-After first writing about [#winterswim](/?p=892) at the start of November and a couple of posts since then I thought I'd give a quick update.
+After first writing about [#winterswim](/2009/11/winterswim-2009-2010-400m-time-trial/) at the start of November and a couple of posts since then I thought I'd give a quick update.
 
 The fortnightly challenges have continued and so far we've had to time ourselves over 400m, 100m, 400m, 200m, 400m, 800m and the current 'round' being another 400m.
 

@@ -12,7 +12,7 @@ The Ranelagh Harriers Page Cup is the second cross country handicap race of the 
 
 > "The Page Cup was first competed for in 1884, having been presented to the Club by W.C.Page. Unfortunately this trophy was stolen with others in 1976, and was never recovered. The present trophy was purchased with the insurance money, and engraved with the names of all past winners."
 
-I knew this was going to be tough - as I'd run a personal best time at [Bushy parkrun](/?p=826) in the morning (first time under 18 minutes - yay!) so the odds were highly against me and my tired legs.
+I knew this was going to be tough - as I'd run a personal best time at [Bushy parkrun](/2009/10/sub-18-thanks-to-a-little-pace-booty/) in the morning (first time under 18 minutes - yay!) so the odds were highly against me and my tired legs.
 
 Preparation for the run involved a (horrible) sandwich from M&S, and a snooze whilst reading the papers in Teddington Library!
 
@@ -29,6 +29,6 @@ As we approached the line there was a group of about three runners just ahead of
 
 My overall time for the 4.96 mile course was [32:03](http://www.ranelagh-harriers.com/results/091003h.html) - which put me in 21st position overall (out of 43), but more importantly to me - 10th fastest.
 
-I'd run the same course once before (in the form of the [2007 Coad Cup](/?p=131)) where I ran it in 32:20 - so I'm very happy with today's run being quicker considering the strong wind and my parkrun efforts this morning.
+I'd run the same course once before (in the form of the [2007 Coad Cup](/2007/07/ranelagh-harriers-coad-cup-2007/) where I ran it in 32:20 - so I'm very happy with today's run being quicker considering the strong wind and my parkrun efforts this morning.
 
 Things are going well at present and I've got some 'real' cross country racing coming up soon...

@@ -20,4 +20,4 @@ I stopped the Garmin as we got to the gate, before running down the hill back to
 
 It had been a bit of an adventure and I am very proud of our accomplishment. I will certainly aim to be doing this run next year - hopefully a bit faster! Perhaps with more planning beforehand too...
 
-For info, David's [notes from the same run can be read here](/?p=407).
+For info, David's [notes from the same run can be read here](/2008/07/ranelagh-harriers-20-ponds-run-2008/).

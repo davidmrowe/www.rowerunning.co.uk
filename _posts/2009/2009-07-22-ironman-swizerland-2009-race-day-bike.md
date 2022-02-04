@@ -7,8 +7,7 @@ categories:
 author: 
   - "david"
 ---
-
-Firstly, if you've not seen the [pre-race](/?p=668) or [race day - swim](/?p=682) entries, feel free to do so to get a little background on how I got to here.
+Firstly, if you've not seen the [pre-race](/2009/07/ironman-switzerland-2009-before-the-race/) or [race day - swim](/2009/07/ironman-switzerland-2009-race-day-part-1/) entries, feel free to do so to get a little background on how I got to here.
 
 ![My bike, before its 112 mile ride through the Swiss countryside.](/images/2009/20090712-IMG_7002.jpg)
 *My bike, before its 112 mile ride through the Swiss countryside.*

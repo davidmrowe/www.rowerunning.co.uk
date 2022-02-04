@@ -8,7 +8,7 @@ author:
   - "david"
 ---
 
-Sharon and I are second claim members of [The Stragglers](http://www.stragglers.org/) running club and on Thursday evening it was their annual 10k members only race. I've not run this before (I think I was working away last year) and hadn't run a 10k since the [Bognor Prom](/?p=347) race in May. My recent running has been on form and I entered this with the aim of going at least sub-40 minutes - even though the course isn't particularly fast.
+Sharon and I are second claim members of [The Stragglers](http://www.stragglers.org/) running club and on Thursday evening it was their annual 10k members only race. I've not run this before (I think I was working away last year) and hadn't run a 10k since the [Bognor Prom](/2008/05/bognor-prom-10k-18-may-2008/) race in May. My recent running has been on form and I entered this with the aim of going at least sub-40 minutes - even though the course isn't particularly fast.
 
 Now when I say not fast I mean it - much of the race is held on the towpath running beside the Thames and after a downpour of rain in the afternoon there were big puddles everywhere. For much of the towpath I spent my time dodging the larger of the puddles which clearly slowed me down.
 

@@ -17,7 +17,7 @@ Although I was wearing my watch I chose to just run hard, ignore it completely a
 
 Needless to say I was very pleased with that and was happy to have a chat with Steve afterwards!
 
-Following the run it was the usual trip to the coffee shop and from there we went swimming where I timed myself over 400m (as I need to put an estimated 400m time down for a triathlon I'm entering in August). My time was 7:16 which was great (for me) and shows an [improvement of over over a minute](/?p=86) in the past year.
+Following the run it was the usual trip to the coffee shop and from there we went swimming where I timed myself over 400m (as I need to put an estimated 400m time down for a triathlon I'm entering in August). My time was 7:16 which was great (for me) and shows an improvement of over over a minute in the past year.
 
 ![](/images/2008/2008-07-05-bal_league_1.jpg)
 

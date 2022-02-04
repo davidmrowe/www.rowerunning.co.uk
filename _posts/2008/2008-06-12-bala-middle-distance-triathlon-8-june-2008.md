@@ -18,7 +18,7 @@ Just over a year ago I took part in my [first triathlon](/?p=103). Now it was ti
 
 Firstly, this report is long - very long, and secondly it is going to mention the word "Pirates" an awful lot! If you don't know who/what the pirates are, then I suggest you have a read of the [PSOF website](http://www.pirateshipoffools.co.uk/about.htm) and also this article at [Runners World](http://www.runnersworld.co.uk/news/article.asp?UAN=3205) - you'll then understand a little more about who we are...
 
-> ![](/images/2008/2008-06-08-bala_prep.jpg)
+![](/images/2008/2008-06-08-bala_prep.jpg)
 
 In the words that follow I'm going to refer to people by their forum names, so that people know who I'm talking about and also to protect the identities of these squashbuckling adventurers! Positions that I give in the report that relate to the pirates are based on the [results list](http://www.wrecsamtri.org.uk/High5/RaceResults2008/Results%202008%20index.htm) (the event was the Bala Middle Distance race) and those who put they club down as PSOF.
 

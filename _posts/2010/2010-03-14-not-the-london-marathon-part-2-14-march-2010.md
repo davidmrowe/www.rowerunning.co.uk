@@ -20,7 +20,7 @@ Today is not the London Marathon. The real London Marathon is in a few weeks tim
 - People can run as many laps as they like.
 - It's Not the London Marathon, cos it's not a race, it's not a marathon distance for everyone, and anyone can join in anytime.
 
-In [2009 Sharon and I took part](/?p=476) along with about 15 or so others and had a great time. Today we did it all again... At about 9am a group of 25 of us lined up at the start (ok, so there's 24 in the photo, but Tom Morgan turned up too late for the photo!) and started our watches. A few other runners joined in during the first 'lap.'
+In [2009 Sharon and I took part](/2009/03/not-the-london-marathon-8-march-2009/) along with about 15 or so others and had a great time. Today we did it all again... At about 9am a group of 25 of us lined up at the start (ok, so there's 24 in the photo, but Tom Morgan turned up too late for the photo!) and started our watches. A few other runners joined in during the first 'lap.'
 
 ![Not The London Marathon 2010](/images/2010/20100314-IMG_1603-sm.jpg)
 *Not The London Marathon 2010*

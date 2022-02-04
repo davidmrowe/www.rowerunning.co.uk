@@ -10,7 +10,7 @@ author:
 
 When you ride with a group of cyclists and turn onto a different road if it's safe to do so the lead cyclist will always shout "Clear" - today I learnt a new word.... "ICE!!!"
 
-In 2009 I took part in the Hell of the Ashdown cycle sportive event and after [cycling through a snow blizzard](/?p=469) I thought it couldn't get any worse...
+In 2009 I took part in the Hell of the Ashdown cycle sportive event and after [cycling through a snow blizzard](/2009/02/hell-of-ashdown-the-day-hell-froze-over-1-february-2009/) I thought it couldn't get any worse...
 
 This is a good season 'opener' for me in that it forces you to do some winter training on the bike otherwise it'll be a long horrible day in the saddle cycling 65 odd miles round the hills south-east of London. Thankfully I'd done a few rides so was ready for this.
 

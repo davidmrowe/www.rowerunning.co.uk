@@ -11,7 +11,7 @@ author:
 
 ![](/images/2009/2009-04-26-flm-1519.jpg)
 
-So, here we go, the 29th London Marathon and this time I'm running in it - my first ever marathon. I got accepted into the race in late 2007 but deferred my place until this year. You can read about my recent training in a [previous posting](/?p=507) but this is how the weekend unfolded... Saturday morning it was off to [Bushy parkrun](http://bushy.parkrun.com) where I was taking photos and generally trying to relax and take it easy. Followed by a catchup with some friends in Teddington then off to the parkrun HQ for a cuppa tea I headed home to do very little for the rest of the day other than get all my running gear together.
+So, here we go, the 29th London Marathon and this time I'm running in it - my first ever marathon. I got accepted into the race in late 2007 but deferred my place until this year. You can read about my recent training in a [previous posting](/2009/04/london-marathon-2009-training-two-weeks-and-counting/) but this is how the weekend unfolded... Saturday morning it was off to [Bushy parkrun](http://bushy.parkrun.com) where I was taking photos and generally trying to relax and take it easy. Followed by a catchup with some friends in Teddington then off to the parkrun HQ for a cuppa tea I headed home to do very little for the rest of the day other than get all my running gear together.
 
 I had no real nerves or worries on Saturday, managed to eat a mountain of pasta for dinner then went to bed about 10:30 with the alarm set for 5:45am.
 

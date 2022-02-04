@@ -30,6 +30,6 @@ By the time I got to the finish I was absolutely spent but very happy with how t
 
 My 5k run time (including transition) was 19:18 (8th fastest and 3rd in my age group) which after the pounding my legs took on the bike I was chuffed to bits with. Run wise the first km was run at 3:57 pace (although I went past the 1k sign in about 4:30 according to my watch!) and then my GPS splits were 3:39, 3:45, 3:45 and 3:42. This gives a time of 18:48 (GPS logged 3.1 miles) - one of my fastest 5k's in months! The extra time that makes up to my 'official' time includes bike-to-run transition and running through the car park onto the pavement (which is when I started my watch).
 
-Overall my finishing time was 1 hour 4 minutes and 55 seconds and I finished 15th overall (out of 330 finishers) and 5th in my age group. Looking back at [the same race in August 2008](/?p=421) I finished 20th overall in a time of 1:06:33. **Update:** final results were posted a week later and my position dropped to 17th.
+Overall my finishing time was 1 hour 4 minutes and 55 seconds and I finished 15th overall (out of 330 finishers) and 5th in my age group. Looking back at [the same race in August 2008](/2008/08/thames-turbo-triathlon-25-august-2008/) I finished 20th overall in a time of 1:06:33. **Update:** final results were posted a week later and my position dropped to 17th.
 
 Overall for a race I'd not planned to enter I really enjoyed doing a short incredibly tough workout (similar effort to a 10 mile running race) on what would normally be an easy training day.

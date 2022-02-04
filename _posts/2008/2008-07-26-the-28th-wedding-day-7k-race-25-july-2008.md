@@ -8,7 +8,7 @@ author:
   - "david"
 ---
 
-I ran this race last year for the first time so you can [read all about its history in my post from 2007](/?p=140). Last year the weather was wet (well, after the race anyhow) and this year was quite the opposite - sunny and warm. Now, a Friday night race (it starts at 7:30pm) is an interesting one and not the greatest thing to prepare for (especially after a big lunch and falling asleep on the tube journey home from central London!). Although I'd spent the last 11 days working in Copenhagen (restaurant meals every night isn't the best preparation either), I did manage to get a few good runs in which I was happy with.
+I ran this race last year for the first time so you can [read all about its history in my post from 2007](/2007/07/the-27th-wedding-day-7k-race/). Last year the weather was wet (well, after the race anyhow) and this year was quite the opposite - sunny and warm. Now, a Friday night race (it starts at 7:30pm) is an interesting one and not the greatest thing to prepare for (especially after a big lunch and falling asleep on the tube journey home from central London!). Although I'd spent the last 11 days working in Copenhagen (restaurant meals every night isn't the best preparation either), I did manage to get a few good runs in which I was happy with.
 
 A 7km race is always a strange one to pace - do you treat it like a 5k and then hang on for dear life till the end, or ease off and put the effort in later on. The other problem with a race like this - one with lots of fast runners - is that you're bound to bound to go fast, so you end up treating it like a 5k nomatter what you do!
 

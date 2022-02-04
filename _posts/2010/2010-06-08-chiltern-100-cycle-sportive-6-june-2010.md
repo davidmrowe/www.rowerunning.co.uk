@@ -8,7 +8,7 @@ author:
   - "david"
 ---
 
-After cycling this event in [2009](/?p=615) as part of my Ironman preparations I was back again for more fun in the hills this year. A tough 20 mile run on Friday followed by a swim and two 5k runs on Saturday ensured I was sufficiently knackered coming into this event. This is good for me (apparently) and will make me stronger (apparently)!
+After cycling this event in [2009](/2009/06/chiltern-100-cycle-sportive-31-may-2009/) as part of my Ironman preparations I was back again for more fun in the hills this year. A tough 20 mile run on Friday followed by a swim and two 5k runs on Saturday ensured I was sufficiently knackered coming into this event. This is good for me (apparently) and will make me stronger (apparently)!
 
 A small group of us set off at about 8:25am for this 105 or so mile hilly ride. The weather was great - cloudy, a light breeze and not too hot.
 

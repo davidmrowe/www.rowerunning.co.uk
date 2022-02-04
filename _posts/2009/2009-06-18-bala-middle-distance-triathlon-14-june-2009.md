@@ -9,7 +9,7 @@ author:
   - "david"
 ---
 
-In [2008](/?p=366) I entered the Bala Middle Distance Triathlon as my first half-ironman distance (2k swim, 78.5k bike, 20k run) or there abouts event. This year I came back for more...
+In [2008](/2008/06/bala-middle-distance-triathlon-8-june-2008/) I entered the Bala Middle Distance Triathlon as my first half-ironman distance (2k swim, 78.5k bike, 20k run) or there abouts event. This year I came back for more...
 
 The day before the race we headed to the lake for a quick dip in the lake. The wind had whipped up some waves in the lake and I didn't enjoy the swim at all. Swimming into the windblown chop was hard work and I found it virtually impossible to get any sort of rhythm in place. In one mind I hoped that on race day it would be calm water (like in 2008), but then again if it was rough then it would be good practice in difficult condition for Ironman Zurich in a few weeks time.
 

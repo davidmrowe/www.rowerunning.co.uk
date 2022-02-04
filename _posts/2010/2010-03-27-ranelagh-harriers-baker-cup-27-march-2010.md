@@ -8,9 +8,9 @@ author:
   - "david"
 ---
 
-After running [Kingston parkrun](/?p=993) in the morning and clocking just under 80 miles on the bike between 10am and 3pm it was time for my first 'brick' (bike-to-run) session of the season!
+After running [Kingston parkrun](/2010/03/kingston-parkrun-27-march-2010/) in the morning and clocking just under 80 miles on the bike between 10am and 3pm it was time for my first 'brick' (bike-to-run) session of the season!
 
-In [2009](/?p=496) I did a similar thing by getting a few miles in on the bike before the Baker Cup race but this time I chose to pace my run a little better and not blow up in the second half.
+In [2009](/2009/04/ranelagh-harriers-baker-cup-2009/) I did a similar thing by getting a few miles in on the bike before the Baker Cup race but this time I chose to pace my run a little better and not blow up in the second half.
 
 As we lined up at the start based on handicap timings I was horrified to see where they'd put me - I'd been screwed up good and proper! I was not impressed to be starting 20 seconds after club ladies captain Marie and knew I'd have a tough time trying to not be last!
 

@@ -8,7 +8,7 @@ author:
   - "david"
 ---
 
-I've been looking forward to this race for two years. Why two years? Well, [I ran it for the first time in 2007](/?p=223) and couldn't wait to run it again. The weather was meant to be terrible but it actually held out pretty well. We'd had lots of rain during the previous days so the ground was going to be soft and this meant I was back in my cross country spikes again - this time for approximately 7.5 miles round Wimbledon Common.
+I've been looking forward to this race for two years. Why two years? Well, [I ran it for the first time in 2007](/2007/11/ranelagh-harriers-mob-match-vs-thames-hare-and-hounds-2007/) and couldn't wait to run it again. The weather was meant to be terrible but it actually held out pretty well. We'd had lots of rain during the previous days so the ground was going to be soft and this meant I was back in my cross country spikes again - this time for approximately 7.5 miles round Wimbledon Common.
 
 Ranelagh fielded a massive 60 runners (although one didn't finish) to Thames' 34 which put us in a great position - meaning that almost all of Thames' runners would count in the scoring, but only the fastest Ranelagh runners would count.
 

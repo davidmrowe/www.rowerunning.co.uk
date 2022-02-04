@@ -13,8 +13,8 @@ author:
 
 Once again, if you've not seen/read the other posts from Ironman Switzerland 2009 then here's the links:
 
-- David - Race Reports - [Before The Race](/?p=668), [Swim](/?p=682),[Bike](/?p=702),[Run](/?p=724), [After](/?p=765)
-- Sharon - "A Sherpa's Musings" -[part 1](/?p=663),[part 2](/?p=749)
+- David - Race Reports - [Before The Race](/2009/07/ironman-switzerland-2009-before-the-race/), [Swim](/2009/07/ironman-switzerland-2009-race-day-part-1/), [Bike](/2009/07/ironman-swizerland-2009-race-day-bike/), [Run](/2009/07/ironman-switzerland-2009-race-day-run/), [After](/2009/08/ironman-switzerland-race-day-after-i-finished/)
+- Sharon - "A Sherpa's Musings" -[part 1](/2009/07/ironman-switzerland-a-sherpas-musings/), [part 2](/2009/07/ironman-switzerland-a-sherpas-musings-part-2/)
 
 So, Monday morning and I was expected to be unable to walk, just as I was the day after the London Marathon in April - but today, this was not the case. I actually didn't feel too bad. I could walk up and down stairs (albeit slowly) but nothing like I was in April. I'm guessing this is related to everything being just a little slower on the day (the aim isn't to destroy your muscles - just use them for a long long time) and also the large amounts of training that I'd put into the race.
 

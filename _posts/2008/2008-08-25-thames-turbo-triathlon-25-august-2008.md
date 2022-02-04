@@ -34,6 +34,6 @@ Just after 2km and 4.5km I ran past my 'support crew' of Sharon (obviously!), Ki
 
 My overall position was 20th (although the results are currently provisional) which is a massive improvement on last years 37th.
 
-Looking back at my [blog post from the same race in 2007](/?p=160) I wrote: "My aim for next year is to break into the top 25 or 30 which I believe I'm capable of." Well, that's clearly crossed off of the list :)
+Looking back at my [blog post from the same race in 2007](/2007/08/thames-turbo-triathlon-27-august-2007/) I wrote: "My aim for next year is to break into the top 25 or 30 which I believe I'm capable of." Well, that's clearly crossed off of the list :)
 
 A number of [photos from the race can be found at Sharon's photo gallery website](http://sharonrowe.co.uk/photos/2008/72157606951498715/). A couple of 'official' photos of me 'putting some effort in' can be found at the [sportcam.net website](http://sportcam.net/CompetitorSearch.aspx?RId=77) (just search for 'Rowe').

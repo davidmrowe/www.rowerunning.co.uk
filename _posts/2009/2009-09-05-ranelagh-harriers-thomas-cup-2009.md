@@ -11,7 +11,7 @@ author:
 
 A sunny but breezy Saturday afternoon heralded the opening run of the 129th season of [Ranelagh Harriers](http://www.ranelagh-harriers.com/) running club. After gathering for the traditional [club photograph](http://www.ranelagh-harriers.com/openrun09.html), we headed up to the start of the Thomas Cup - a 3.9 mile(ish) handicap race in Richmond Park.
 
-I (David) have run this race once before ([in 2007](/?p=174)) and wasn't sure how things would go today - after running a pretty solid 18:55 at the Bushy parkrun 5k in the morning (in 2007 I ran the 5k in 18:48).
+I (David) have run this race once before ([in 2007](/2007/09/ranelagh-harriers-thomas-cup-2007/) and wasn't sure how things would go today - after running a pretty solid 18:55 at the Bushy parkrun 5k in the morning (in 2007 I ran the 5k in 18:48).
 
 I believe my handicap (starting time) wasn't particularly favourable for me but there's no use complaining - just get on with it and run as best as possible. I set off with Chris O. and within a few minutes I was overtaken by three of the faster club runners (one of which I caught up with just before the finish).
 

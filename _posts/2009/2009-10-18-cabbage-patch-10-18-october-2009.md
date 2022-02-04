@@ -13,9 +13,9 @@ So here we are, another year later, and its one of my favourite races - the Cabb
 
 This is the fourth year I've run the race, and my history had been 'blogged' on the site as follows:
 
-- [2006](/?p=10) - 71:47 - 289th out of 1396
-- [2007](/?p=198) - 63:09 - 89th out of 1447
-- [2008](/?p=442) - 66:02 - 170th out of 1482
+- [2006](/2006/10/cabbage-patch-results/) - 71:47 - 289th out of 1396
+- [2007](/2007/10/cabbage-patch-10-david/) - 63:09 - 89th out of 1447
+- [2008](/2008/10/cabbage-patch-10-19-october-2008/) - 66:02 - 170th out of 1482
 
 My running recently has been going well. I've not been doing huge amounts (normally about 30-35 miles per week) but I've had some great results recently over 5k, so now its time to get faster over longer distances, which is something I need to get better at.
 

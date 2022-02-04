@@ -14,7 +14,7 @@ As is becoming customary, its time for a quick look back at 2009. I'm writing th
 
 Injury once again reared its ugly head. Running may be great for fitness but it really can hurt at times! Aside from avoiding injury as much as possible, the main aim for 2009 was my first Ironman triathlon - a 2.4 mile swim, followed by a (short!) 112 mile bike ride, topped off by a 26.2 mile marathon run. Easy huh!
 
-Prior to this I had an entry into April's London Marathon to prepare for. Towards the end of January I was getting some ITB grief which turned into general knee pain in my left leg. This made my marathon training tougher as I wasn't able to do anywhere near as much training as I had wanted to. I just about squeezed in three runs of over 20 miles and as I lined up on the start line with over 35,500 other runners at the end of April I just had to get on with it. I finished in a time of 3 hours 19 minutes and 46 seconds - a time that I was very happy with - especially for my first marathon - although I know I can run quicker and a sub 3 hour time is in me (somewhere). My [London Marathon report](/?p=525) can be found elsewhere on this site.
+Prior to this I had an entry into April's London Marathon to prepare for. Towards the end of January I was getting some ITB grief which turned into general knee pain in my left leg. This made my marathon training tougher as I wasn't able to do anywhere near as much training as I had wanted to. I just about squeezed in three runs of over 20 miles and as I lined up on the start line with over 35,500 other runners at the end of April I just had to get on with it. I finished in a time of 3 hours 19 minutes and 46 seconds - a time that I was very happy with - especially for my first marathon - although I know I can run quicker and a sub 3 hour time is in me (somewhere). My [London Marathon report](/2009/04/london-marathon-2009/) can be found elsewhere on this site.
 
 I recovered from London pretty quickly - which was just as well as I had to train for the Ironman in mid-July. In addition to plenty of running, I was also putting lots of time in on my bike, with a number of 80-100 mile bike rides from the start of May. My swimming was coming along as well and from an exercise point of view all was good. My priority was on multi-discipline rather than just running, and I think partly because of this I just missed out on going sub-40 minutes at the Bognor Regis 10k in May (my favourite race).
 
@@ -22,11 +22,11 @@ During the spring, Saturday mornings mostly consisted of a lake swim followed by
 
 A couple of weeks later I finished in under 5 hours at the Bala middle distance triathlon in Wales which I was chuffed to bits with - the race was tough but fun - tough during the race but fun once I'd finished!
 
-July was Ironman time and I had a suberb race, clocking 10 hours 37 overall and a 3:46 marathon (after the swim and bike). On our return from Zurich [I wrote a very lengthy report](/?p=776) about it all.
+July was Ironman time and I had a suberb race, clocking 10 hours 37 overall and a 3:46 marathon (after the swim and bike). On our return from Zurich [I wrote a very lengthy report](/ironman-switzerland-2009-before-the-race/) about it all.
 
 During the Autumn I was back concentrating more on parkrun 5k racing (i.e., races that last minutes and not over 10 hours!) and at the start of October got a new personal best (first one in 2 years) of 17 minutes 53. I've not yet dipped again under 18 minutes - because of injury and other races taking priority.
 
-As we moved into the Winter cross country season this was something that I was really looking forward to - challenging running which could only make me stronger - or break me! As I write this now I'm not sure what it's done - it was fantastic with my fitness but I'm a little broken at present (read the [Epsom 10 report](/?p=921) for more background).
+As we moved into the Winter cross country season this was something that I was really looking forward to - challenging running which could only make me stronger - or break me! As I write this now I'm not sure what it's done - it was fantastic with my fitness but I'm a little broken at present (read the [Epsom 10 report](/2009/11/epsom-10-22-november-2009/) for more background).
 
 At the end of November I decided to take a few weeks off of running - to try and sort out my left foot. Right now I'm going to give it a few more days before attempting an easy run - and that will be on soft grass as much as possible.
 

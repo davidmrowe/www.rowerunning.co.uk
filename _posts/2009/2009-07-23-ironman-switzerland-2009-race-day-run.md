@@ -7,8 +7,7 @@ categories:
 author: 
   - "david"
 ---
-
-Firstly, if you've not seen the [pre-race](../?p=668), [swim](../?p=682) or [bike](/?p=702) entries, feel free to do so to get a little background on how I got to here.
+Firstly, if you've not seen the [pre-race](/2009/07/ironman-switzerland-2009-before-the-race/), [swim](/2009/07/ironman-switzerland-2009-race-day-part-1/) or [bike](/2009/07/ironman-swizerland-2009-race-day-bike/) entries, feel free to do so to get a little background on how I got to here.
 
 So off of the bike and onto the run - just a 26.2 mile marathon to get round, and I knew my legs were warmed up for it after the 112 mile bike ride I'd just completed!
 
