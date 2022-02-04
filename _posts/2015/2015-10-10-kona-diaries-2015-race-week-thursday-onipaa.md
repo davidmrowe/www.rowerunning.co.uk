@@ -45,7 +45,7 @@ I saw Katie (the volunteer) again. It was her birthday. She almost got to see me
 
 After the run had finished a few of us found a chap who was handing out free stuff. I ought to take a look. Oh, I got given a lovely 'wife-beater' vest with'Moments of Kona' on the front. [Moments of Kona](http://www.momentsofsport.com/kona/) is a great website with some fantastic photos of the build-up to this great race. I'm sure half the people grabbing the freebie have no idea what it was all about.
 
-![Bob Babbitt (Elvis) and me looking half naked (for a change!)](/images/2015/20151008-0239455-600x800.jpg) 
+![Bob Babbitt (Elvis) and me looking half naked (for a change!)](/images/2015/20151008-0239455.jpg) 
 *Bob Babbitt (Elvis) and me looking half naked (for a change!)*
 
 ![The finishing straight is starting to be transformed](/images/2015/20151008-0079198.jpg) 

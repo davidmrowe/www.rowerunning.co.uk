@@ -9,7 +9,7 @@ author:
   - "david"
 ---
 
-![20131002-3685](/images/2013/20131002-3685-112x150.jpg)After last nights pre-race dinner practice this morning it was time for breakfast practice. We found a big tub of 'rice pudding in the supermarket the other day so I gave that a go. It was lovely. That's it - race day breakfast is sorted!
+![20131002-3685](/images/2013/20131002-3685.jpg)After last nights pre-race dinner practice this morning it was time for breakfast practice. We found a big tub of 'rice pudding in the supermarket the other day so I gave that a go. It was lovely. That's it - race day breakfast is sorted!
 
 I then sorted out my bike for todays ride (stacked up with drinks bottles, energy gels and bars) and headed to Lava Java to meet up with Declan. He lives about three miles away from us in West London but I had to travel round the other side of the world to go for a bike ride with him! What the....
 
@@ -30,7 +30,7 @@ We pushed fairly hard back down to Kawaihae where we stopped again but this time
 
 > Shaving produces a very fine ice that appears snow-like. This extremely fine texture causes syrups added to it to be absorbed by the ice rather than simply surrounding. A properly made shave ice product rarely requires a straw, since the flavours are in the ice and not at the bottom of the cup. Although the traditional American flavours are common, shave ice in Hawai'i is often flavoured with local ingredients such as guava, pineapple, coconut cream, passion fruit, li hing mui, lychee, kiwi fruit and mango.
 
-![20131002-3681](/images/2013/20131002-3681-299x400.jpg)I went for coconut flavour and it was amazing. Yes, amazing! I've read about shave ice drinks in the guidebook we have but not had one until now. Oh boy I've been missing out big time!
+![20131002-3681](/images/2013/20131002-3681.jpg)I went for coconut flavour and it was amazing. Yes, amazing! I've read about shave ice drinks in the guidebook we have but not had one until now. Oh boy I've been missing out big time!
 
 OK... back on the road again. The sun was shining and Declans GPS (which measures temperature) said it was 36 degrees (or 97 fahrenheit). It was warm out there, that's for sure. We decided to make a little detour on the way back, and about 25 miles from Kona we stopped at the posh shopping area on Waikoloa Beach Drive and bought some fried chicken (and another coke). This was an excellent lunch choice!
 

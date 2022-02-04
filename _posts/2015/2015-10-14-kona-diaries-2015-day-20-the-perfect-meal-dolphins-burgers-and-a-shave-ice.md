@@ -87,6 +87,6 @@ I went for a shave ice with chocolate mac-nut ice cream in the middle with flavo
 
 It truly is a delicious snack and I think I may be turning into a shave ice....
 
-![20151013-7638](/images/2015/20151013-7638-543x800.jpg)
+![20151013-7638](/images/2015/20151013-7638.jpg)
 
 Back home in time for a dip in the pool, a beautiful sunset and a good crack at finishing the beers in the fridge as we think about heading back to the UKin a couple of days time.

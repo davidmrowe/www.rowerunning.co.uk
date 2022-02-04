@@ -33,7 +33,7 @@ As I knew many of them I got tons of support from the marshals on course. It was
 
 Heading alongside the Woodland Gardens at about 4.5k we caught up with Peter F. from Ranelagh. I told him to 'stick with us' - which he did (not for long though mind!). I went through 5k in just over 18 minutes so I knew the final 2k would be tough. The young lady I was trying to run with made a gap just before 6k and I couldn't close it down. The 'elastic' had snapped.
 
-![Photo: Katrin Kroschinski, http://www.fire-passion.co.uk/](/images/2013/2013-07-wedding-day-finish-267x400.jpg) 
+![Photo: Katrin Kroschinski, http://www.fire-passion.co.uk/](/images/2013/2013-07-wedding-day-finish.jpg) 
 *Photo: Katrin Kroschinski, http://www.fire-passion.co.uk/*
 
 From here to the finish it was just a case of getting there as quickly as possible. Rounding the last 'bend' before the final 600m or so there was loads of support which really helped. I ran back onto the grass, pushed hard, got overtaken by someone pushing harder (damn!) and 'raced' through the finish to get a time of 26:07 and 17th overall. This is both a one second PB at the race and my best finishing position. I also finished 3rd in the V40 category. My mile average pace splits (it measured 4.4 miles) according to my GPS were 5:45, 5:55, 5:52, 5:59 and 5:54 - pretty consistent there. Looking at my [stats at my running club website for local league road races](http://www.ranelagh-harriers.com/ranelaghstats/roadrecs/265_ag_r.html) this was my best ever performance running for the club. I'm still not that quick, but I'm not too shabby either!

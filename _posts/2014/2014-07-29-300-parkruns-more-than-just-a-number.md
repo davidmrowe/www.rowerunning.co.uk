@@ -12,7 +12,7 @@ A few weeks ago I was asked by the event director at thewonderful Bognor Regis p
 
 Come 19 July I stood at the run briefing where Ben, the run director announced that it was my 300th parkrun. After a round of applause he continued... Hmn.
 
-![20140719-david](/images/2014/20140719-david-299x400.jpg)Now if you google '300' the top results are related to the film of the same name about theBattle of Thermopylae and the '300 Spartans' - well, that gave Ben and Jason from parkrun an idea and the next thing it was announced that I'd be running in a spartan outfit (followed by laughter from all around). Kim suddenly appeared with a hat, sword and cape. I thought I looked quite the part!
+![20140719-david](/images/2014/20140719-david.jpg)Now if you google '300' the top results are related to the film of the same name about theBattle of Thermopylae and the '300 Spartans' - well, that gave Ben and Jason from parkrun an idea and the next thing it was announced that I'd be running in a spartan outfit (followed by laughter from all around). Kim suddenly appeared with a hat, sword and cape. I thought I looked quite the part!
 
 Before long the run briefing was over and it was time for me to shuffle to the back and hide. Of course not, I was told I had to start front row in the middle. Lovely!
 

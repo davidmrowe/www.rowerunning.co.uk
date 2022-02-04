@@ -14,13 +14,17 @@ The weather has fine with some cloud but the strong winds we had last night had 
 
 It's a two lap course (each lap about 1.9km) and my plan was to swim a single lap. The last time I swum was a few days before Christmas so lets just say that my swim training hasn't been that great! I won't keep trying to think of excuses. I just need to get on with it. Once I'm out of the water on race day I'll be happy to just get onto the bike. Then I can start to enjoy myself!
 
-![](/images/2012/20120118-20120118-3987-400x266.jpg "20120118-20120118-3987")I got into my wetsuit - which I last wore at the Vitruvian Triathlon in 2010 (yes, about 16 months ago) and it still fits just fine. It's not the perfect racing wetsuit (it's a bottom of the range 2XU suit that cost 100 pounds new a few years ago but its good enough for now) and after registering (so they could check that the same number of swimmers getting into the lake got out later!) headed to the briefing close to the waters edge.
+![](/images/2012/20120118-20120118-3987.jpg)
+
+I got into my wetsuit - which I last wore at the Vitruvian Triathlon in 2010 (yes, about 16 months ago) and it still fits just fine. It's not the perfect racing wetsuit (it's a bottom of the range 2XU suit that cost 100 pounds new a few years ago but its good enough for now) and after registering (so they could check that the same number of swimmers getting into the lake got out later!) headed to the briefing close to the waters edge.
 
 After the briefing we headed to the water and set off at our own pace towards the first turn buoy - about 625 metres offshore.
 
 It was bloody horrible. There was a lot of chop in the water and it was hard to get used to the cold water. On the plus side the visibility was great and the water was lovely to drink! I really didn't enjoy the swim to the first marker buoy.
 
 Once we reached the buoy and swam side on to the waves it got a lot better. I was in a much happier place, it wasn't too busy and from here I just got on with it. Round the next couple of turn buoys and then I headed back in towards the beach.
+
+![](/images/2012/20120118-20120118-3990.jpg)
 
 I got to the beach in a little under 35 minutes which I considering the conditions I was quite happy with. If the weather is the same on race day I'd hope to complete the swim in around 1 hour 10 and anything quicker would be a big bonus. A lovely calm lake is what I'd love to be greeted by on Saturday but sods law means a storm will come over the lake on Friday night just to make things tough!
 

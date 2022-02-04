@@ -28,7 +28,7 @@ During the past day or so my lower legs and ankles have been swelling up nicely 
 
 We didn't do much else in the afternoon until later on when we headed into town. We stopped at Lava Java and met up with a few others. I didn't feel hungry but managed to scoff down a rather large burger and chips.
 
-![20131014-3918](/images/2013/20131014-3918-299x400.jpg)
+![20131014-3918](/images/2013/20131014-3918.jpg)
 
 Tonights sunset was superb. Absolutely fantastic. When the locals as well as the tourists stop their cars to take photos it must be a good-un.
 

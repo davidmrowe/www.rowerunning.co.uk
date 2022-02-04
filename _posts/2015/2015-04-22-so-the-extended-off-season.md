@@ -11,7 +11,7 @@ author:
 
 Had it not been for my fantastic day at Ironman Wales in September 2014 I very much doubt that I would be doing an Ironman race this year. I'm happy that I'm only going to be doing one Ironman in 2015 - Hawaii. I love the events but the racing is tough - real tough and I'm not a huge fan of going into a pain cave for so long! I think I'll be able to manage it in Kona mind you!
 
-![Home Sweet Home (not the bench, just the general area!)](/images/2015/20150422-6572-299x400.jpg) 
+![Home Sweet Home (not the bench, just the general area!)](/images/2015/20150422-6572.jpg) 
 *Home Sweet Home (not the bench, just the general area!)*
 
 In addition to knowing the pain of Ironman, I'm loving living down by the coast and just enjoying living here in our lovely home by the sea. Sometimes I'd rather be doing stuff around the house, walking along the promenade or going out windsurfing than putting in hours on the bike.

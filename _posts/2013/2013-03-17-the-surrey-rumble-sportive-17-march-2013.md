@@ -12,7 +12,7 @@ As part of my triathlon training getting long bike rides in is just one of the '
 
 The weather forecast wasn't looking great and unfortunately the forecast was pretty accurate! Within about two minutes of leaving home it started to rain. Occasionally it stopped but for the most part of the ride it just rained. And rained.
 
-![](/images/2013/2013-03-17-surrey-rumble-weather-640x251.png "2013-03-17-surrey-rumble-weather")
+![](/images/2013/2013-03-17-surrey-rumble-weather.png "2013-03-17-surrey-rumble-weather")
 
 I arrived at the start/finish HQ and got my number to affix to the bike and also a map of the route. I had loaded it all previously into my bike GPS so I was all set and didn't need to refer to the map at all. Shortly before 9am I set off into yet more pouring rain.
 

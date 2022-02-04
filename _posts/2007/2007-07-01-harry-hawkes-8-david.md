@@ -21,3 +21,5 @@ There wasn't much support on the course although the cheers from Andy B from Ran
 I drafted a little during the windy sections which helped me through and then I just pushed on to the finish. My final time was 52:53 which put me in 43rd place overall (out of 375 finishers). I am really happy with this result although based on my 5k times I do know that I should be much quicker over these longer distances. I know what I need to do (run more miles in training) so I'll try and do this to get my times improving. For info my average heart rate was 170 beats per minute and it peaked at 184 during the final mile.
 
 This is one of the races that forms part of the [Ranelagh Road Grand Prix 2007](http://www.ranelagh-harriers.com/gp.html) and after 7 events (I've run only 5 of them) I'm in joint third place. There's three more races in the series to run and as its the best 8 races to count, then the positions will probably start to move around as the events reach their conclusion in mid-August.
+
+![](/images/2007/20070701-harry_hawkes_8.jpg)

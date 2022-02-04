@@ -9,7 +9,7 @@ author:
   - "david"
 ---
 
-![2013-08-kona-registration](/images/2013/2013-08-kona-registration-342x400.jpg)The first two weeks after Ironman UK I didn't have best nights sleep. The feeling of shock after qualifying for Kona is slowly subsiding - normally every time I get my credit card out! Here's an idea of what I've forked out on the past two and a half weeks...
+![2013-08-kona-registration](/images/2013/2013-08-kona-registration.jpg)The first two weeks after Ironman UK I didn't have best nights sleep. The feeling of shock after qualifying for Kona is slowly subsiding - normally every time I get my credit card out! Here's an idea of what I've forked out on the past two and a half weeks...
 
 - Flights (+ extra legroom), accommodation, hire car, USA triathlon license, race photos, pre and post-race banquet tickets for Sharon. I've also bought some new goggles, a swimskin (like a tri-suit but just for swimming), bike tires and a chain as well (I think I've got a new cassette in the loft so that'll go nicely with the chain).
 

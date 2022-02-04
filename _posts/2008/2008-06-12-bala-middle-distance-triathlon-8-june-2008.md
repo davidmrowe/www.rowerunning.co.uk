@@ -136,7 +136,9 @@ I didn't quite get to the halfway bit, I saw some Pirates sitting having lunch a
 
 ![](/images/2008/2008-06-08-bala_stuart_run.jpg)
 
-S![](/images/2008/2008-06-08-bala_after_lake.jpg)
+![](/images/2008/2008-06-08-bala_after_lake.jpg)
+
+![](/images/2008/2008-06-08-bala_stuart_david.jpg)
 
 I think the biggest cheer of the day was saved for Squishy. She got quite a greeting, let me tell you! I was very proud to be a teeny part of something so special. I know this is a bit "gushy" but I really mean it. The support that the Pirates offer each other (and others) is phenomenal. Truly fantastic. What a weekend. I fear, however, that I have lost Funkin to the dream of doing an Ironman...I guess being a triathlon widow isn't so bad after all...? Someone convince me :) Please...
 

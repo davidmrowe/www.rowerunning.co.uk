@@ -32,7 +32,7 @@ On the mens side of things we heard from World Champion Jan Frodeno, Timothy O'D
 
 ![20151011-7574](/images/2015/20151011-7574.jpg)
 
-![20151011-7580](/images/2015/20151011-7580-600x800.jpg)
+![20151011-7580](/images/2015/20151011-7580.jpg)
 
 Sharon and I then headed off to meet up with a couple of friends who were on Epic Camp in Canada last year. There's a group of 15 of them rending a lovely house right on Ali'i Drive and we had a lovely couple of hours with them (conversation, food, beer, swimming pool). All good.
 

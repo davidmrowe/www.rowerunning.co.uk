@@ -20,7 +20,7 @@ After registering (at the finishing area by Littlehampton Lifeboat Station) the 
 
 The weather was lovely - scattered cloudswith a bit of a breeze (although the high banks of the river should shelter us from most of the wind). No adverse weather conditions (unlike at [Ironman Wales](/2014/09/ironman-wales-2014/) last year) and a strong flowsounded like just what I needed.
 
-![325](/images/2015/SSP_AB_A000259-267x400.jpg)
+![325](/images/2015/SSP_AB_A000259.jpg)
 
 Afterthe briefing you make your way to the starting area and at this point the tide had only turned a few minutes before and you were ever so slightly drifting with it.
 
@@ -36,14 +36,14 @@ Although we were about 2.5 miles away from the sea the water was very salty and 
 
 Visibility underwater was very poor and I found drafting difficult because of this and the strong river flow. There was a little 'toe-tapping' going on but no full on open water kicking and punching - at least where I was.
 
-![11417770_10153483307651495_8671339034182441699_o](/images/2015/11417770_10153483307651495_8671339034182441699_o-605x372.jpg) 
+![11417770_10153483307651495_8671339034182441699_o](/images/2015/11417770_10153483307651495_8671339034182441699_o.jpg) 
 *Swim Start*
 
 All I did was swim as best I could with the fitness I had. The river was very nondescript for the first couple of miles. You don't know how far you've swum as the view of the bank is pretty much the same throughout. I was looking out for one thing - the road bridge at probably just over two miles into the race. Swim under the bridge and you're on the final straight.
 
 Towards the end I was overtaken by a handful of swimmers. I'd love to say that they probably found themselves in stronger currents but it's probably more about my technique not being so good after 40+ minutes of continuous swimming.
 
-![REP Arun Swim 2015 by SussexSportPhotography.com](/images/2015/SSP_BL_B007059-267x400.jpg)The next thing I found myself at the finishing ramp (at the Lifeboat Station) and that was it. Swim done.
+![REP Arun Swim 2015 by SussexSportPhotography.com](/images/2015/SSP_BL_B007059.jpg)The next thing I found myself at the finishing ramp (at the Lifeboat Station) and that was it. Swim done.
 
 I had no idea how long it had taken as I didn't bother to wear a watch or anything. The results were available online immediately and my time was 49 minutes 55 seconds. I knew it would be fast but wasn't expecting it to be this fast! I finished 111th out of 351 finishers so not bad. The winner finished in 39:49.
 
@@ -53,4 +53,4 @@ I don't really enjoy swimming much but I enjoyed this event a lot. Says somethin
 
 The day was rounded out by lunch at the local Wimpy restaurant and then a couple of hours windsurfing in the afternoon. Perfect!
 
-![20150613-postswim](/images/2015/20150613-postswim-269x400.jpg)
+![20150613-postswim](/images/2015/20150613-postswim.jpg)

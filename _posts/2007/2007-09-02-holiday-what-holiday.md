@@ -8,7 +8,9 @@ author:
   - "david"
 ---
 
-![2007-08-la_santa.jpg](/images/2007/2007-08-la_santa.jpg)A couple of weeks ago Sharon, myself and ten others went on a holiday to [Club La Santa](http://www.clublasanta.com/) in Lanzarote, which is around 100 miles west of Africa. Although advertised as a "sports and activity holiday" I think it was more like a triathlon training camp for me (David)!
+![2007-08-la_santa.jpg](/images/2007/2007-08-la_santa.jpg)
+
+A couple of weeks ago Sharon, myself and ten others went on a holiday to [Club La Santa](http://www.clublasanta.com/) in Lanzarote, which is around 100 miles west of Africa. Although advertised as a "sports and activity holiday" I think it was more like a triathlon training camp for me (David)!
 
 There were huge amounts of sports available, but the most compelling was the road bikes, running track and 50 metre olympic sized swimming pool. This was ideal training and preparation for the triathlon I had entered a few days after my return.
 

@@ -52,7 +52,7 @@ The ride started with a steady effort to the first aid station at about 52k. We 
 
 I started off slow, got slower but eventually found myself at the top after about 1 hour 15 of solid climbing. I overtook a couple of people on the way up (mainly because they were having a hard time of it having gone off a little quick) and once at the top I filled up my bottles, had a few crisps and cashew nuts, found some caffeine filled salt tablets and a pint or so of coke! We were only half way into the ride and had another 70k or so to go, but there was the promise of a lot of downhill.
 
-![20140820-profile](/images/2014/20140820-profile-605x161.png)
+![20140820-profile](/images/2014/20140820-profile.png)
 *20140820-profile*
 
 I grouped up with Phil and Leah and we set off at a 'gentle to steady' pace. No heroics today for any of us.

@@ -18,7 +18,7 @@ Well... here I am. I've been on the start line. I've swum 2.4 miles. I've ridden
 
 Coming out of transition the crowds were amazing. So much cheering. I was grinning from ear to ear!
 
-![Photo: Vicki Painter](/images/2013/20131002-mile1-533x800.jpg) 
+![Photo: Vicki Painter](/images/2013/20131002-mile1.jpg) 
 *Photo: Vicki Painter*
 
 The run route breaks itself down quite nicely...
@@ -34,7 +34,7 @@ The run route breaks itself down quite nicely...
 
 The run course is pretty good for spectating in Kona as you can see runners three times without moving. The support was great and as I headed down Hualalai towards Ali'i Drive I saw my ace supporter crew by the corner. I smiled, said something like 'everything is good', turned left and then headed off on my merry little way along Ali'i Drive. At the end of the marathon you run down Hualalai again but turn right onto Ali'i Drive for the finish.
 
-![Hualalai Road (not on race day!).  At mile 1.5 you turn left.  At mile 26 you turn right.](/images/2013/20131012-hualalai-road-605.jpg) 
+![Hualalai Road (not on race day!).  At mile 1.5 you turn left.  At mile 26 you turn right.](/images/2013/20131012-hualalai-road.jpg) 
 *Hualalai Road (not on race day!). At mile 1.5 you turn left. At mile 26 you turn right.*
 
 The usual afternoon clouds had started to come in (it was shortly after 1:30pm) and although stupidly hot and very humid it wasn't burning hot as it would have been if the sun wasn't covered.
@@ -49,7 +49,7 @@ My first priority for the run was to get to the finish. The second priority was 
 
 I decided early on to keep an eye on my heart rate and stick to my (pre injury) long run heart rate - which is normally around the mid-140's. The pace would no doubt be slower due to the heat/humidity (and my lack of run fitness) but I know that my body can normally tick over nicely at that heart rate. At Lanzarote earlier this year I averaged 147bpm. At Ironman UK I averaged 148bpm.
 
-![Ali'i Drive at about 1.5 miles.](/images/2013/20131012-41811-lavajava-265x400.jpg) 
+![Ali'i Drive at about 1.5 miles.](/images/2013/20131012-41811-lavajava.jpg) 
 *Ali'i Drive at about 1.5 miles.*
 
 The support along Ali'i Drive was amazing. You couldn't run more than about 10 steps without there being someone beside the road clapping and cheering. There was lots of writing on the road in chalk. There were runners everywhere (coming in both directions as this is an out-and-back segment of the run) and I was feeling great. As well as the chalk written signs there were a few signs tied to trees. One such chap 'Iron Hugo' had more signs than cards in a deck! They were everywhere.
@@ -101,7 +101,7 @@ As I'd missed the winner of the mens race coming in (I was somewhere along Ali'i
 
 OK... back to my run.
 
-![20131012-no-spectators-macca](/images/2013/20131012-no-spectators-macca-298x400.jpg)On the Queen K it is a lot quieter. The road is really wide and the support is minimal. Especially when you get to about 13 miles where there's a large sign that says "No Spectators Beyond This Point." This was mentioned during the race briefing and I think it's to stop people cycling (or riding on motor scooters) along the road beside racers on this section of the course where the road is no longer about three lanes wide. It's probably also to ensure that the video crews and official photographers get exclusive access to this part of the course, and to also make the whole 'Energy Lab' part of the run course even more mentally tough that it is already.
+![20131012-no-spectators-macca](/images/2013/20131012-no-spectators-macca.jpg)On the Queen K it is a lot quieter. The road is really wide and the support is minimal. Especially when you get to about 13 miles where there's a large sign that says "No Spectators Beyond This Point." This was mentioned during the race briefing and I think it's to stop people cycling (or riding on motor scooters) along the road beside racers on this section of the course where the road is no longer about three lanes wide. It's probably also to ensure that the video crews and official photographers get exclusive access to this part of the course, and to also make the whole 'Energy Lab' part of the run course even more mentally tough that it is already.
 
 At the sign were about 30-50 people standing around with bicycles. No doubt many of them were coaches waiting for their athletes to come back so they could cycle beside them and encourage them to run faster in the final miles. On the way back back this sign is at about 19 miles.
 
@@ -109,7 +109,7 @@ I continued to tick over the miles. My heart rate was steady and my pace each mi
 
 OK, for anyone who was at home watching the online tracker that showed my running splits during the race I'm sorry for any panicking. According to the tracker I went from running 8:35 and then 9:26 miling to doing a mile in just under 18 minutes. The tracker said that between 13.1 and 16.4 miles I was overtaken by 291 people. This wasn't the case. I've no idea why the tracker said that. Anyway, I hope I added a little excitement to your late night race tracking!
 
-![20131012-44324-energylab](/images/2013/20131012-44324-energylab-266x400.jpg)The Energy Lab section is a mentally tough part of the race. It's the furthest you go away from town. It's deserted. There's no supporters. You run 'down' into it knowing that you've got to climb back out and its also hot. To be fair, it's always bloody hot. It's about three miles in total - 1.5 miles in and the same again back out.
+![20131012-44324-energylab](/images/2013/20131012-44324-energylab.jpg)The Energy Lab section is a mentally tough part of the race. It's the furthest you go away from town. It's deserted. There's no supporters. You run 'down' into it knowing that you've got to climb back out and its also hot. To be fair, it's always bloody hot. It's about three miles in total - 1.5 miles in and the same again back out.
 
 Heading towards the turnaround just after an aid station I remember passing a chap walking. I said something like 'stay strong buddy' and his reply was along the lines of 'this \[being the whole race\] is utterly ridiculous.' I also saw Tom B. in this part of the course. He was having a great day until the run. Then he started having a really tough time keeping any food or drink inside of him. Running with no energy just doesn't work so he had to resort to a lot of walking.
 

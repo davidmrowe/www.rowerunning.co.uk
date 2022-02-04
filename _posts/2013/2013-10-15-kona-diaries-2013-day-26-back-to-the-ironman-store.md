@@ -51,7 +51,7 @@ We watched an interview with first US finisher Tim O'Donnell and then next up wi
 
 We had a few photos, then welcomed the male world Champion Frederik van Lierde in for his interview with Bob Babbitt. In previous years I know a fair bit about how the pro race unfolded during the day from watching online at home but this year I didn't know much about what was going on. Oh, that's right - because I was in the same bloody race!
 
-![20131013-6996](/images/2013/20131013-6996-533x800.jpg)
+![20131013-6996](/images/2013/20131013-6996.jpg)
 
 It would be rude to not get a photo wouldn't it? The pro's are so accommodating. There isn't a queue of 'groupies' desperate for photos (well, as long as you don't include Paul and myself that is) and they're so so damn friendly.
 
@@ -67,7 +67,7 @@ Sharon and I then took a dip in the hotel pool and got chatting to a few other p
 
 Oh, and seeing as though I was going for a dip in the pool I thought I'd get a photo of my sunburn (mostly around my shoulders) and for the ladies out there, just one more photo of me in my Funky Trunks!!!!
 
-![20131013-7038](/images/2013/20131013-7038-533x800.jpg)
+![20131013-7038](/images/2013/20131013-7038.jpg)
 
 Back for a shower and then we headed into town for the Banquet of Champions. Just prior to that I met up with Tom Williams as he wanted to interview myself and another couple of Brits who raced on Saturday to ask about our race. The plan is that the interview with us will be featured on the hugely popular [Marathon Talk podcast](http://www.marathontalk.com) as their interview this week.
 

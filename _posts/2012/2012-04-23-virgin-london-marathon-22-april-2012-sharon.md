@@ -12,12 +12,12 @@ Well. I am going to write down some thoughts whilst things are fresh in my mind.
 
 I slept reasonably well, woke at 4:30 and couldn't get back to sleep but that was OK, to be expected. We had breakfast (my usual pre-long-run rice pudding), kit on, off to the station. We had planned on taking the 7:03 from Twickenham, which wasn't showing on the boards. Eeep! Transpired all was well, it was running. We waited for the train, writing 5, 10, 15, and 20 mile splits on our arms.
 
-![Scrawling 5 mile splits up my arm...](/images/2012/20120422-2187-splits-300x400.jpg)
+![Scrawling 5 mile splits up my arm...](/images/2012/20120422-2187-splits.jpg)
 *Scrawling 5 mile splits up my arm...*
 
 The train arrived, on we hopped after meeting up with Chris and off to Waterloo. I think we look more relaxed than we felt!
 
-![Sharon and Crispy looking ready to go](/images/2012/20120422-2188-train-400x300.jpg)
+![Sharon and Crispy looking ready to go](/images/2012/20120422-2188-train.jpg)
 *Sharon and Crispy looking ready to go*
 
 Met Danny at Waterloo and then off on the train to Blackheath, crazy! Trains were so full, just unbelievable numbers of people. We walked up to the start area, the sun was shining, nice and cool. All good. We did the usual, "queue for the loo, come out, then practically get back in the queue again" thing and before we knew it we were dropping off our bags and going to the start.
@@ -46,7 +46,7 @@ It wasn't long before I saw the big Stragglers flag a little bit before 25 miles
 
 With just over a mile to go I saw the Houses of Parliament, which was cool and the sky was really getting dark. We rounded the corner and I heard a shout of, "Go Ranelagh". I looked to my right and it was David! I was delighted to see him, so delighted.
 
-![Sharon running up Birdcage Walk, not responding to her name, only ](/images/2012/20120422-2223-birdcage-walk-400x300.jpg)
+![Sharon running up Birdcage Walk, not responding to her name, only ](/images/2012/20120422-2223-birdcage-walk.jpg)
 *Sharon running up Birdcage Walk, not responding to her name, only *
 
 In the distance I could see a sign, "800m to go". Only 800m? Two laps of the track? Brilliant! It went on for fecking ages though, seemed to take forever to 600m to go. I was running along, overtaking people all the way, which was good (not for them I realise). I rounded a corner and there it was. The, "385 yards to go" gantry. I couldn't believe it. I was going to do it. I glanced at my watch and saw I would safely finish under 5:20. I was running towards the finish line and as I saw the photographers, I was crying, so I will no doubt have ruined all my finish photos. As soon as I crossed the line, Darren (who was volunteering on the finish) came over and gave me a hug. Guess what, I told him I didn't like it ;)
@@ -55,7 +55,7 @@ I walked to get the chip taken off my shoe, then got my medal. The thing that re
 
 Plodded along to the designated meeting point of letter R. Saw Kirsty and Orlando, had a massive cuddle and started to cry again. Then David was on his way and we saw Heather, more tears (no wonder I was dehydrated!) and in the pouring down rain we decided to walk to Waterloo. It was definitely a good idea - and I am sure it has helped my legs today. Met up with Danny and headed home, regaling one another with tales of the day.
 
-![Sharon with her medal on the way home](/images/2012/20120422-2224-train-home-300x400.jpg)
+![Sharon with her medal on the way home](/images/2012/20120422-2224-train-home.jpg)
 *Sharon with her medal on the way home*
 
 I knew it would be tough. I have enough involvement in my life with marathon runners and Ironmen to know it's tough. It was hard in a different place though than where I expected. Everyone talks about the marathon being two races, one of 20 miles and one of 6.2 miles. Except it wasn't like that for me. Mine was a race of three parts. Start-17 miles, pretty happy overall, still on target time. Miles 17-19, really, honestly, horrendous. Mile 20 onwards, overall much better again, especially from mile 23. I think once I had realised my sub-5 target was gone, I lost heart. I had to really talk to myself to get going again but I did it. I think my negativity dragged me down, if I ever do another marathon, that's something I really need to work on. I have a tendency in life to look on the "down" side of things, which didn't help me yesterday. I definitely need more self-belief. However, I then re-assessed and worked out the best time I could get from the day and worked for that instead, so that's a positive too.
@@ -84,7 +84,7 @@ To Liz, Mike, Orlando, Simon, Deborah, Nicola, Stuart, Kay, Darren, the Ranelagh
 
 After a bath, Skins on, looking at toenails and chaffage (good for me on both counts, not so much for David on the toenail front!), we went to the annual Ranelagh post-marathon get together last night, for a natter and a nosh and a Crabbies or two ;) Shiny medals ahoy!
 
-![David & Sharon with their shiny medals](/images/2012/20120422-IMG_3971-400x300.jpg)
+![David & Sharon with their shiny medals](/images/2012/20120422-IMG_3971.jpg)
 *David & Sharon with their shiny medals*
 
 Oh, for the mini-stats. I finished 28828th (36672 finished) in 5:16:55. I was position 1551 in my age group, with an age graded performance of 45.6%.

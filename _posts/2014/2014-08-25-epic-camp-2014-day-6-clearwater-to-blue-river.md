@@ -63,7 +63,9 @@ The trip was pretty cool - we jumped on a boat with a load of other foreigners a
 
 ![20140824-5491](/images/2014/20140824-5491.jpg)
 
-![20140824-5492](/images/2014/20140824-5492-400x300.jpg)We then walk/jogged the 3k back to the ski lodges that we're staying in, got ourselves ready and headed over the road to some huge diner type place for a big old plate of ribs and a Canadian beer. I had a lovely meal and chat with Leah, Louis and Douglas. Douglas and Louis have loads of stories to tell from previous Epic Camps and spoke very highly about the likes of Steven Lord and Russell Cox - two UK based athletes who are friendly faces to a number of the people here on camp.
+![20140824-5492](/images/2014/20140824-5492.jpg)
+
+We then walk/jogged the 3k back to the ski lodges that we're staying in, got ourselves ready and headed over the road to some huge diner type place for a big old plate of ribs and a Canadian beer. I had a lovely meal and chat with Leah, Louis and Douglas. Douglas and Louis have loads of stories to tell from previous Epic Camps and spoke very highly about the likes of Steven Lord and Russell Cox - two UK based athletes who are friendly faces to a number of the people here on camp.
 
 After dinner we were then given the delightful news of Monday's schedule.... meet at the lake (right by where we're staying) at 6am ready to swim. A 2k swim followed immediately by a 7k run. After that it's pack the bags, have breakfast and then set off for the town of Jasper, some 130 miles away! On top of that the clocks go forward an hour because we move time zones.
 

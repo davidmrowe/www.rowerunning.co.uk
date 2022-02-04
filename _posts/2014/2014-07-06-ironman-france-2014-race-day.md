@@ -130,7 +130,7 @@ I always had one or two energy gels in my shorts pockets so that when approachin
 
 I got to the half way turnaround (the end of the second lap) in about 1 hour 46 which would equate to a 3 hour 32 marathon. Er, I think not. Not today anyway.
 
-![Photo: Richard Melik - http://www.teamfreespeed.com](/images/2014/20140704-run-richard-melik-266x400.jpg) 
+![Photo: Richard Melik - http://www.teamfreespeed.com](/images/2014/20140704-run-richard-melik.jpg) 
 *Photo: Richard Melik - http://www.teamfreespeed.com*
 
 I knew long before the race that qualification for Hawaii wasn't going to be a possibility today and I really wanted to get to the finish without destroying my left foot. After getting through the first two laps I signaled to Sharon that I was feeling fine but was going to walk a bit more in the second half. I just didn't want her worrying if she saw my splits getting much slower. The weather was clearing up nicely and the roads much dryer after earlier rain. More and more people were coming out onto the Promenade des Anglais as well which was lovely for support. Pirates get the best support on the course hands down.
@@ -169,7 +169,7 @@ Post race I made my way to the athlete recovery area and tried to eat some food 
 
 ![20140629-4688](/images/2014/20140629-4688.jpg)
 
-![20140629-4689](/images/2014/20140629-4689-599x800.jpg)
+![20140629-4689](/images/2014/20140629-4689.jpg)
 
 I then collected my bike, found Sharon and the pirate support crew and then the two of us went 'home' so I could drop off the bike, have a shower and then come back to cheer on everyone else up until the 10:30pm (16 hour) cut-off.
 
@@ -194,7 +194,7 @@ Looking back at the race once again as I write this I believe I did bloody well 
 
 The following day we went for a little swim in the sea to rest our tired muscles and after going to watch the Hawaii slot allocation (fantastic and emotional as always) all the pirates headed off to a bar in the old town for afternoon/evening drinks and the annual pirate prize-giving. In my first Ironman (Switzerland, 2009) I was the 'Fastest Pirate' and won a prize (wooden shield) for this. This year in Nice I won it for the second time. Sweet. Or should I say, Nice!
 
-![20140630-1](/images/2014/20140630-1-597x800.jpg)
+![20140630-1](/images/2014/20140630-1.jpg)
 
 I really enjoyed Ironman France and would happily do it again (well, if it was a two or three lap run that is!). In my opinion it is well organised and a great event.
 
@@ -204,4 +204,4 @@ My next race is Ironman Wales in mid September - so only a few weeks away. Once 
 
 Finally, these race reports always seem to take a long time to write so it was good to get a head start on our flight back from France over a glass of wine. The person on the laptop to my right was also writing a race report for his friends and family. His report probably ends with "At the end of the day the scruff bag I sat next to on the plane home, who's 15 years older than me, still finished ahead of me!"
 
-![20140701-5](/images/2014/20140701-5-597x800.jpg)
+![20140701-5](/images/2014/20140701-5.jpg)

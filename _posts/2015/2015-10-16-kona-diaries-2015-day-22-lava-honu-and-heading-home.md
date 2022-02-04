@@ -81,7 +81,7 @@ It was turtle-ey cool.
 
 ![20151015-0683943](/images/2015/20151015-0683943.jpg)
 
-![20151015-0613809](/images/2015/20151015-0613809-600x800.jpg)
+![20151015-0613809](/images/2015/20151015-0613809.jpg)
 
 After the second swim of the day we headed back home for a BBQ to finish off some of the food we had in the fridge. We cleared up a good load of food, took a dip in the pool, I got sunburnt (just what you need before a long flight home) and then we finished the packing.
 

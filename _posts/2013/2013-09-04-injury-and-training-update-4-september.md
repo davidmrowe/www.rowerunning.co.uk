@@ -19,7 +19,9 @@ Fortunately work has been flexible and I've not had to go into the office much (
 
 I was back at the physio again yesterday (3rd September) and the pain is much much less. For much of the time I cannot feel any pain in my foot and some of the pain is also in my ankle, as if I've twisted it or something. Let's just say that it seems to be healing and Kona isn't for another five and a bit weeks. **All I have to do is get a finishers medal**. DNF No Option. That is all! I'd rather be on the start line without having run a step in eight weeks than be on the start line in pain.
 
-![2013-09-IMG_3374](/images/2013/2013-09-IMG_3374-400x225.jpg)Over the next few days I plan to do a little cycling, nothing too much but just to get the heart beating a bit more and see how that feels. If all is well and good then next week I'll increase the miles some more. Any attempts at running can wait for now. I've also been swimming lately so I may even be swim fit by the time the race comes around - you never know.
+![2013-09-IMG_3374](/images/2013/2013-09-IMG_3374.jpg)
+
+Over the next few days I plan to do a little cycling, nothing too much but just to get the heart beating a bit more and see how that feels. If all is well and good then next week I'll increase the miles some more. Any attempts at running can wait for now. I've also been swimming lately so I may even be swim fit by the time the race comes around - you never know.
 
 In an ideal scenario I'll be able to get some good swimming in (all is good on that front) and also build up some reasonably solid bike miles. When I get to Hawaii then if I can do a little running leading into the race then that would be ideal, but I don't really plan on any running until I get out there - which isn't too far away :)
 

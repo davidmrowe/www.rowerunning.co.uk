@@ -55,7 +55,7 @@ Early on in the marathon on Saturday afternoon the run heads past an aid station
 
 When I walked into the shop both Michael and Amy were there and they said that they'd put a photo of me on Facebook this morning!
 
-![Message posted on Facebook](/images/2013/20131017-island-orchard-status-605x479.png)
+![Message posted on Facebook](/images/2013/20131017-island-orchard-status.png)
 *Message posted on Facebook*
 
 He then showed me his 'Ironman Shrine' and low and behold was the photo of me on the shelf next to one of him and Ironman legend Mark Allen! It said...
@@ -72,7 +72,7 @@ It was so so nice of them.
 
 Heading south of Kona we decided to stop in at the Painted Church. This is the church that I somehow cycled straight past about three weeks ago when I went on a bike ride down this way. It was a pretty cool place.
 
-![20131017-7316](/images/2013/20131017-7316-533x800.jpg)
+![20131017-7316](/images/2013/20131017-7316.jpg)
 
 As we were in the area and also as the US Government Shutdown had just ended thus re-opening all national parks we headed to [Pu'uhonua o Honaunau](http://www.nps.gov/puho/index.htm), a National Historical Park for a wander around.
 
@@ -84,4 +84,4 @@ After leaving the park we headed home, had a beer by the pool, a final BBQ and t
 
 A little later after having a shower I said that I felt like I'd caught the sun today. Well... it turns out that I have sunburn that identically matches the design of my new skimpy swimming trunks which I was wearing at the beach this morning. OK then, if you insist.... one last photo!
 
-![20131017-4334](/images/2013/20131017-4334-599x800.jpg)
+![20131017-4334](/images/2013/20131017-4334.jpg)

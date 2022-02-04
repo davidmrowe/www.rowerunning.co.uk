@@ -132,7 +132,7 @@ We worked pretty well. John B. smashed it off of the front a couple of times and
 
 This was an amazing stretch of road. We had a tail wind, it was gentle ups and downs and we were flying. It was great. Spiritswere high and we shared the effort at the front. The fields around reminded me a lot of the UK. Until I saw a sign for a huge Rodeo Showground place. I've not seen one of those near home before!
 
-![Adam B rockin' the yellow jersey](/images/2014/20140830-0527987-599x800.jpg) 
+![Adam B rockin' the yellow jersey](/images/2014/20140830-0527987.jpg) 
 *Adam B rockin' the yellow jersey*
 
 ![DCIM104GOPRO](/images/2014/20140830-0568056.jpg)
@@ -155,7 +155,7 @@ It was time to get the full group together for the final push to Calgary. I made
 
 ![DCIM104GOPRO](/images/2014/20140830-0628144.jpg)
 
-![DCIM104GOPRO](/images/2014/20140830-0628146-599x800.jpg)
+![DCIM104GOPRO](/images/2014/20140830-0628146.jpg)
 
 We took what seemed like quite a detour away from the main highway into Calgary to get to the hotel we were staying at. There were lots of traffic lights. I didn't really mind all the stop/start stuff. We chatted a bit. Spirits were high and Douglas started singing. I kid you not. He was singing. Now I don't know what song it was but after a few minutes he declared he knew the second verse of the song. This didn't help with the identification of said song!
 
@@ -195,7 +195,7 @@ After a shower it was time to head downstairs to the bar for a well earned drink
 
 ![20140830-5575](/images/2014/20140830-5575.jpg)
 
-![20140830-5578](/images/2014/20140830-5578-599x800.jpg)
+![20140830-5578](/images/2014/20140830-5578.jpg)
 
 We all headed over the road to a sports bar which we'd booked up for a meal. Another drink at the bar and then we headed to a conference room to enjoy the company of new friends for a few hours. We had a fine meal (it barely touched the sides) and had a laugh. Dave Dwan - the main support guy on the camp then gave a witty little speech. John presented the points jerseys (Adam overall, Zach for the hills and Louis for the over 45's) and then gave out a few Epic Camp freebies to us all. The conversations continued, the beer flowed (mostly in the direction of Gary and Molina) and we heard some excellent banter.
 

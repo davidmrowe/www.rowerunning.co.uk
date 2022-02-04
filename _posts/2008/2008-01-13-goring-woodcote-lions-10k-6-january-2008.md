@@ -28,7 +28,7 @@ At about 4k I was overtaken by the leading lady (from Reading Road Runners - it 
 
 We then started to head uphill - the first part wasn't so bad, and the view at the top was amazing. You run past a field of big fat pigs (Sharon told us about these from last years race) and they were there to cheeroink us on. You then slowly drift downhill until just after the 7k mark.
 
-![](/images/2008/20080106-goring-profile.jpg)
+![](/images/2008/20080106-goring-profile-full.jpg)
 
 At this point things take a turn...uphill...for the final 3k to the finish. This is over 1.5 miles of torture - and it really was slow going. I stayed strong and held my position (I think I got past a couple of people in this section) and it was a great relief to make it to the top (as its just around the corner from the finishing straight).
 

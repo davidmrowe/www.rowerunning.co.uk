@@ -30,7 +30,7 @@ As I came out of the left turn I saw Sharon, Andy and Emma cheering me on. Thank
 
 Heading up to the little turnaround on Kuakini was crazy. It's a very slight climb (about 2%) for just over two miles. As there were 650 odd people up the road ahead of me it was busy with riders coming back down towards me. It was a constant stream of riders. So so busy. Dom H. was the first familiar face I saw. He caught up with me, asked how I was doing and then headed off up the road. I averaged 17.5mph going up here to the little turnaround. Coming back down to hot corner I was doing just over 30mph. I remember as I slowed to the turnaround a cyclist in front of me pulling over and asking a spectator to take his swimskin - he'd forgotten to take it off in transition one. Oops. (I saw someone else with their swimskin round their waist later during the ride as well - I guess the adrenaline sometimes gets the better of people).
 
-![Heading towards the Kuakini Highway turnaround](/images/2013/20131012--531x800.jpg) 
+![Heading towards the Kuakini Highway turnaround](/images/2013/20131012-.jpg) 
 *Heading towards the Kuakini Highway turnaround*
 
 ![Returning to hot corner, about to turn up Palani and then onto the Queen K.](/images/2013/20131012-6484.jpg) 
@@ -40,7 +40,9 @@ After all the early excitement at about 8.5 miles you turn onto the Queen K. The
 
 I've [written a bit about bike course before on the blog](/2013/09/kona-diaries-2013-day-7-the-road-to-hawi/ "Kona Diaries 2013 - Day 7 - The road to Hawi") so won't go into too much detail about the course.
 
-![20131012--4](/images/2013/20131012-4-533x800.jpg)With so many bikes on the course (at least where I was - in the 60-70 minute swimmer group) the main thing you need to worry about is drafting. You need to keep four bike lengths between you and the bike in front. If you start to overtake a cyclist (i.e., are less than four bike lengths away from the rider in front) you have to pass them whether you want to or not. You have 20 seconds to do so. Once you pass them you can move back in front of them. If there's less than four bike lengths then to the next rider you need to pass them to... and so on. In the professional race (that's about 45 minutes up the road ahead of me) when there's a line of riders if the one at the back wants to overtake someone they pretty much have to overtake everyone in the line otherwise they'll get a penalty.
+![20131012--4](/images/2013/20131012-4.jpg)
+
+With so many bikes on the course (at least where I was - in the 60-70 minute swimmer group) the main thing you need to worry about is drafting. You need to keep four bike lengths between you and the bike in front. If you start to overtake a cyclist (i.e., are less than four bike lengths away from the rider in front) you have to pass them whether you want to or not. You have 20 seconds to do so. Once you pass them you can move back in front of them. If there's less than four bike lengths then to the next rider you need to pass them to... and so on. In the professional race (that's about 45 minutes up the road ahead of me) when there's a line of riders if the one at the back wants to overtake someone they pretty much have to overtake everyone in the line otherwise they'll get a penalty.
 
 The rules are simple but you need to do your best not to break them. Sometimes you can find yourself in a bad position through no (real) fault of your own and get penalised. If you are penalised you have to stop at one of the handful of 'Penalty Tents' on the course you get a four minute penalty. There are motorbikes with referees driving up and down the course looking for riders breaking any of the rules.
 
@@ -67,7 +69,7 @@ At this point you're just under 18 miles away from the bike turnaround at Hawi. 
 
 After a while I could see up in the distance a couple of helicopters. Yeah, I'm in the Ironman World Championship, taking part and up ahead of me at the helicopters broadcasting live footage onto the internet and recording for the award winning video that will be broadcast in November on US television. You then see a few vehicles coming towards you, then motorbikes and then the first cyclist.... then the second... then the third, and so on. It was really bloody exciting. I couldn't easily make out who the riders were (they were absolutely flying). As I got closer to the turnaround the number of riders coming back down steadily increased. It was crazy busy.
 
-![20131012-1](/images/2013/20131012-1-532x800.jpg)
+![20131012-1](/images/2013/20131012-1.jpg)
 
 The turnaround had some great support - for all of a minute or so. Then you were back on your way on the home straight. I got to the turnaround after just under 2 hours 40 of cycling. The renowned winds on this part of the course hadn't really materialised. The descent from Hawi often has crazy crosswinds doing whatever they can to push you off your bike. Not today - we were having a good day.
 
@@ -94,7 +96,7 @@ Heading back towards Kona I saw a few of the motorcycle referees heading back to
 
 Heading into town was a huge relief. I was really looking forward to getting off of the bike. I'd had no mechanical issues which was great as these can occasionally force people to retire from the race. If I could get onto the run then surely I would be able to finish this race. In my build up I'd said many times that all I needed to do was GET THAT MEDAL. This was a big positive step (or ride) in the right direction.
 
-![Bike shoes are loosened and I'm about to take my feet out before returning to transition.](/images/2013/20131012-2-533x800.jpg) 
+![Bike shoes are loosened and I'm about to take my feet out before returning to transition.](/images/2013/20131012-2.jpg) 
 *Bike shoes are loosened and I'm about to take my feet out before returning to transition.*
 
 Just before transition the crowds were out in force (as this is part of the run course as well) so it was great to hear some solid support rather than the very few 'pockets of support' whilst out on the bike.

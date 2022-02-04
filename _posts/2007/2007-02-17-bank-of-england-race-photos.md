@@ -7,7 +7,7 @@ author:
   - "david"
 ---
 
-![393149492_4d0927e189.jpg](/images/2007/393149492_4d0927e189.thumbnail.jpg)After this mornings run Sharon went to work so I had the afternoon at my complete leisure. Well, as predictable as ever I did exactly what I did last Saturday - went to Richmond Park to watch people run!
+![393149492_4d0927e189.jpg](/images/2007/393149492_4d0927e189.jpg)After this mornings run Sharon went to work so I had the afternoon at my complete leisure. Well, as predictable as ever I did exactly what I did last Saturday - went to Richmond Park to watch people run!
 
 Today was a low-key race organised by the Bank Of England club with around 50 runners taking part. The course was well and truly cross country and set off from near to Roehampton gate, up by White Lodge, I believe a bit of running on Queens Ride and then through Spankers Hill Wood. I went along to give my support and take some photos - most of which were as the runners came out of the wood. For info, there's an excellent map of the overall area at the [Richmond Park website](http://www.royalparks.gov.uk/parks/richmond_park/).
 

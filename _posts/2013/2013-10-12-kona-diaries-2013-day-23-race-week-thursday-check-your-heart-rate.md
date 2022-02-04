@@ -27,13 +27,13 @@ After Wednesdays visit to the coffee boat where I picked up a pair of rather sma
 
 So... squeezed into my new trunks I was down at the pier at about 6:45am looking the part. As you do. Well... as I seem to do!
 
-![20131010-5937](/images/2013/20131010-5937-533x800.jpg)
+![20131010-5937](/images/2013/20131010-5937.jpg)
 
 I met up with Paul (I swear he's following me at the moment) and we went for a swim. The coffee boat was too far away (says the man who's got to swim 2.4 miles on Saturday) so we went for the big inflatable banana that's been anchored off shore for a couple of days.
 
 We swum out, we swum in, we showered and I got changed for the underpants run. This involved putting my pirate visor on and a pair of running shoes! Paul had a post swim recovery shake and Sharon caught a photo of him in deep concentration.
 
-![20131010-5942](/images/2013/20131010-5942-533x800.jpg)It was about 8am at this point so we headed quickly to the start, just down the road from the pier. We joined the mob of people - there were hundreds and hundreds of them and cheered at the supporters lining the sides of the roads. If its half as busy as this when I finish the race on Saturday it'll be amazing. It was like when I ran the London Marathon earlier this year. Crazy.
+![20131010-5942](/images/2013/20131010-5942.jpg)It was about 8am at this point so we headed quickly to the start, just down the road from the pier. We joined the mob of people - there were hundreds and hundreds of them and cheered at the supporters lining the sides of the roads. If its half as busy as this when I finish the race on Saturday it'll be amazing. It was like when I ran the London Marathon earlier this year. Crazy.
 
 ![20131010-5945](/images/2013/20131010-5945.jpg)
 
@@ -98,7 +98,7 @@ This afternoon consisted of making sure my bike was in tip top condition, oiling
 
 I also got lots of messages from people who'd seen photos of me from this morning in the galleries of triathlon websites including Slowtwitch and triathlete.com! Oh dear. Here's one I love from the muscle-flexing segment on the pier from Slowtwitch! [Please see the rest of their photos on their fine website](http://www.slowtwitch.com/Features/2013_Kona_Underpants_Run_3956.html).
 
-![I am at the bottom right of this photo recording some video of myself on my GoPro!](/images/2013/20131010-82810-large_016_Underpants-slowtwitch-605x403.jpg) 
+![I am at the bottom right of this photo recording some video of myself on my GoPro!](/images/2013/20131010-82810-large_016_Underpants-slowtwitch.jpg) 
 *I am at the bottom right of this photo recording some video of myself on my GoPro!*
 
 On the way back home I popped into the local florists (the one where I bought Sharon's lei from) and said hello. They still had a note of my name and race number resting on the till and the Michael showed me his little Ironman 'shrine' that he set up in store. I said in my earlier blog about them that they do flowers for previous multiple Ironman winner Mark Allen and today was no exception as he said he'd just done a selection of flowers for him. Nice.

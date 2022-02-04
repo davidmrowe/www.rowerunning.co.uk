@@ -125,7 +125,7 @@ It's been fantastic to experience a little culture and go to a lu'au with local 
 
 As we left we were able to take the little ukulele that was used as the centrepiece of our table so that I can use it to serenade Sharon when we get home. Perhaps.
 
-![20151003-7450](/images/2015/20151003-7450-300x400.jpg)
+![20151003-7450](/images/2015/20151003-7450.jpg)
 
 When we got back I took a look at the rain radar for the island.
 

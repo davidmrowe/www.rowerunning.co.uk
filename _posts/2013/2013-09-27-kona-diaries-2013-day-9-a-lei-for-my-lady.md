@@ -17,13 +17,15 @@ Whilst immersing myself in all things Kona I've been reading blogs just like thi
 
 This sounds like fun! I didn't want to do a long ride today (legs aching), there's no running planned (hey, I ran four whole miles yesterday - I needed a rest!) and I don't want to get addicted to swimming. This ride sounded ideal. Short but tough.
 
-![20130926-yasmin-lucas-skype-resized](/images/2013/20130926-yasmin-lucas-skype-resized-150x142.jpg)Over breakfast I checked the route on google maps (and loaded it onto my GPS, just in case) and had an amusing Skype video chat with my brother and their two children. They just couldn't believe that I was nearly 7,500 miles away from them, and that I had just woken up and they were about to go to bed! I showed them where I was staying and they could see the palm trees, the ocean, the pool, etc. They were very impressed.
+![20130926-yasmin-lucas-skype-resized](/images/2013/20130926-yasmin-lucas-skype-resized.jpg)
+
+Over breakfast I checked the route on google maps (and loaded it onto my GPS, just in case) and had an amusing Skype video chat with my brother and their two children. They just couldn't believe that I was nearly 7,500 miles away from them, and that I had just woken up and they were about to go to bed! I showed them where I was staying and they could see the palm trees, the ocean, the pool, etc. They were very impressed.
 
 I got on the bike about 8:15 and for a 40 mile planned route I guess around two and a half hours would be reasonable. The sky was still pretty grey but as always I was head to toe in suncream.
 
 The ride pretty much started with a climb of just over 9 miles at 3.2%. Climbing from sea level to about 1500 feet elevation. That got me warmed up, that's for sure. It levels out through the town of Kealakekua and then there's an awesome descent (for about 6 miles) to the beach. The roads were a bit wet on this twisty descent so I had to be really careful. The last thing I want is to hurt myself in the lead-up to the race. On the descent I passed probably the best road-side stall I think I've ever seen - a Lei stall. Only in Hawaii I guess...
 
-![20130926-3594](/images/2013/20130926-3594-599x800.jpg)
+![20130926-3594](/images/2013/20130926-3594.jpg)
 
 Down at sea level it was nice to ride on a flat surface for a little while. Looking up at the hills there were some crazy black clouds rolling in, full to the brim of rain by the look of things. I expected the worst but somehow avoided it!
 

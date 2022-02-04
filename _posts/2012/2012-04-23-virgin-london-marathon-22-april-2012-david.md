@@ -8,7 +8,9 @@ author:
   - "david"
 ---
 
-![](/images/2012/20120422-2186-kit-400x300.jpg "20120422-2186-kit")So, I'd got an entry to this years London Marathon through a ballot organised through my running club [Ranelagh Harriers](http://www.ranelagh-harriers.com)andwas really looking forward to running the race for the second time (my first time was in [2009](/2009/04/london-marathon-2009/ "Flora London Marathon - 26 April 2009")). Coming into the race I had a single aim - to get a time under 3 hours and 10 minutes. This would get me a ['Good For Age'](http://www.virginlondonmarathon.com/marathon-centre/enter-virgin-london-marathon/good-for-age-entries/) time meaning that I could enter the race for the next two years without having to enter the heavily oversubscribed ballot process or commit to raise thousands of pounds for a charity entry. That was my only aim. I tried to get the time at last years Brighton Marathon ([but that all went wrong](/2011/04/brighton-marathon-2011-not-my-greatest-day/ "Brighton Marathon 2011 - Not my greatest day!")) so wasdetermined to have a good run this time.
+![](/images/2012/20120422-2186-kit.jpg "20120422-2186-kit")
+
+So, I'd got an entry to this years London Marathon through a ballot organised through my running club [Ranelagh Harriers](http://www.ranelagh-harriers.com)andwas really looking forward to running the race for the second time (my first time was in [2009](/2009/04/london-marathon-2009/ "Flora London Marathon - 26 April 2009")). Coming into the race I had a single aim - to get a time under 3 hours and 10 minutes. This would get me a ['Good For Age'](http://www.virginlondonmarathon.com/marathon-centre/enter-virgin-london-marathon/good-for-age-entries/) time meaning that I could enter the race for the next two years without having to enter the heavily oversubscribed ballot process or commit to raise thousands of pounds for a charity entry. That was my only aim. I tried to get the time at last years Brighton Marathon ([but that all went wrong](/2011/04/brighton-marathon-2011-not-my-greatest-day/ "Brighton Marathon 2011 - Not my greatest day!")) so wasdetermined to have a good run this time.
 
 Training over the past few weeks had gone really well and I stuck to my planned training schedule really well. The easy runs were easy, the hard runs hard and I was the best prepared I've ever been. In the last couple of weeks before the race you taper down your training with the result being that you feel as fresh as a daisy on race day. Well, for some strange reason which I cannot understand my quad muscles were aching towards the end of last week - this should not be the case! I just didn't understand why. I put this to the back of my mind. Perhaps it was just a phiggle (a phantom niggle!!).
 
@@ -16,7 +18,7 @@ Sharon and I were up early at 5:40am, breakfast was consumed and then we headed 
 
 The usual routine in the start area was followed - queue for toilet, go to toilet, go to back of queue and queue for toilet... and repeat. At about 25 past nine we were happy down to 'race weight' and Sharon and I took our bags (with warm post-race clothes) and dropped them off for transport to the finish.
 
-![The toilet queues... before they got really busy!](/images/2012/20120422-2201-toilets-640x480.jpg)
+![The toilet queues... before they got really busy!](/images/2012/20120422-2201-toilets.jpg)
 *The toilet queues... before they got really busy!*
 
 Sharon then headed off to her starting area (the areas, or 'pens' are based on estimated finishing time) and I went to mine. I was back in pen 1 again which ensured a pretty swift start. After the starting gun went at 9:45am I crossed the line after about 50 seconds. The electronic chip timing that you have on your shoes means that whatever time you start you'll get accurate timing.
@@ -25,7 +27,7 @@ The first couple of miles were busy and we all started off pretty slowly but bef
 
 After about four miles or so I could feel that my quads weren't right which was very frustrating. I couldn't explain why but decided that I would continue on at my pace (I really didn't have any other choice) and try and tick off the miles close to 7:10 miling pace. The first few miles were paced approximately 7:12, 7:15, 7:03, 6:59, 7:01, 7:12, 7:03, 7:02... and so on.
 
-![Just before the turn to Tower Bridge. That's me in the blue in the middle. Photo: Andy Wingate](/images/2012/20120422-before-tower-bridge-258x400.jpg)
+![Just before the turn to Tower Bridge. That's me in the blue in the middle. Photo: Andy Wingate](/images/2012/20120422-before-tower-bridge.jpg)
 *Just before the turn to Tower Bridge. That's me in the blue in the middle. Photo: Andy Wingate*
 
 The early mile support on the course was fantastic. Music (loved running past the South London Jazz Orchestra), bands, people screaming and shouting. It was awesome. Cutty Sark was amazing and the wall of sound when you get to and cross Tower Bridge at just before the half way mark.
@@ -54,7 +56,7 @@ The main thing I did today which I'd not done previously was ignore the distance
 
 Towards the finish there were 800m, 600m, 400m, 200m and a 385 yards to go sign (at the 26 mile point). I pushed on all the way to the finish and with the finish line clock reading under 3 hours 10 (and knowing that it took me about 50 seconds to cross the start line) then I knew I'd got the time I wanted.
 
-![](/images/2012/20120422-2202-medal-400x400.jpg "20120422-2202-medal")My finishing time was 3 hours 9 minutes and 9 seconds. Result. Job Done. This now means I can automatically enter the race for the next two years. My first half as I said earlier was 1:33:56. My second half was 1:35:13. Losing a minute and 17 seconds over the second half isn't too bad I'd say. I just wish my legs didn't hurt so much from so early on. I also now have a really nasty blister appear on one of my toes which is going to be a case of bye-bye-toenail very very soon!
+![](/images/2012/20120422-2202-medal.jpg "20120422-2202-medal")My finishing time was 3 hours 9 minutes and 9 seconds. Result. Job Done. This now means I can automatically enter the race for the next two years. My first half as I said earlier was 1:33:56. My second half was 1:35:13. Losing a minute and 17 seconds over the second half isn't too bad I'd say. I just wish my legs didn't hurt so much from so early on. I also now have a really nasty blister appear on one of my toes which is going to be a case of bye-bye-toenail very very soon!
 
 My finishing position was 1,958th out of 36,672 finishers. I was 1,009th in the male 18-39 age group. In 2009 my position was 2,699 so I've moved up 741 places. This was also a big personal best time for me over the distance by 10 minutes and 37 seconds.
 

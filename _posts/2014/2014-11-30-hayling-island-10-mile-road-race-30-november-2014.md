@@ -25,7 +25,9 @@ Just after I started my watch I decided I'd try and just run to feel. I thought 
 
 The support on course was good and I had no problems with the very few cars that found their way onto a couple of the roads. Conditions were ideal and I just took it steady. It was fun.
 
-![20141130-6104](/images/2014/20141130-6104-400x400.jpg)Once I crossed the finish line I took a look at my watch - it said 1:14:34. My official time (I started my watch a few seconds later after crossing the start line) was 1 hour 14 and 41 seconds. That's an average of 7:28 miling. That'll do nicely. I finished 110th out of 444 finishers.
+![20141130-6104](/images/2014/20141130-6104.jpg)
+
+Once I crossed the finish line I took a look at my watch - it said 1:14:34. My official time (I started my watch a few seconds later after crossing the start line) was 1 hour 14 and 41 seconds. That's an average of 7:28 miling. That'll do nicely. I finished 110th out of 444 finishers.
 
 I've now done eleven 10 mile races over the years (my first one - eight years ago (!!!) - was[1:11:47 at the Cabbage Patch 10 in 2006](/2006/10/cabbage-patch-results/)). I couldn't care less that I was slower today that my first ever 10 miler. It doesn't matter. I've got long term plans and today was just a way to get some miles in, enjoy some new scenery and spend time with friends.
 

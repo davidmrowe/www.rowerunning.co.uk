@@ -18,4 +18,4 @@ The weather on the day was absolutely perfect - a calm sea and clear blue skies.
 
 I struggled through the swim in 18 and a half minutes, put in a good ride on the bike (averaged 23mph) and then a 5k of just over 19 minutes 30. This put me 4th overall and first in my age group. Lovely. Better still I won an entry for next years race. Result.
 
-![2016-090-11-bognor-tri-1](/images/2017/2016-090-11-bognor-tri-1-605x404.jpg)
+![2016-090-11-bognor-tri-1](/images/2017/2016-090-11-bognor-tri-1.jpg)

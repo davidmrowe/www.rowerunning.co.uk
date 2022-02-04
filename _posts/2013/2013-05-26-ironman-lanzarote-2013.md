@@ -38,10 +38,10 @@ It all sounded good to me so I signed my name and was given my race number and a
 
 Thursday morning and I was back down at the beach for another swim and this time I decided to give it a push at around my planned race pace. I swam a lap in around 32:30 which I was really happy with. If I could get close to this for two laps on Saturday (with all the agro that a mass swim start has and also no doubt swimming a not so perfect racing line) that would be perfect. I said to Sharon that if I was out of the water in under 70 minutes that would be fine by me. Later on I headed out on the bike to ride a bit more of the course. I did a few of the early miles again and then looped back to ride the last five miles back to the finish. This was great as I could get a feel for the well talked about 'donkey track' road with all of its twists and turns. I learnt that I could push hard pretty much the whole way down to the main road at the bottom rather than hovering on the brakes all the time wondering what was around each corner. Thursday evening was time for the pasta party back at Club La Santa and we feasted on a fantastic buffet meal. Carbo loaded to the extreme topped off with some ice cream. Perfect.
 
-![Ready to rock.](/images/2013/20130517-2819-640x426.jpg) 
+![Ready to rock.](/images/2013/20130517-2819.jpg) 
 *Ready to rock.*
 
-![Double (and triple checking) transition bags.](/images/2013/20130517-2844-266x400.jpg) 
+![Double (and triple checking) transition bags.](/images/2013/20130517-2844.jpg) 
 *Double (and triple checking) transition bags.*
 
 Friday I was back at the beach and just had a little swim of only a few hundred metres or so. I didn't want to do much more than that. I then did a final test of the bike and then went for a two mile easy run to get a feel for pace. I then got the bike ready (i.e., loading it up with energy gels), packed my transition bags and took it all down to the transition area to get my bike racked for the race on Saturday. Feet up and pasta for dinner followed by an early-ish night.
@@ -50,34 +50,34 @@ Friday I was back at the beach and just had a little swim of only a few hundred 
 
 A 4:30am alarm (the race starts at 7am) and I was up with the kettle boiling for coffee and a big bowl of porridge cooking in the pan. After breakfast Sharon and I headed down to transition in the dark and I did a final check on the bike - getting the cycle computer on the bike and filling up my drinks bottles. I also put a little extra air in my tyres (which were new for race week) and retraced my steps back and forth to make sure I knew where to find my bike when I came out of the swim.
 
-![5:21am. Race morning. Race starts at 7am.](/images/2013/IMG_3167-640x360.jpg) 
+![5:21am. Race morning. Race starts at 7am.](/images/2013/IMG_3167.jpg) 
 *5:21am. Race morning. Race starts at 7am.*
 
 We then returned to the apartment, relaxed a little and then at about 6:15am I got partly into my wetsuit and we casually strolled back down to the beach. It was fantastic being so close to the start as I didn't have to queue up for any portaloos or struggle on the floor trying to get my wetsuit on. It was so easy and relaxed.
 
 As I headed to the beach I arranged to meet Sharon near where I was planning to start (it's a beach start with 1800 people running/walking to the water in an area about 10 metres wide) which was going to be a little way back (in a self-seeded area for 65 minute swimmers) and on the right (hopefully away from the ruff'n'tumble of the mass start - especially after the beating I got at the [Volcano Triathlon](/2013/05/lanzarote-volcano-triathlon-27-april-2013/ "Lanzarote Volcano Triathlon - 27 April 2013") three weeks before).
 
-![9 minutes before the start and the final adjustments being made.](/images/2013/20130518-2859-266x400.jpg) 
+![9 minutes before the start and the final adjustments being made.](/images/2013/20130518-2859.jpg) 
 *9 minutes before the start and the final adjustments being made.*
 
 But... I couldn't find Sharon. It was 6:40am and I wanted to get in a start position not too far back and also have her help me with my wetsuit zipping up and to take the backpack that I was carrying. At this point it started raining, pretty heavily. I was getting a little worried and there was no sign of her. After looking up and down the beach area I quickly headed back to where the swim/bike bags were and stuck my bag and coat in there and rushed back to the start with an energy gel, drink, goggles and swim cap. Next thing I saw Sharon (she'd ended up in the wrong spot trying to find me) but everything was good. It was 6:50am and I was lined up and ready to go.
 
 The final minutes in the countdown to an Ironman are something special. You're standing there with around 1800 other people. We all look pretty anonymous in black wetsuits, orange (and a few pink for the women) swimcaps and goggles. Some are professional triathletes trying to make a living from the sport. Some or racing to qualify for the world championships in Hawaii, others are doing it just for fun, some (like myself) are there to push hard and do the best they can and others just want to get to the finish in one piece before the 17 hour time limit. Yes, 17 hours! It can be a very long day.
 
-![5 minutes to go. Ready as I'll ever be.](/images/2013/20130518-2865-640x426.jpg) 
+![5 minutes to go. Ready as I'll ever be.](/images/2013/20130518-2865.jpg) 
 *5 minutes to go. Ready as I'll ever be.*
 
 # Swim
 
 After a few announcements and a huge round of applause there was a countdown and the race was on. I knew it would take a little while to get to the water and it too me about 45 seconds before my feet got wet. My plan was to head to the right side of the 'race course' and try and avoid too much trouble. I would then move into busier water hopefully at my own pace and under my own control. Well... it pretty much worked to plan. I found myself in busy water but not overly busy. There were times when it was hectic and all you could see where bubbles and bodies in the water and a few little clips of arms and feet but for the most part I avoided any real trouble. I didn't have any sort of panic attacks like I had three weeks before and the first lap of the swim went pretty well, although no doubt I swam a fair bit further trying to get a clearer swim.
 
-![Swim Start - Ironman Lanzarote 2013.](/images/2013/0382_06296-640x426.jpg) 
+![Swim Start - Ironman Lanzarote 2013.](/images/2013/0382_06296.jpg) 
 *Swim Start - Ironman Lanzarote 2013.*
 
-![Swim Start - Ironman Lanzarote 2013.](/images/2013/0382_06318-640x360.jpg) 
+![Swim Start - Ironman Lanzarote 2013.](/images/2013/0382_06318.jpg) 
 *Swim Start - Ironman Lanzarote 2013.*
 
-![This shows the 'far' end of the swim course during the first lap of the swim.  It is just under 850m back to the turnaround.  The swim is swum anticlockwise.](/images/2013/20130518-2879-640x360.jpg) 
+![This shows the 'far' end of the swim course during the first lap of the swim.  It is just under 850m back to the turnaround.  The swim is swum anticlockwise.](/images/2013/20130518-2879.jpg) 
 *This shows the 'far' end of the swim course during the first lap of the swim. It is just under 850m back to the turnaround. The swim is swum anticlockwise.*
 
 At the end of the first lap you swim back to the shore, run about 5 metres up the beach, turn round and head back in for the second lap. As I ran up the beach I saw the time on the clock was 32:05. Great. Especially when probably about a minute of that at the start wasn't even swimming. If I could do that (or something similar) again it would be perfect.
@@ -112,7 +112,7 @@ After transition one I had moved up to 287th (from 321st) and was now (55th in m
 
 At this point it was still raining, the roads were wet and there were lots of cyclists around me. All I wanted to do was get going steadily, avoid other cyclists and get into a good rhythm. I use a power meter in training and in previous races my average power has slowly dropped at the race goes on as I'm unable to keep up with what I had planned to do. My recent training had been good (with some of it riding on the same hills in similar weather) and I felt strong so this time planned to push slightly harder than I have done in previous races and hope that my fitness will allow me to keep on pushing for the 112 miles.
 
-![0382_11580](/images/2013/0382_11580-640x424.jpg)
+![0382_11580](/images/2013/0382_11580.jpg)
 
 The first 30 or so miles were really quite busy. There was lots of overtaking going on. Often on the hills I would sit there and watch people slowly stream past me - many of them out of the saddle and pushing pretty hard. I was pushing slightly harder than I planned to over the whole ride (which is fine), because with the downhill segments where I wouldn't be pushing as hard the idea would be that things should even out a bit. I hoped that these people who were flying past me would be ones who I'd see again in the latter stages of the bike leg of the race. The rain had stopped, the clouds were intermittent, the wind was blowing (as it always does here) and it was awesome to be racing such an iconic and difficult event. Every now and then it hits home what you're currently doing. Some ridiculous distance event - just because you can (or at least hope you can)!
 
@@ -120,7 +120,7 @@ Weather wise the rain had stopped and it was sunshine and a few clouds. The usua
 
 The scenery on this course is amazing. Lava fields aplenty in the El Golfo and Timanfaya region. The stunning beach area of Famara, the town of Teguise with some superb support and then the long climb up to Mirado del Haria. This climb is pretty much around 14 miles long with an average incline of 2.4% and took just over an hour. Once you get to the top you then have a fast descent around some crazy Tour de France-esque switchback turns to the well supported town of Haria. Great crowds filled the little area around the cafes in the town (three weeks ago I stopped here for a drink and a bite to eat - none of that today!). It was lovely - apart from knowing that you've got to climb up to the Mirador del Rio straight afterwards which is another 4.5 miles at around 3% average. Nothing is too steep - it just drags on a bit!
 
-![Towards the top of the Mirador del Rio.](/images/2013/BIB1051-Ironman-Lanzarote-2013-Mirador-del-Rio-BIB-1051-640x360.jpg) 
+![Towards the top of the Mirador del Rio.](/images/2013/BIB1051-Ironman-Lanzarote-2013-Mirador-del-Rio-BIB-1051.jpg) 
 *Towards the top of the Mirador del Rio.*
 
 The view near the top of the island at Mirador del Rio is stunning. Turquise blue seas down below surround the Isle Graciosa and although the climb just keeps going I knew that once I turned right at the top it was time for some fun! After a little bit of bad road to start it then gets interesting. This is pretty much a seven mile descent from 1500 feet down to almost sea level. I knew the road pretty well having ridden it a few times in recent weeks when I was here training at the end of April. I knew which corners I needed to slow for and which ones I could race round. As well as knowing how I wanted to ride the descent you also have to take into account the conditions around you and the other cyclists. Nobody came past me on this descent and I just sailed past other riders. My confidence was high and I just had to be really careful when overtaking. On one left hander I saw an ambulance and a chap in a ditch (no sign of his bike) being treated. Post race I found out that some competitors suffered broken bones (legs, arms, ribs) during the race and two people were kept in hospital overnight.
@@ -181,7 +181,7 @@ The run course is 42.2km and consists of 3 laps: first one of around 12 miles an
 
 As I ran past the pirates Sharon shouted that 'Philip Graves is just ahead of you - stick with him' (Philip Graves is a UK Pro triathlete who became the youngest ever Ironman winner when he won Ironman UK in 2009). I politely declined the suggestion and headed off at my own pace! Four weeks ago I ran the London Marathon in 3:26 and it felt comfortable. Running that pace after what I'd just done wouldn't feel comfortable but I had in the back of my head that if I could run anywhere near 3 hours 30 that would be amazing. My plan was to go for 8 minute miling and just stick with it as long as possible. The first mile was 7:43 - OK, a little quick but that's normal for me! Followed by 7:58, 7:56, 7:58, 8:09, 8:01, 7:58. All was going well. It wasn't as comfortable as I'd like it to be but my heart rate was in a good place and I felt confident.
 
-![All smiles at the start of the run.](/images/2013/20130518-2967-640x360.jpg) 
+![All smiles at the start of the run.](/images/2013/20130518-2967.jpg) 
 *All smiles at the start of the run.*
 
 The course is tough. It's not really flat, it's gently undulating. And there's plenty of headwind! The surface is a mixture of tarmac and paving stones along a fairly busy seafront. For a fair bit of the course there's restaurants and bars with people sat or stood outside and cheering you on. The only really quiet part (on the first large lap) goes past the airport - you're literally about 10 metres away from the runway on a cycle/walking path just beside a rather high fence with the airport on one side and the sea on the other.
@@ -190,7 +190,7 @@ As is the norm in these longer distance races I was in the oh-so-flattering yell
 
 At the end of the first lap (about 12 miles) I had been averaging 8:02 miling. This was all good. I was running through the aid stations taking a combination of water/energy drink and also picked up a couple of large ice cubes at one point (which were lovely down my shorts!!). I felt alright and just wanted to do the same again over the two shorter laps. Well... that feeling didn't last for long!
 
-![12 miles into the marathon and things are still going well.](/images/2013/20130518-3009-640x426.jpg) 
+![12 miles into the marathon and things are still going well.](/images/2013/20130518-3009.jpg) 
 *12 miles into the marathon and things are still going well.*
 
 I was now on the shorter laps and at the far turnaround point (about 15.5 miles in) I was really starting to struggle. I said to myself that I'd complete this loop (3.5 miles back to the start/finish turnaround) and then on the final 7 mile loop walk the aid stations. Well, three and a half minutes (not miles, minutes!) later and I was walking. This wasn't in the plan but my head was telling my legs that I needed to walk. The strategy at the aid stations was drink whatever I felt I could manage without having too much and then getting a large cup of water at the last 'table' and either pouring it over my head or just throwing it all over my face. Then start running again. And repeat.
@@ -239,7 +239,7 @@ The fastest marathon was run in 2:50:52. The male winner ran 2:55:03. The female
 
 With the final scores on the door I finished the race overall in 193rd place and was 35th in my age group. Here's a graph showing how my position changed as the race progressed in both the overall standings and M40-44 age group. Most of the timing splits were on the run with no splits given for the bike other than start and finish time. I created this graph thanks to the excellent work that [Russell Cox (coachcox.co.uk)](http://www.coachcox.co.uk/) does for the (number obsessed) triathlon community - this time making available a spreadsheet of all splits from the race.
 
-![2013-05-position-during-race](/images/2013/2013-05-position-during-race-640x445.png)
+![2013-05-position-during-race](/images/2013/2013-05-position-during-race.png)
 
 As soon as I crossed the line I was given my medal and then was met and had a photo with Kenneth Gasque, the race director (oh, and Ironman Hawaii finisher). He's absolutely awesome. He was down on the beach helping people with wetsuits earlier in the week. I saw him wandering around the day before the race and he spent the entire afternoon/evening/night of race day meeting each of the finishers. Brilliant. He knows how to make a big event like this have a family feel.
 
@@ -253,7 +253,7 @@ I got a bottle of water and walked towards the food/transition area. Sharon was 
 
 I then decided that I needed to get warm and drink something. One of the race volunteers helped me to my feet and I collected my bags, got changed and started eating and drinking. Eventually I felt well enough to leave the race area and join Sharon and one of the local restaurants - where I proceeded to eat half of her dinner and had another huge class of coke!
 
-![Dave and Frank from Edinburgh - some of my top supporters on the day.](/images/2013/IMG_3179-400x300.jpg) 
+![Dave and Frank from Edinburgh - some of my top supporters on the day.](/images/2013/IMG_3179.jpg) 
 *Dave and Frank from Edinburgh - some of my top supporters on the day.*
 
 Shortly afterwards I collected my bike, walked back to the apartment, cleaned myself up a bit and changed into some other clothes and then it was back down to 'pirate support central' at the 'Route 66' bar cheering in the other racers until gone midnight. I then bumped into my newly recruited supporters from Scotland and had a photo!
@@ -264,5 +264,5 @@ This was by far the toughest Ironman race that I've done. The wind, hills and ex
 
 As always the pirates both racing or supporting were great and it was lovely to get a group shot of almost all of us who raced Ironman Lanzarote 2013 in our finisher t-shirts.
 
-![Pirate finishers. Ironman Lanzarote 2013.](/images/2013/20130519-3126-640x426.jpg) 
+![Pirate finishers. Ironman Lanzarote 2013.](/images/2013/20130519-3126.jpg) 
 *Pirate finishers. Ironman Lanzarote 2013.*

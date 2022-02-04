@@ -27,7 +27,7 @@ I turned around, started swimming and clocked an additional 1.2 miles (just past
 
 I came back for breakfast and saw that Tom, a good friend from home (my normal home in England that is), had posted on Facebook that he was coming over to support at the race and was setting up an informal gathering of [parkrunners](http://parkrun.com) at 9am on the morning after the Ironman. Sounds like fun. Tom is 'the' Tom who gave me loads of encouragement during Ironman UK so he'll get to see my 'pain face' all over again in a few weeks time. Brilliant.
 
-![20130923-kona-parkrun-event](/images/2013/20130923-kona-parkrun-event-605x404.png)
+![20130923-kona-parkrun-event](/images/2013/20130923-kona-parkrun-event.png)
 
 I headed out and bought a few more shopping bits and pieces and that took me up to lunchtime. As for the afternoon... well I did absolutely nothing. a splash in the pool, read a magazine, listened to some Hawaiian radio (so so soothing!) and then popped up the road in the search of some more sunset photo. Here's just one of the dozen 'keepers' that I took.
 

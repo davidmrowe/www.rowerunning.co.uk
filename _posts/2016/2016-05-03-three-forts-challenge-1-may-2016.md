@@ -32,7 +32,7 @@ The course was stunning - the scenery across the South Downs and beyond was amaz
 
 I think I had a pretty solid runand pretty much maintained my position throughout - indicating that I paced it pretty well. As I had no idea of the course (I didn't really look at the profile until after the race) I had to be prepared for whatever was around each corner. On a flat race I'd pick my pace, keep an eye on my GPS and feel and just get on with it. Here I had to work to feel much more rather than pace - as my pace fluctuated from about 6 minute miling to 12 minute miling.
 
-![The finishing straight](/images/2016/20160501-1622-300x400.jpg) 
+![The finishing straight](/images/2016/20160501-1622.jpg) 
 *The finishing straight*
 
 There were maybe four drinks stations on route and the marshals were friendly and supportive. Thanks.
@@ -58,8 +58,8 @@ Here's my half marathon stats from over the years.
 
 Next up is the Bognor 10k in a couple of weeks time. Hopefully my legs will be feeling fresh for this one.
 
-![Shattered](/images/2016/20160501-1623-300x400.jpg) 
+![Shattered](/images/2016/20160501-1623.jpg) 
 *Shattered*
 
-![Another fine medal to add to the collection](/images/2016/20160501-1625-300x400.jpg) 
+![Another fine medal to add to the collection](/images/2016/20160501-1625.jpg) 
 *Another fine medal to add to the collection*

@@ -22,7 +22,9 @@ I didn't have a great deal of energy. The balls of my feet were burning. My legs
 
 After about three attempts I was able to stand up with the aid of a nearby tree and got myself over to the post race photo people. I've paid for my race photos in advance (over a year ago!) so got a couple of photos. They're a bit tacky. I'm never going to get one framed but they're part of being at Kona.
 
-![20151015-101454](/images/2015/20151015-1014541-533x800.jpg)Whilst I was standing I decided to take advantage of my new found mobility so found some protein based recovery drink. Or as I like to call it - chocolate milk. I then found some food - there's pizza and ice-cream on offer. For some this is probably a fine post race treat. I eat sh\*t like this most days! Hmn, that's probably why I'm packing a few extra pounds of weight this year.
+![20151015-101454](/images/2015/20151015-1014541.jpg)
+
+Whilst I was standing I decided to take advantage of my new found mobility so found some protein based recovery drink. Or as I like to call it - chocolate milk. I then found some food - there's pizza and ice-cream on offer. For some this is probably a fine post race treat. I eat sh\*t like this most days! Hmn, that's probably why I'm packing a few extra pounds of weight this year.
 
 Anyway, pizza was consumed. More gallons of milk and then I got myself back on my feet and headed back to transition - wearing my new finishers t-shirt and cap.
 
@@ -42,7 +44,9 @@ We all then headed slowly back along Ali'i to where Andy and Emma were staying (
 
 Pretty damn good.
 
-![20151010-7565-2](/images/2015/20151010-7565-2-300x400.jpg)Our car (wagon) was parked nearby so I got my bike thrown in the back and headed to Andy and Emma's for a shower and sunburn inspection. The shower was lovely, the sunburn red and the cold bottle of Longboard lager that Andy presented me with was bliss. Thank you.
+![20151010-7565-2](/images/2015/20151010-7565-2.jpg)
+
+Our car (wagon) was parked nearby so I got my bike thrown in the back and headed to Andy and Emma's for a shower and sunburn inspection. The shower was lovely, the sunburn red and the cold bottle of Longboard lager that Andy presented me with was bliss. Thank you.
 
 Once I was freshened up we headed back into town for the party of the year - the Kona finish line party.
 

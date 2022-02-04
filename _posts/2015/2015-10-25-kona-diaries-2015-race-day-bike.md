@@ -17,7 +17,7 @@ The 112 mile ride at the Ironman World Championship isn't a difficult ride in te
 - "It's not the bike course that is tough itself, it's about how fast you want to go. At the Ironman Hawaii, you have the best competition of the season, everybody is at the highest fitness level and many are willing to risk everything. This is why the bike course is hard - everybody wants to go fast." _Marino Vanhoenacker_
 - "You don't turn left or right. You just stay down on your aero bars, pushing as hard as you can on the pedals! There is no entertainment, it's just you and the road." _Cyril Viennot_
 
-![20151015-013714](/images/2015/20151015-013714-531x800.jpg)
+![20151015-013714](/images/2015/20151015-013714.jpg)
 
 As soon as you head out of transition there's a slight uphill section and then a left turn at 'Hot Corner' (which is a couple of minutes walk from the pier). They call it this as there's loud music, commentary and the athletes go past it many times during the day. Nothing related to the temperature. It's hot all bloody day everywhere on the course.
 
@@ -25,7 +25,7 @@ After turning athot corner you then loop around for a mile or so and end up back
 
 Once back (athot corner) you turn left and head up the Kuakini Highway for about two and a quartermiles, turn around and race back to hot corner, turn right and head up Palani Road (which is about 400 meters long at a relatively steep grade) and then head onto the Queen Ka'ahumanu (Queen K) highway in the direction of Kawahae and then Hawi.
 
-![20151015-021715](/images/2015/20151015-021715-531x800.jpg) 
+![20151015-021715](/images/2015/20151015-021715.jpg) 
 *Busy busy busy on the Kuakini Highway*
 
 I saw Sharon, Andy and Emma a couple of times near hot corner. I was keeping an eye outand it was great to see them. I think they were probably glad to see that I'd made it out of the swim and onto the bike. I know I was.
@@ -40,7 +40,7 @@ I think that's about right. This is my plan for the day. Be sensible.
 
 Onto the Queen K the crowds filter out and its just bikes. Then an aid station every few miles, then more cycling.
 
-![20151015-034859](/images/2015/20151015-034859-535x800.jpg)
+![20151015-034859](/images/2015/20151015-034859.jpg)
 
 The aid stations are huge. Bigger than anything I've ever seen in my life. They go on for probably 200m or so. The volunteers are the best. You slow down a little, gesture or shout to what you want (e.g., water, sports drink) and who you're looking at and just collect it from them. Some will run alongside you if you look like you're going fast.
 
@@ -64,7 +64,7 @@ Shortly behind the car a lone cyclist flew past (American Timothy O'Donnell who 
 
 There were a lot of them. And going pretty damn quick as well.
 
-![20151015-046120](/images/2015/20151015-046120-533x800.jpg)
+![20151015-046120](/images/2015/20151015-046120.jpg)
 
 There was a slight crosswind but nothing to worry about during the climb. Probably about four or five miles from Hawi some clouds were forming and a little spit of rain was felt. This sounded a bit like my ride a couple of weeks ago where it started to rain, then rained good and proper.
 
@@ -117,7 +117,7 @@ The bike is always a worry for me (and Sharon) as this is where mechanical probl
 
 I'd got to the end in one piece.
 
-![20151015-038695](/images/2015/20151015-038695-533x800.jpg)
+![20151015-038695](/images/2015/20151015-038695.jpg)
 
 For anyone wondering - nutrition wise on the bike I had an energy gel every 20 minutes. From the moment I ran around the pier in transition 1 to my bike until now I was having gels every 20 minutes. I then drank a combination of the Gatorade sports drink and water. I just had whatever I fancied at the time.
 

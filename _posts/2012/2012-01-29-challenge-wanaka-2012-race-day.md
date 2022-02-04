@@ -21,7 +21,7 @@ Before I get on with it I wrote a [number of posts in the week leading up to the
 
 Race start was set for 6:30am and as we like to be well prepared in advance the alarm was set for 3:30am. As we woke the van was moving around with the breeze outside. Damn it. Today could just be a tough one. Just after 4am we arrived at the race site in the campervan and found a car parking space literally 3 minutes walk from the main race marquee.
 
-![Coffee, suncream, and half a bowl of porridge (I'd already eaten a bowful and was just 'tidying up')!!!](/images/2012/20120121-1864-300x400.jpg)
+![Coffee, suncream, and half a bowl of porridge (I'd already eaten a bowful and was just 'tidying up')!!!](/images/2012/20120121-1864.jpg)
 *Coffee, suncream, and half a bowl of porridge (I'd already eaten a bowful and was just 'tidying up')!!!*
 
 Breakfast consisted of a cup of coffee and a big bowl of porridge, although actually probably no bigger than I'd have at home on a normal day! Sharon and I headed off to the transition area where I made final preparations to the bike - this involved filling up the little 'storage box' on the top tube of the bike with energy gels and then filling up both drinks bottles with some Powerade drink that we bought in a supermarket a few days ago. Once the bike computer was turned on everything was ready.

@@ -21,7 +21,7 @@ A hearty breakfast at the airport followed and then after trying to remotely tea
 
 Almost 6 foot 4 inches of me doesn't really like economy seats (although the economy seats we had on Air New Zealand last year were great). I pre-empted this a few weeks ago so (once again!) dug into my wallet and paid for seats with a little more legroom. Phew. Bliss. Well, as much bliss as you can get on an aeroplane without being in a first class lie-flat bed with endless audio/video/food/alcohol.
 
-![Just one more flight to go...](/images/2013/20130918-3442-final-flight-400x300.jpg) 
+![Just one more flight to go...](/images/2013/20130918-3442-final-flight.jpg) 
 *Just one more flight to go...*
 
 So, right now I'm in San Francisco. It's a three hour gap between the first 'international' flight from London and the 'domestic' flight to Kona. It's close to midnight UK time, 4pm local time and I'm waiting for the next flight - 5.5 hours to Kona.

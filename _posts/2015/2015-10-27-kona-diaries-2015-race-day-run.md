@@ -57,7 +57,9 @@ I turned left onto Ali'i and tried to settle into a pace. I'd done three few 7-8
 
 It was. For about a mile.
 
-![20151015-057749](/images/2015/20151015-057749-266x400.jpg)Heading along Ali'i I found myself running alongside a chap called Doug. He said to me that he remembered me from two years ago and that I knew Steve and Mary.
+![20151015-057749](/images/2015/20151015-057749.jpg)
+
+Heading along Ali'i I found myself running alongside a chap called Doug. He said to me that he remembered me from two years ago and that I knew Steve and Mary.
 
 In my usual (who the heck are you) way I politely said something like, "er, yes, perhaps I do know rememberbut I just can't place them right now. You see, like yourself I'm a little busy at the moment."
 
@@ -134,7 +136,9 @@ Towards the far end of the road I walked for a bit. The soles of my feet were ki
 
 I noticedone of the photographers down here and rather than start running and pretending that I was feeling good I smiled and just continued walking. This is just how it was.
 
-![20151026-energylab](/images/2015/20151026-energylab-533x800.jpg)I'm smiling in the photo because apart from my legs being shot to bits from next to no run training and my feet killing me I'm here doing the Hawaii Ironman. The 'Big Dance' as some like to call it. I'm so so fortunate to be here. I'm also 18 miles into the marathon and just about every step I make now is getting me closer to the finish and a big fat medal. This is awesome. I was loving it.
+![20151026-energylab](/images/2015/20151026-energylab.jpg)
+
+I'm smiling in the photo because apart from my legs being shot to bits from next to no run training and my feet killing me I'm here doing the Hawaii Ironman. The 'Big Dance' as some like to call it. I'm so so fortunate to be here. I'm also 18 miles into the marathon and just about every step I make now is getting me closer to the finish and a big fat medal. This is awesome. I was loving it.
 
 I think.
 
@@ -202,7 +206,7 @@ I ran to her. Stopped. Gave her a sweaty old kiss and a hug. The last time I sto
 
 I'm not racing here. I'm just completing. I'm enjoying the moment. I'm high-fiving people down the finishing chute.
 
-![20151015-066364](/images/2015/20151015-066364-533x800.jpg)
+![20151015-066364](/images/2015/20151015-066364.jpg)
 
 I'm also thinking about a nice clean finish line photo to savour. I have no intention of crossing the line alongside someone else.
 
@@ -212,7 +216,7 @@ Two years ago I made a rather feeble leap over the finishing line (it looked pre
 
 My finish was low(ish) key and that sat perfectly fine with me.
 
-![20151015-080102](/images/2015/20151015-080102-531x800.jpg)
+![20151015-080102](/images/2015/20151015-080102.jpg)
 
 Heck I've just finished the Hawaii Ironman. For the second time.
 

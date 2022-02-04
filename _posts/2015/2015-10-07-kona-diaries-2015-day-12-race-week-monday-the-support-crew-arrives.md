@@ -78,7 +78,7 @@ Once the thirst was quenched we headed over to the King Kamehameha hotel for the
 
 The location is great, there's lots of things to do (creating fresh flower wristlets, Hawaiian style drawings, food and much more) and very few people go. The event is free to all athletes, friends and family and there were probably only a couple of hundred people there at most.
 
-![20151005-7463](/images/2015/20151005-7463-300x400.jpg) 
+![20151005-7463](/images/2015/20151005-7463.jpg) 
 *Sharon and Emma getting creative*
 
 ![DCIM108GOPRO](/images/2015/20151005-0107285.jpg)

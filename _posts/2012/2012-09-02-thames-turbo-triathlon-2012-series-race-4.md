@@ -8,17 +8,21 @@ author:
   - "david"
 ---
 
-![](/images/2012/20120827-20120827-9971-266x400.jpg "20120827-20120827-9971")This is a local triathlon race to me which is probably why I've taken part in one of their races almost every year since 2007. It's a great beginners race and also caters for the speedy types with some great racing going on. This year it was time for my seemingly annual race against Paul D. but also a chance to compete alongside lots of other friends, many of whom are parkrun regulars.
+![](/images/2012/20120827-20120827-9971.jpg)
+
+This is a local triathlon race to me which is probably why I've taken part in one of their races almost every year since 2007. It's a great beginners race and also caters for the speedy types with some great racing going on. This year it was time for my seemingly annual race against Paul D. but also a chance to compete alongside lots of other friends, many of whom are parkrun regulars.
 
 I've written about the race format in the past and once again I was in the second (which actually is now the third) and final wave. So although I was racking my bike in transition at 6am I didn't start my race until after 8:20am. The waiting around wasn't too bad as there were loads of friends taking part in the race and I was able to cheer them on.
 
 Into the pool and time for the 426m swim. I'd estimated my 400m swim time at 6 minutes 45 which is probably the quickest I've estimated it over the years of doing the race. The swim was very uneventful (which is a good thing) and **I came out of the water in 7:18** which was 33rd fastest (out of 418 finishers). This is the equivalent of 6:51 for 400m so accurate enough.
 
-![](/images/2012/20120827-20120827-0118-640x640.jpg "20120827-20120827-0118")
+![](/images/2012/20120827-20120827-0118.jpg "20120827-20120827-0118")
 
 The race is now chip timed and we now get individual transition times. This is great news but means a little more work to compare times from previous years. All timings and positions are based on the results that were posted online later on race day.
 
-![](/images/2012/20120827-20120827-0149-266x400.jpg "20120827-20120827-0149")Transition 1 took me **59 seconds** (I'm still a bad inexperienced triathlete that puts my bike shoes on in transition rather than leaves them on the bike and puts them on whilst cycling. I also lost a couple of seconds turning on the video camera that I attached to the bike to film the race. I was 43rd quickest (or slowest) in transition.
+![](/images/2012/20120827-20120827-0149.jpg "20120827-20120827-0149")
+
+Transition 1 took me **59 seconds** (I'm still a bad inexperienced triathlete that puts my bike shoes on in transition rather than leaves them on the bike and puts them on whilst cycling. I also lost a couple of seconds turning on the video camera that I attached to the bike to film the race. I was 43rd quickest (or slowest) in transition.
 
 Comparing to 2011 where swim and transition times are timed as one (although the timing point for bike start is a little earlier in 2012) my time in 2011 was 8:40 and this year 8:17. Even with 10-15 seconds difference I'm about the same as last year. That'll do.
 
@@ -26,13 +30,56 @@ Onto the bike. I'd not really trained for such a hard flat out effort on the bik
 
 For the data lovers here's my times from the previous times I've raced this course and [this years full data in all its glory over at TrainingPeaks.com](http://www.trainingpeaks.com/av/SNC2CAMSQBXTCQ356DMVRVHG4M).
 
-| RACE DATE | TIME | AVG HEART RATE | MAX HEART RATE | AVG CADENCE | NORMALISED POWER |
-| --- | --- | --- | --- | --- | --- |
-| May 2010 | 36:20 | n/a | n/a | 102 | n/a |
-| August 2010 | 35:51 | 161 | 167 | 93 | n/a |
-| May 2011 | 35:20 | 166 | 171 | 92 | 310 |
-| August 2011 | 34:48 | 162 | 169 | 93 | 322 |
-| August 2012 | 34:51 | 164 | 170 | 93 | 314 |
+<table class="table">
+  <tr>
+    <td>RACE DATE</td>
+    <td>TIME</td>
+    <td>AVG HEART RATE</td>
+    <td>MAX HEART RATE</td>
+    <td>AVG CADENCE</td>
+    <td>NORMALISED POWER</td>
+  </tr>
+  <tr>
+    <td>May 2010</td>
+    <td>36:20</td>
+    <td>n/a</td>
+    <td>n/a</td>
+    <td>102</td>
+    <td>n/a</td>
+  </tr>
+  <tr>
+    <td>August 2010</td>
+    <td>35:51</td>
+    <td>161</td>
+    <td>167</td>
+    <td>93</td>
+    <td>n/a</td>
+  </tr>
+  <tr>
+    <td>May 2011</td>
+    <td>35:20</td>
+    <td>166</td>
+    <td>171</td>
+    <td>92</td>
+    <td>310</td>
+  </tr>
+  <tr>
+    <td>August 2011</td>
+    <td>34:48</td>
+    <td>162</td>
+    <td>169</td>
+    <td>93</td>
+    <td>322</td>
+  </tr>
+  <tr>
+    <td>August 2012</td>
+    <td>34:51</td>
+    <td>164</td>
+    <td>170</td>
+    <td>93</td>
+    <td>314</td>
+  </tr>
+</table>
 
 After the bike finishes you get a gentle spin (it's part of a special 'non-compete zone' which forms part of these races). back to T2 and the 5k run start. I took it easy and was ready to carry on racing after about 6 minutes.
 
@@ -61,5 +108,5 @@ Here's how my times have improved over the times that I've taken part in these r
 
 Finally I mentioned earlier that in transition 1 I spent a few seconds turning on my video camera. Well, during the bike my camera decided to break away from its bracket and is lost - either in a hedgerow somewhere or in someone's lucky hands! So alas there is no video, which after last years exposure probably isn't a bad thing!
 
-![The tallest men in triathlon. Stef, James, Nick, David](/images/2012/20120827-20120827-9544-640x426.jpg)
+![The tallest men in triathlon. Stef, James, Nick, David](/images/2012/20120827-20120827-9544.jpg)
 *The tallest men in triathlon. Stef, James, Nick, David*

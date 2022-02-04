@@ -42,7 +42,7 @@ I made it to Hawi, used the restroom at alocal shop (and left some money to say 
 
 ![20150929-hawi](/images/2015/20150929-hawi.jpg)
 
-![20150929-sharon](/images/2015/20150929-sharon-300x400.jpg)I dropped Sharon a text message so say that I'd made it to Hawi and she let me know that she'd been out for a little run along Ali'i Drive - like the pro triathletes do during the build up to the race.
+![20150929-sharon](/images/2015/20150929-sharon.jpg)I dropped Sharon a text message so say that I'd made it to Hawi and she let me know that she'd been out for a little run along Ali'i Drive - like the pro triathletes do during the build up to the race.
 
 I asked if she enjoyed it. Many expletives and the words 'too hot' came back in return.
 
@@ -124,7 +124,7 @@ So why is the title of this post called 'BBQ Tuesday' - well... back home in Eng
 
 So I did. As part of my 'get myself down to race weight' routine that I've just started I went easy on theportions. So here's a photo of my dinner.
 
-![20150929-7422](/images/2015/20150929-7422-300x400.jpg)
+![20150929-7422](/images/2015/20150929-7422.jpg)
 
 Just as we finished cooking our food on the BBQ the sun started dropping below the horizonand the cruise liner headed off into the distance (tomorrow morning it will be docked on the island of Maui).
 

@@ -17,7 +17,9 @@ I was out of bed just before 3am (transition opens at 4:45am and race start is 7
 
 A few other lights could seen around the condo block turning on at this unearthly hour as there were a few competitors staying at the same place. I got dressed, covered myself in factor 50 waterproof 'P50' suncream and put my electronic timing chip around my left ankle. We closed the door on the apartment just before 4am and strolled up to the condo car park entrance where we met Andy and Emma. After I qualified for the race in early August they decided to fly all the way from London to Hawaii for a long weekend to have a holiday and support the race - the first Ironman they've ever been to. Nice choice.
 
-![20131012-3826](/images/2013/20131012-3826-299x400.jpg)The four of us then strolled the approx 1.7 miles to the start/finish area. There were only a few people sat on the ocean wall along Ali'i Drive by the finish area at this time (4:35am). We took a couple of photos - one of me in my lucky wooly hat. I'm not sure when it became my lucky hat. It was given to be my some friends in London (Mikee and Louise) many years ago and it just seems to follow me round to races. This was the first (and last) time that I wore this wooly hat the entire time I've been here. Strange that!
+![20131012-3826](/images/2013/20131012-3826.jpg)
+
+The four of us then strolled the approx 1.7 miles to the start/finish area. There were only a few people sat on the ocean wall along Ali'i Drive by the finish area at this time (4:35am). We took a couple of photos - one of me in my lucky wooly hat. I'm not sure when it became my lucky hat. It was given to be my some friends in London (Mikee and Louise) many years ago and it just seems to follow me round to races. This was the first (and last) time that I wore this wooly hat the entire time I've been here. Strange that!
 
 I then left Sharon, Andy and Emma to go and establish a spot on 'the wall' whilst I headed to transition. I said my goodbyes and said that I'd see them on the course. You then walk around the King Kamehameha hotel to the entrance to transition. The queue was pretty big but in under 10 minutes I was walking through to the first part of race day - body marking. Under a huge marquee you find the area for your number and then a lovely volunteer wipes any suncream off of your arms with some sort of alcohol wipe and then applies a 'temporary number tattoo' to both arms.
 
@@ -33,7 +35,7 @@ After weigh-in you walk round to bike transition. You walk along the path right 
 
 I found my bike, filled its drink bottles with lovely sports drink, attached handfuls of energy gels to the bike and then checked the pressure and pumped up my tires (there are track pumps available at the ends of each line of bikes).
 
-![20131012-3845](/images/2013/20131012-3845-599x800.jpg)
+![20131012-3845](/images/2013/20131012-3845.jpg)
 
 
 

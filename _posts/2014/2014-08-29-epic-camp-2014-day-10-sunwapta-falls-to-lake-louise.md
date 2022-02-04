@@ -66,7 +66,7 @@ I had my snickers, some hot soup that was there and shivered for a few minutes. 
 
 I was absolutely soaked to the skin and the descent was freezing. It was cold, wet, windy and raining. Oh, and all my clothes were wet from a combination of sweat and rain.
 
-![Adam B, the current points leader going into the final couple of days of training](/images/2014/20140828-0086251-599x800.jpg) 
+![Adam B, the current points leader going into the final couple of days of training](/images/2014/20140828-0086251.jpg) 
 *Adam B, the current points leader going into the final couple of days of training*
 
 A group of us pushed on and got to the 100k point to regroup. We stopped at one points as Petro had lost a contact lens (from his 'good eye'). He got a spare from his saddle bag and then used my mirrored glasses as, er, a mirror.

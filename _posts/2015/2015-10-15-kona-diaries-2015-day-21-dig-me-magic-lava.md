@@ -16,9 +16,9 @@ Sharon went for a little snorkel close to shore whilst Andy, Emma and myself swa
 
 ![20151014-0042509](/images/2015/20151014-0042509.jpg)
 
-Oh how different it was tofour days previous.
+Oh how different it was to four days previous.
 
-![20151014-7646](/images/2015/20151014-7646-400x300.jpg)Post swim we'd worked up an appetite so over to Splashers across the road. I went for the breakfast burrito! A somewhat bizarre choice but as it was on the breakfast menu then it was good enough for me. It was delicious.
+![20151014-7646](/images/2015/20151014-7646.jpg)Post swim we'd worked up an appetite so over to Splashers across the road. I went for the breakfast burrito! A somewhat bizarre choice but as it was on the breakfast menu then it was good enough for me. It was delicious.
 
 After breakfast Sharon and I headed home and thought a little about packing. Well... I thought about it and Sharon actually did some. My contribution was starting to prepare a list of the 'free swag' that we've picked up during this visit. I'll probably share that in a day or two.
 

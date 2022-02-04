@@ -66,7 +66,7 @@ As I shared a wheat beer (I almost typed 'bear' then!!) with Scott he was interv
 
 ![20140823-5402](/images/2014/20140823-5402.jpg)
 
-![20140823-5403](/images/2014/20140823-5403-599x800.jpg)
+![20140823-5403](/images/2014/20140823-5403.jpg)
 
 Dinner was at a local restaurant and was lovely. After leaving the restaurant we headed back to where we are staying and were told the plan for Sunday - a swim in the lake, a 110km (ish) bike ride and a run at our destination for the day.
 
@@ -78,5 +78,5 @@ So far this week after five days of training (we started the camp on Tuesday) I'
 
 Rather them than me.
 
-![Gary had a harder ride that I did today](/images/2014/20140823-5412-599x800.jpg) 
+![Gary had a harder ride that I did today](/images/2014/20140823-5412.jpg) 
 *Gary had a harder ride that I did today*

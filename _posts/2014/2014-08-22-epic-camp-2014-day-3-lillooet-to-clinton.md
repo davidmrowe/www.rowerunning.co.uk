@@ -74,5 +74,5 @@ Today was a good day. A fair bit of climbing (well, we are in the mountains afte
 
 Just.
 
-![Todays bike ride profile.  A little lumpy.](/images/2014/20140821-profile-605x165.png)
+![Todays bike ride profile.  A little lumpy.](/images/2014/20140821-profile.png)
 *Todays bike ride profile.  A little lumpy.*

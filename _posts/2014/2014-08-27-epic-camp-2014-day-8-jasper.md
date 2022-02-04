@@ -10,7 +10,7 @@ author:
 
 Charlesy (I've used a number of different spellings of his name over the days but I'll try and stick to this one from now), Shannon, Gary and myself were roomies last night. We all get on well and all had an obligatory 'go' of Shannon's Normatec Boots. Here's Gary showing how cool they are!
 
-![Gary. No more words necessary here.](/images/2014/20140825-gary-normatec-599x800.jpg) 
+![Gary. No more words necessary here.](/images/2014/20140825-gary-normatec.jpg) 
 *Gary. No more words necessary here.*
 
 For those who have no idea what I'm going on about, it's probably for the best. They're like a blood pressure thingy but strapped round your legs. The compression is pretty high and is apparently good for you.
@@ -59,7 +59,7 @@ Of course not, we had a 3k minimum to do today so another 1850m needed to be tic
 
 We left the pool shortly after 8am, that's two hours after arriving. I've never been to a pool for two hours before. Bloody ridiculous.
 
-![Breakfast](/images/2014/20140826-5522-299x400.jpg) 
+![Breakfast](/images/2014/20140826-5522.jpg) 
 *Breakfast*Back at the 'ranch' we were treated to an 'egg casserole' by Michelle, one of the support crew. It was lovely - egg, bacon, cheese, bread - all mixed up and baked in the oven. That and a pint of chocolate milk hit the spot. I love my chocolate milk but I think Shannon likes it more - the girl is obsessed with the stuff. If you say the words 'Chocolate Milk' to her she lights up almost as much as if you said to me 'David, the pool is closed today so no swimming.' It's like that!
 
 We're staying in Jasper for a second night so we don't need to check out today. That's nice. It also means that we have a 'easier' day today as we're not cycling 100 miles or so to a new far flung destination.
@@ -102,7 +102,7 @@ Which it was, until my bike decided to deliver me a 'speed wobble' at high speed
 
 We then did what we needed to do to get the ride up to 60k. It was not pretty. My legs were not working. It's funny, the short days are killing me and the long days are alright. I've no idea what that's all about! Perhaps my intense record breaking (or perhaps not) times in the swim races has tired me out more than expected?
 
-![Louis, a bear, myself](/images/2014/20140826-ice-cream-298x400.jpg) 
+![Louis, a bear, myself](/images/2014/20140826-ice-cream.jpg) 
 *Louis, a bear, myself*Eventually we found ourselves back in Jasper at an ice cream parlour. Well, if you insist.
 
 After that it was back to the hotel/apartment and a bit of relaxing time. Gary and Adam headed off to buy some beer and after about 45 minutes came back with some non alcoholic shite (purely by accident). It was fizzy and that was about it. None of us were best impressed.

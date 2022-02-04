@@ -107,7 +107,9 @@ _David 1. Matt 0._
 
 My bike computer had me 'riding' for 55:12 for 22.5 miles. Averaging 24.4mph. Mine was the third fastest bike split and I was 1 minute 19 off of the fastest time. That'll do nicely.
 
-![20150809-run-aitch](/images/2015/20150809-run-aitch-300x400.jpg)OK, onto the run. It's a four lap affair with some on trails around some scrubland and the rest on road/footpaths. The multiple laps worked really well (apart from a narrow footpath which meant you got stung by nettles if you overtook anyone!) as the main support was all based around a central area so you got lots of cheers every 10 minutes or so. Out on the course there were a few marshalls and as many of them are from the local parkrun they were familiar faces which made the encouragement even better.
+![20150809-run-aitch](/images/2015/20150809-run-aitch.jpg)
+
+OK, onto the run. It's a four lap affair with some on trails around some scrubland and the rest on road/footpaths. The multiple laps worked really well (apart from a narrow footpath which meant you got stung by nettles if you overtook anyone!) as the main support was all based around a central area so you got lots of cheers every 10 minutes or so. Out on the course there were a few marshalls and as many of them are from the local parkrun they were familiar faces which made the encouragement even better.
 
 The run was hard work. I'd not run 10k (in training or otherwise) for at about a month and with two of those weeks not having run a single step this meant it wouldn't be easy. I managed to push myself round the 10k route in 44:26.
 

@@ -49,7 +49,7 @@ Over to Huggo's Restaurant was next on the agenda and we caught the end of an in
 
 Next up was Tyler Butterfield - a two time Olympian who is proud to say that his mother has run a faster marathon (2 hours 38 minutes) than he has. His dad was also pretty sporty having also taken part in the Olympics (in 1972) and also finished seventh in the 1981 Hawaii Ironman.
 
-![DCIM108GOPRO](/images/2015/20151006-0297770-400x300.jpg)We hung around for one more interview which was with Timothy O'Donnell - he's a pretty darn good Ironman triathlete but often gets referred to as World Champion Mirinda Carfrae's other half.
+![DCIM108GOPRO](/images/2015/20151006-0297770.jpg)We hung around for one more interview which was with Timothy O'Donnell - he's a pretty darn good Ironman triathlete but often gets referred to as World Champion Mirinda Carfrae's other half.
 
 Breakfast with Bob is a great place in the middle of town where there's no hustle and bustle, food and drink available and some pretty interesting stories being told right before your eyes by the top names in the sport.
 
@@ -96,7 +96,9 @@ A little way along I spotted one of those uber-triathlete types - just running a
 
 After dropping him off home safe and sound Andy and I headed back to the Specialized house.
 
-![DCIM108GOPRO](/images/2015/20151006-0137942-400x225.jpg)I'd been to this house before in 2013 for the Slowtwitch website 'gathering'. It's stunning. Today was no exception. There were probably 20-30 people there maximum and a good half dozen or so of them were professional racers including multiple Kona winners Craig Alexander and Chris McCormack. Others included Tim Don, Ben Hoffman and Brent McMahon.
+![DCIM108GOPRO](/images/2015/20151006-0137942.jpg)
+
+I'd been to this house before in 2013 for the Slowtwitch website 'gathering'. It's stunning. Today was no exception. There were probably 20-30 people there maximum and a good half dozen or so of them were professional racers including multiple Kona winners Craig Alexander and Chris McCormack. Others included Tim Don, Ben Hoffman and Brent McMahon.
 
 Food and drink was available and although most people looked fairly casual I'm not sure the dripping with sweat and gasping for water look that Andy and myself were sporting was the perfect fit with the surroundings. It was close though!
 
@@ -134,7 +136,7 @@ We were also given visors to wear as well thanks to the clothing company TYR.
 
 Anyway, I collected my t-shirt and then got chatting to a lady I've been wanting to track down for a good few days - Jennifer. Jennifer is an Ironman Lottery winner (a number of athletes can gain entry to the race via a lottery - which was one of the things that one of the founders of Ironman wanted - the opportunity to provide athletes of all abilities the opportunity to take part in the world championships. Well... Jennifer was selected in the lottery and also did an Ironman earlier this Summer. She's apprehensive about the race and I wanted to try and see if I could calm any nerves and just get to know her.
 
-![20151006-jen-david-2](/images/2015/20151006-jen-david-2-605x400.jpg)
+![20151006-jen-david-2](/images/2015/20151006-jen-david-2.jpg)
 
 Somehow she'd been given the Union Flag to carry at the front of the parade. How cool.
 
@@ -142,33 +144,35 @@ Well... the next thing was that a sign saying 'United Kingdom' was thrust into m
 
 Sure. I'll try my best.
 
-![20151007-parade-david-pearce-2](/images/2015/20151007-parade-david-pearce-2-605x403.jpg)
+![20151007-parade-david-pearce-2](/images/2015/20151007-parade-david-pearce-2.jpg)
 
 For the next 45 minutes or so Jennifer and myself had an awesome time. We chatted, we waved our signs and flags, we 'herded' the athletes from the UK from the start through town and to the Expo area where the parade ends.
 
 ![20151007-parade-david-pearce-1](/images/2015/20151007-parade-david-pearce-1.jpg)
 
-![DCIM108GOPRO](/images/2015/20151006-0348233-605x454.jpg)
+![DCIM108GOPRO](/images/2015/20151006-0348233.jpg)
 
-![20151007-parade-david-pearce-3](/images/2015/20151007-parade-david-pearce-3-605x404.jpg)
+![20151007-parade-david-pearce-3](/images/2015/20151007-parade-david-pearce-3.jpg)
 
 There were crowds on both sides of the street cheering us all on and we all got a great reception.
 
 It was awesome.
 
-![20151007-parade-richard](/images/2015/20151007-parade-richard-605x403.jpg)
+![20151007-parade-richard](/images/2015/20151007-parade-richard.jpg)
 
-![DCIM108GOPRO](/images/2015/20151006-0388288-605x454.jpg)
+![DCIM108GOPRO](/images/2015/20151006-0388288.jpg)
 
 Right before the end I wasn't quite sure why but some foreign folk with megaphones demanded that I do some one armed press-ups - probably to show the strength of the UK team. Of course I obliged and the photo you see is after I completed 10 one armed press-ups with the other arm behind my back and a couple of people sat on top of me.
 
 We're rock hard us UK folk you see.
 
-![DCIM108GOPRO](/images/2015/20151006-0388320-605x454.jpg)At the end of the parade we all find ourselves in the Expo area, or 'Ironman Village' as it's called. We got to look around some of the stands (there's lots of manufacturers here) and picked up a few free bits and pieces (such as socks and hats).
+![DCIM108GOPRO](/images/2015/20151006-0388320.jpg)
+
+At the end of the parade we all find ourselves in the Expo area, or 'Ironman Village' as it's called. We got to look around some of the stands (there's lots of manufacturers here) and picked up a few free bits and pieces (such as socks and hats).
 
 We also made it just in time for another beautiful sunset.
 
-![DCIM108GOPRO](/images/2015/20151006-0398391-605x454.jpg)
+![DCIM108GOPRO](/images/2015/20151006-0398391.jpg)
 
 On one of the stands I saw my favourite Danish professional triathlete, Michelle! She's bonkers, I'm slightly crazy, we grabbed some temporary tattoos from her (and a sticker for me to put on the the fridge at home) and headed on our way. I also enquired as to what time she was being interviewed on Wednesday morning on the 'Breakfast with Bob' show.
 

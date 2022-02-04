@@ -52,7 +52,7 @@ As I headed back to the pier and towards the finish every now and then when you 
 
 I got to shore, walked briskly up the stairs, headed through the freshwater hoses that hang from above, rinsed my face and jogged to get my swim-to-bike bag.
 
-![20151015-006480](/images/2015/20151015-006480-531x800.jpg)
+![20151015-006480](/images/2015/20151015-006480.jpg)
 
 - Swim time 1:14:20
 - 1,221st overall after the swim (966th male)

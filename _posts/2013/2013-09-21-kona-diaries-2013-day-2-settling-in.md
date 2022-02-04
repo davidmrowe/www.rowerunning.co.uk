@@ -24,7 +24,7 @@ Thursday morning I woke up about 4:40am! I had a drink (well, tap water was all 
 
 ![20130919-3461](/images/2013/20130919-3461.jpg)
 
-![Beer and Crisps!  Hawaiian Style.](/images/2013/20130919-3464-299x400.jpg) 
+![Beer and Crisps!  Hawaiian Style.](/images/2013/20130919-3464.jpg) 
 *Beer and Crisps! Hawaiian Style.*
 
 After breakfast I headed off to get some shopping. I checked out the local swimming pool as well (which looks lovely), returned 'home' and then started rebuilding my bike.

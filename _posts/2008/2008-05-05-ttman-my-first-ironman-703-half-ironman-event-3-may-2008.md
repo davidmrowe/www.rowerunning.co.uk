@@ -41,6 +41,9 @@ Food for Friday night/Saturday morning...
 - 1 hot chocolate - around 450 calories I guess
 - 1 raspberry/white chocolate muffin - 511 cals, 63.1g carbohydrates (of which 37.9g sugars)
 
+![](/images/2008/2008-05-03-ttman-before_the_start.jpg)
+*I have no idea what shoes I'm wearing here - they look like smart work ones!*
+
 ![](/images/2008/2008-05-03-ttman-before_the_start2.jpg)
 I arrived at the [Bosworth Water Trust](http://www.bosworthwatertrust.co.uk/) site at around 6:30am and parked alongside a handful of other triathletes who were also taking part. A few introductions were made (of which I forget everyones names, although I kind of know Jon, as I've seen him a couple of times on Saturday morning open water swim sessions).
 

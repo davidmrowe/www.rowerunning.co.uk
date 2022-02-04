@@ -21,7 +21,9 @@ One thing that we wanted to do before leaving was get a nice few photos of me an
 
 We finished off the packing - well, Sharon finished off the packing whilst I finished off the packet of breakfast cereal in the cupboard and then went into town for a proper breakfast.
 
-![20131018-3939](/images/2013/20131018-3939-299x400.jpg)We've had a couple of breakfasts at Island Lava Java and thought we'd return to old faithful as we've had some lovely food there and the view is lovely.
+![20131018-3939](/images/2013/20131018-3939.jpg)
+
+We've had a couple of breakfasts at Island Lava Java and thought we'd return to old faithful as we've had some lovely food there and the view is lovely.
 
 It's was really quiet this morning and at about 8:30am we could just stroll up to an empty table out front and sit down. There were a fair few swimmers out in the water (Lava Java looks directly out to the 750m and 1.2 mile permanent turn buoys - measured from the pier) and I suspect they were hanging around more than usual because of the pod of dolphins that was near them. We could see the dark coloured fins moving up and down on and off for quite a while whilst we were eating. It was lovely. This place is seriously chilled out now that the Ironman circus has pretty much completely left town.
 

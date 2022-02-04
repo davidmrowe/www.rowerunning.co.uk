@@ -20,9 +20,9 @@ From Kona we headed north on Highway 190 to Waimea, and from there on the Kohala
 
 Part way along this route you see a large mountain ahead of you. It's not Hawaii, it's actually Mount Haleakala on Maui, about 30 miles away across the Pacific Ocean. I've always wanted to go to Maui. The north shore of Maui is the 'home' of windsurfing with some of the best conditions (and sailors) in the world. When I was growing up and into windsurfing I always wanted to go there. This was before I had heard of triathlon. Then my allegiance switched from Maui to the big island of Hawaii. I'll visit Maui one day, but for now I'm happy just seeing it in the distance.
 
-From Hawi we headed east, through Kapaau where you go past the Original King Kamahemaeha Statueand then continue to the Pololu Valley Lookout.
+From Hawi we headed east, through Kapaau where you go past the Original King Kamahemaeha Statue and then continue to the Pololu Valley Lookout.
 
-![20131016-7190](/images/2013/20131016-7190-533x800.jpg)
+![20131016-7190](/images/2013/20131016-7190.jpg)
 
 Before we got to the Pololu Valley Lookout we stopped briefly at [St. Augstine's Episcopal Church](http://staugustinesbigisland.episcopalhawaii.org/) as it looked like such a nice building from the road. It was just as stunning close up.
 
