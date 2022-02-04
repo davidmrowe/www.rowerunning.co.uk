@@ -1,6 +1,6 @@
 ---
+id: 40
 title: Epic Camp Canada 2014
-date: 2014-08-12T17:43:16+01:00
 author: David
 layout: page
 type: page

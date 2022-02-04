@@ -1,4 +1,5 @@
 ---
+id: 10
 title: 'All Posts'
 type: page
 layout: category
