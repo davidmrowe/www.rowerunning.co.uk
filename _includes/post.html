@@ -30,12 +30,12 @@
 
 
   <div class="row mb-3">
-  <div class="col-6">
+  <div class="col-sm-6 mb-3">
     {% if page.previous.url %}
       <a href="{{page.previous.url}}" type="button" class="btn btn-secondary">&laquo; {{page.previous.title}}</a>
     {% endif %}
   </div>
-  <div class="col-6">
+  <div class="col-sm-6">
     {% if page.next.url %}
       <a href="{{page.next.url}}" type="button" class="btn btn-secondary float-right">{{page.next.title}} &raquo;</a>
     {% endif %}
