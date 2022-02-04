@@ -12,7 +12,7 @@
   <p itemprop="description">{% if include.post.author %}By 
     <span itemprop="author">{% capture titlecase %}
     {% for word in include.post.author %}
-      {{ word | capitalize }}{% if forloop.rindex > 1 %},{% endif %}
+      {{ word | capitalize }}{% if forloop.rindex > 1 %} and {% endif %}
     {% endfor %}{% endcapture %}
   {{ titlecase }}
     </span> on {% endif %}<time itemprop="datePublished" datetime="{{ include.post.date | date_to_xmlschema }}">{{ include.post.date | date: site.date_format }}</time>{% if include.post.updated %}. Last updated on <time itemprop="dateModified" datetime="{{ include.post.updated | date_to_xmlschema }}">{{ include.post.updated | date: site.date_format }}</time>{% endif %}{% if include.post.comments %}. <a href="{{ include.post.url | relative_url }}#disqus_thread" data-disqus-identifier="{{ include.post.url | relative_url }}"></a>{% endif %}</p>
