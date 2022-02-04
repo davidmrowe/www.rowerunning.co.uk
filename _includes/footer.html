@@ -2,6 +2,7 @@
   <div class="col">
     <div class="container">
 
+      {% if page.type == "home" %}
       <div class="row">
         <div class="col-sm-6">
           <h3>Recent Posts</h3>
@@ -17,8 +18,8 @@
             <li>Sharon - 5k:25:22, 10k:54:45, 8m:1:23:47, 10m:1:32:27, 13.1m:2:08:26, 26.2m:4:46:36</li>
           </ul>
         </div>
-
       </div>
+      {% endif %}
 
       <div class="row">
         <div class="col text-center text-muted small">
