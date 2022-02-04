@@ -39,6 +39,8 @@ type: category
                   {% else %}
                     {{ post.date | date: "%b %Y" }}
                   {% endif %}
+
+                  {% include categories_badges.html %}
                 </li>
 
                 {% endfor %}

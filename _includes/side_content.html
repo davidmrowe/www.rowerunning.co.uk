@@ -13,7 +13,6 @@
   </nav>
   {% endcomment %}
 
-
   {% if post %}
     {% assign categories = post.categories %}
   {% else %}
@@ -28,13 +27,12 @@
       />
     {% endif %}
   {% endif %}
-
   
+  {% comment %}
   <nav>
     {% include categories_list_card.html %}
   </nav>
-
-  <br />
+  {% endcomment %}
 
   <nav>
   {% include posts_list_card.html limit=5 %}

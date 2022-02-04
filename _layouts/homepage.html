@@ -63,20 +63,7 @@ type: homepage
                   </a>
                 </p>
 
-              {% if post %}
-                {% assign categories = post.categories %}
-              {% else %}
-                {% assign categories = page.categories %}
-              {% endif %}
-
-              {% if categories %}
-                {% for category in categories %}
-                  <a href="/category/{{ category }}" class="badge badge-secondary small">
-                    <span>{{category | replace: "-", " " }}</span>
-                  </a>
-                {% endfor %}
-              {% endif %}
-
+                {% include categories_badges.html %}
             </a>
           </div><!-- card body -->
           <div class="card-footer small">
