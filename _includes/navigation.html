@@ -1,6 +1,6 @@
 <div class="container pt-3 d-none d-lg-block">
   <h1 class="h3">
-    <a class="text-dark" href="{{ "/" | relative_url }}" style="text-decoration: none !important;">
+    <a class="text-dark site-h1" href="{{ "/" | relative_url }}">
       <i class="fas fa-running"></i>
       {{ site.title | liquify }}</a>
   </h1>
@@ -21,7 +21,7 @@
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarNav">
-    <div class="navbar-nav mr-auto" style="margin-left: -1.5em;">
+    <div class="navbar-nav mr-auto">
       {% assign pages = site.pages | sort: 'id' %}
       {% for item in pages %}
         {% if item.type == "page" %}

@@ -13,6 +13,8 @@ $sm: "only screen and (min-width: #{$screen-sm})"
 $md: "only screen and (min-width: #{$screen-md})"
 $lg: "only screen and (min-width: #{$screen-lg})"
 
+h1 a.site-h1
+  text-decoration: none !important;
 
 article img
   max-width: 100%;
@@ -41,3 +43,15 @@ blockquote
   padding-right: 1em;
   font-style: italic;
   border-left: 0.4em solid #ccc;
+
+.navbar
+  padding-left: 0rem;
+  padding-right: 0rem;
+
+  @media #{$md}
+    // padding-left: 1rem;
+    // padding-right: 1rem;
+
+  a.nav-item.nav-link
+    color: #5a5a5a;
+  
