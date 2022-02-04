@@ -1,0 +1,15 @@
+<!-- categories_badges -->
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+
+  {% if categories %}
+    {% for category in categories %}
+      <a href="/category/{{ category }}" class="badge badge-secondary small">
+        <span>{{category | replace: "-", " " }}</span>
+      </a>
+    {% endfor %}
+  {% endif %}
+<!-- /categories_badges -->
