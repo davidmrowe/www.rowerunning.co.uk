@@ -1,0 +1,28 @@
+---
+title: "Nokia N82 and Sports Tracker impressions..."
+date: "2008-01-31"
+categories: 
+  - "david"
+author: 
+  - "david"
+---
+
+A few weeks ago I was asked by the people over at [Nseries WOM World](http://www.womworld.com/nseries/category/n82/) if I wanted to try out a Nokia N82 "Limited Edition Adventure Pack" which consists of the phone (with preloaded [Nokia Sports Tracker software](http://research.nokia.com/research/projects/SportsTracker/)) and a [Salomon Raid Revo 20 backpack](http://www.salomonoutdoor.com/us/products/Raid-Revo-20-1-6-8-865954.html). Over recent weeks a number of people have reviewed the package and this was my turn.
+
+Now, to set this into context and to give a little background for those who have clicked straight to this posting, I would describe myself as a competitive road-runner. I run/race distances from 5k to half-marathon and my everlasting aim is to get faster. I occasionally run cross country (meaning mud and hills, not mountains) and train mostly with friends. I currently own a Garmin 305 GPS device which I love (I'm not ready to move to the [recently announced 405](http://www8.garmin.com/ces/forerunner/index.html) yet - I'll give it maybe a year or so and see what people think of it first).
+
+I'm going to mostly gloss over the main phone features as 1) I don't know what half the features of these new phones are (!), and 2) I'm more interested in the Sports Tracker side of it. The phone looks nice and shin, but feels a bit 'plasticky'. When I run (both in training and in races) I normally wear a GPS watch, and refer to it for mileage splits and pace information. Using a mobile phone isn't going to work for me here as if I were to take it running I'd need somewhere to attach it. As for using it with sweaty hands whilst running, this phone is going to slide straight out of my hands. I'd need some sort of a strap so that I don't drop it.
+
+The sports pack comes with the Salomon backpack with a good variety of suitable pocket/pouch positions but whenever I'm running the most I ever carry with me is a key and perhaps a sports drink, which I'll carry in my hands. I have no need or desire to carry round extra weight with me. For the running I do (never too far away and never too remote) I enjoy the freedom of not having a phone with me (OK, I could put it on 'silent mode' but it's not the same).
+
+Looking at the Sport Tracker software there are a four pre-defined 'Activity Types' - Walking, Running, Cycling, Skiing and the option to define two sports of your own. Each activity allows you to define its name, the speed/pace display (speed in km/h or pace in min/km), auto pause settings (you can select a speed threshold and the data recording will pause automatically), pedometer option (if you want to count your steps - I think its pretty clever that the phone can do this), and the ability to specify speed averaging - so rather than the device showing your speed in real-time based on the GPS settings (which is never particularly accurate), it can average it from the speed of the past 5/10/20/30/60 seconds. This is a good idea, as certainly on my Garmin you can view the average speed across the entire activity or current lap (whenever you pressed the lap button or have it on auto-lap). Having a more tailored average feature would be good - although I'm not going to see it if the phone is zipped away in my backpack.
+
+The array of features is pretty impressive, and the real-time graphs you can display on the phone certainly do look impressive (if you're into that sort of thing).
+
+One thing that really caught my attention with the Sports Tracker software is the 'live sharing' functionality - using your phones data connection it can be configured to upload and share your activity data in real-time to the [Nokia Sports Tracker website](http://sportstracker.nokia.com/nts/main/index.do). So if I decide to take part in something gruelling like the [Marathon de Sables](http://www.saharamarathon.co.uk/), my family and friends to stay right up to date with progress (provided the battery life is good with the GPS functionality turned on - one of the things I didn't test out).
+
+There's plenty more features that the application has and it does indeed look very impressive but with the running that I do, it is certainly not for me. It's all well and good sending live data to the Sports Tracker website, but I want easy access to this information whilst on the run, and the last thing I'm going to do when racing is reach for my phone (I guess in my backpack or some sort of belt clip?) and hope I don't drop it. I'd much rather glance at my wrist (together with its great heart rate monitoring functionality).
+
+Now, I'm not going to make this write-up completely negative - this is just not the device for me. I guess I should have got the clue from the backpack which is part of the package. At the Salomon site it is listed in the trail running section and described as "The ultimate weapon for short races..." In my view trail races or ultra-running is where I think this package is at home, and in long races (such as the kind those crazy people take part in that are organised by people such as [Ambition Events](http://www.ambitionevents.com/ambition.htm)) I think this could be right up their street. You get the functionality of a well specified GPS device (including [Nokia Maps](http://europe.nokia.com/A4509271) functionality) and a mobile phone all in one package.
+
+For more information, reviews and links about the N82 Sports Tracker package I strongly suggest you take a look at the [WOM World website at womworld.com](http://www.womworld.com/nseries/category/n82/).
