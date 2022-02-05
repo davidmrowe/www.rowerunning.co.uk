@@ -29,7 +29,7 @@ I give you… the Kona Diaries 2015…
 *   [Kona Diaries 2015 – Day 12 – Race Week Monday – The support crew arrives](/2015/10/kona-diaries-2015-day-12-race-week-monday-the-support-crew-arrives/) 7 October 2015
 *   [Kona Diaries 2015 – Day 13 – Race Week Tuesday – The Parade of Nations](/2015/10/kona-diaries-2015-day-13-race-week-tuesday-the-parade-of-nations/) 9 October 2015
 *   [Kona Diaries 2015 – Day 14 – Race Week Wednesday – Vodka cocktails!](/2015/10/kona-diaries-2015-day-14-race-week-wednesday-vodka-cocktails/) 10 October 2015
-*   [Kona Diaries 2015 – Day 15 – Race Week Thursday – ‘Onipa’a](/2015/10/kona-diaries-2015-race-week-thursday-onipaa/) 10 October 2015
+*   [Kona Diaries 2015 – Day 15 – Race Week Thursday – ‘Onipa’a](/2015/10/kona-diaries-2015-day-15-race-week-thursday-onipaa/) 10 October 2015
 *   [Kona Diaries 2015 – Day 16 – Race Week Friday – Almost time for the big dance](/2015/10/kona-diaries-2015-day-16-race-week-friday-almost-time-for-the-big-dance/) 10 October 2015
 *   [Kona Diaries 2015 – Day 16 – Race Week Friday – Pre-race mumblings, predicted times and a poem…](/2015/10/kona-diaries-2015-day-16-race-week-friday-pre-race-mumblings-predicted-times-and-a-poem/) 10 October 2015
 *   [Kona Diaries 2015 – Day 17 – Race Day – My badass medal!](/2015/10/kona-diaries-2015-day-17-race-day-my-badass-medal/) 11 October 2015
