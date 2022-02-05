@@ -6,4 +6,4 @@ layout: category
 permalink: /posts/
 category: all
 ---
-Here are all the blog posts that have been written dating back to 2006.
+Here are all of our blog posts that have been written dating back to 2006.
