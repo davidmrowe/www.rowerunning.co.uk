@@ -32,8 +32,7 @@ So, race day lunchtime came and we headed up to Goodwood. The atmosphere was lik
 Just before the senior womens race (which Sharon took part in) started there was a one minutes silence in memory of Fiona Clark - a superb runner who died suddenly a few days ago. She had run in Surrey (and Sussex) races for years and I have some great photos of her when she won a Surrey League race in Richmond Park from 2010. It was very sad.
 
 ![](/images/2021/20101009-IMG_6054-2400x-533x800.jpg)
-
-Fiona Clark - October 2010.- Surrey League - Richmond Park
+*Fiona Clark - October 2010.- Surrey League - Richmond Park*
 
 The ladies then set off for their (approx 3 mile) race. The lead lady opened an incredible lead that just grew bigger and bigger. A clear victory. Sharon came into the race with the main aim of not finishing last. There was no such chance and she ran great - for both of us who never run up and down hills this course really was nasty in places.
 
