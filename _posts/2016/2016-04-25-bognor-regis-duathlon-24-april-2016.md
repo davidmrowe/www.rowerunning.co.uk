@@ -19,8 +19,8 @@ The weather was cold and there were 49 entrants - with probably 80% of them bein
 
 We were started in waves of around 10 people and I was in the final wave. The event was a 5k run, 20k (ish) bike and then a final 5k run.
 
-According to my Garmin myfirst run took me about 20:18. The bike - which was windy and chilly took 32:22 and the second run 20:35. On the bike I managed to hold my own against theother fast folk who were a lot more aero that myself. Although I've only ridden once outside so far this year and not been out on the TT bike the occasional turbo sessions I've been doing at home obviously weren't wasted.
+According to my Garmin my first run took me about 20:18. The bike - which was windy and chilly took 32:22 and the second run 20:35. On the bike I managed to hold my own against theother fast folk who were a lot more aero that myself. Although I've only ridden once outside so far this year and not been out on the TT bike the occasional turbo sessions I've been doing at home obviously weren't wasted.
 
-In the second run about 1 mile from the end I moved up into third place - because the chap in front of me was suffering for an injury and had to hobble into the finish. I ended up third overall, just over two minutes behindthe winner and I was very very happy with that. It was a great event and hats off to the marshals who stood out in the cold for a long time.
+In the second run about 1 mile from the end I moved up into third place - because the chap in front of me was suffering for an injury and had to hobble into the finish. I ended up third overall, just over two minutes behind the winner and I was very very happy with that. It was a great event and hats off to the marshals who stood out in the cold for a long time.
 
-Adding both 5k times together gives a 10k ofjust under 41 minutes total. My Garmin measured the course at about 5k so I'll have that. This is very promising ahead of the Bognor 10k in a few weeks time. I'd love to just get under 40 minutes during the race - which I think is my favourite road running race.
+Adding both 5k times together gives a 10k of just under 41 minutes total. My Garmin measured the course at about 5k so I'll have that. This is very promising ahead of the Bognor 10k in a few weeks time. I'd love to just get under 40 minutes during the race - which I think is my favourite road running race.

@@ -37,7 +37,7 @@ When the hooter sounded we were off. Every now and then I'd find some feet to dr
 
 I moved.
 
-I reached the far turnaround buoy (which is the permanently moored Ironman full distanceturn mark - indicating 1.2 miles from the beach/pier) and didn't quite turn around - you turn 90 degrees, swim to another buoy and then turn back heading for home in just under 34 minutes. An hour and 8 minutes if it's an even split would be brilliant.
+I reached the far turnaround buoy (which is the permanently moored Ironman full distance turn mark - indicating 1.2 miles from the beach/pier) and didn't quite turn around - you turn 90 degrees, swim to another buoy and then turn back heading for home in just under 34 minutes. An hour and 8 minutes if it's an even split would be brilliant.
 
 The trouble is in the last two Ironman races that I've done I've swum slower in the second lap due to inadequate swim training and thus endurance. Today was bound to be worse as I've just worked out that I've swum on average 1.3km per week since the start of January (just over 54km swum so far this year).
 
@@ -83,7 +83,7 @@ Upon our arrival as the sun was slowly falling from the sky we gave our names an
 
 ![20151003-7447](/images/2015/20151003-7447.jpg)
 
-Tables were setup for eight people and we looked to find a table with some folk thatwe could befriend and join in with. We saw four people on a table, introduced ourselves, apologised for our strange accents and sat down.
+Tables were setup for eight people and we looked to find a table with some folk that we could befriend and join in with. We saw four people on a table, introduced ourselves, apologised for our strange accents and sat down.
 
 ![20151003-0915](/images/2015/20151003-0915.jpg)
 

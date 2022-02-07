@@ -8,14 +8,14 @@ author:
   - "david"
 ---
 
-_This is the secondof a number of posts describing my day at the 2015 Ironman World Championship in Kailua-Kona, Hawaii. The first part is[pre-race](/2015/10/kona-diaries-2015-race-day-pre-race/ "Kona Diaries 2013 - Race Day - Pre-Race")._
+_This is the second of a number of posts describing my day at the 2015 Ironman World Championship in Kailua-Kona, Hawaii. The first part is[pre-race](/2015/10/kona-diaries-2015-race-day-pre-race/ "Kona Diaries 2013 - Race Day - Pre-Race")._
 
 ![Moments before the start](/images/2015/20151015-102223.jpg) 
 *Moments before the start*
 
 It's a bloody long way is 2.4 miles.
 
-Especially for meas I've only really swum that distance once this year. A week ago.
+Especially for me as I've only really swum that distance once this year. A week ago.
 
 Anyway, the idea was to take it steady. No smashing out a fast swim (which is impossible for me anyway) and to just find some feet to stick close to and draft away for an hour and a quarter.
 
@@ -44,7 +44,7 @@ On the way back to shore (only 1.2 miles away!) I was still feeling good. I'm ha
 
 A couple of people who I noticed wearing rather garish looking [XTERRA multi coloured swim skins](http://www.xterrawetsuits.com/products/2015-kona-valor-speedsuit) during the first half were still close by. I believe they were massively discounted at the race Expo - that's the only way you'd see me wearing one! Actually,I'd probably only wear one if it was free. And a night time swim race!
 
-I found feet, I lost feet. I just swum. I wasn't engulfed by stronger swimmers in the final part of the swim. This was lovely as my lack of swim endurance normally causes this to happen (I've written about this before). Perhaps these daily swims to the coffee boat this past week really didhelp after all.
+I found feet, I lost feet. I just swum. I wasn't engulfed by stronger swimmers in the final part of the swim. This was lovely as my lack of swim endurance normally causes this to happen (I've written about this before). Perhaps these daily swims to the coffee boat this past week really did help after all.
 
 As I headed back to the pier and towards the finish every now and then when you breathe and an ear lifts out of the water I could hear music and commentary. It was getting closer. Awesome. The swim was almost done.
 
@@ -72,12 +72,12 @@ Swim skin off and into the transition bag. Bike shoes out of the bag and then jo
 
 I don't do bike mounts with my shoes attached to the bike. I'm happy to run to my bike, quickly put my shoes on (all of about five seconds) and then run with the bike and get on it that way. If I raced shorter distance triathlons where every second counts (much more than it does here) then perhaps I'd do it that way but for now I'm happy with how I do things.
 
-I collectedmy bike from its racking spot and as I was running with it to the bike mount point I noticed a lady with her bike in front of me - someone on the PA system then said that she was 3rd. OK, so I swam 1 hour 14 and only three women (who started 15 minutes after the men) had caught up. To be honest I had expected to have been overtaken by a larger number of women during the swim but I guess that didn't quite materialise.
+I collected my bike from its racking spot and as I was running with it to the bike mount point I noticed a lady with her bike in front of me - someone on the PA system then said that she was 3rd. OK, so I swam 1 hour 14 and only three women (who started 15 minutes after the men) had caught up. To be honest I had expected to have been overtaken by a larger number of women during the swim but I guess that didn't quite materialise.
 
 Four age group (non professional) women swam under one hour. 134 age group men swum under an hour.
 
 ![20151010-bike-start](/images/2015/20151010-bike-start.jpg)
 
-Transition 1 (from swim exit to bike start) took me3 minutes 54 seconds. In 2013 I was 50 seconds quicker. I put some of this down to a slower undo of my swim-skin coming out of the water and the carnage inthe changing tent. Not that it matters.
+Transition 1 (from swim exit to bike start) took me3 minutes 54 seconds. In 2013 I was 50 seconds quicker. I put some of this down to a slower undo of my swim-skin coming out of the water and the carnage in the changing tent. Not that it matters.
 
 So... time to go for a little bike ride.

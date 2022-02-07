@@ -51,7 +51,7 @@ Three days later I managed to smash my knee against a lamp post. It was so painf
 
 About three or four days before the [Bognor 10k running race](/2015/05/bognor-prom-10k-17-may-2015/) (that I'd entered) whilst unloading the dishwasher I experienced a shooting pain in my (bad) ankle. You see - chores \*are\* bad for you! The pain that has been bothering me for nearly six months pretty much went away!
 
-I also sawthe ankle chap at the hospital who referred me for an MRI scan.
+I also saw the ankle chap at the hospital who referred me for an MRI scan.
 
 ## June 2015
 
@@ -76,7 +76,7 @@ From here on it's concentrate on swim, run and bike. What could go wrong...
 
 [I took part in a local triathlon](/2015/08/bognor-regis-triathlon-2015/) and loved it. I came 5th overall, had a good swim, very good bike and a tough run (lack of run mileage does that to you). This was it. Two months away from Kona and I'm starting to get some consistency back. This is so important.
 
-In mid-August whilst out riding my time trial bike (down on the 'aero bars') Ihit something in the road and suddenly had to deal with a front wheel blow-out at just under 25 miles per hour. This was followed by a sliding manouver, contact with the curb, contact with the pavement and a mid air flight into some undergrowth!
+In mid-August whilst out riding my time trial bike (down on the 'aero bars') I hit something in the road and suddenly had to deal with a front wheel blow-out at just under 25 miles per hour. This was followed by a sliding manouver, contact with the curb, contact with the pavement and a mid air flight into some undergrowth!
 
 It hurt.
 
@@ -95,13 +95,13 @@ But it doesn't matter. I'm stood up walking and able to tell the tale. You hear 
 
 I'm fine. I cannot complain when there's others going through life changing times.
 
-Back to the hospital I went (they had a photo of me in reception - ok, the newspaper report of the Bognor Regis triathlon where a photo of me made it onto the page)! One small wound was dressed and then I was sent home and spent the next few days watching ahuge amount of bruising slowly appear and not at all enjoying my backside sticking to whatever item of clothing was placed next to it. Lovely!
+Back to the hospital I went (they had a photo of me in reception - ok, the newspaper report of the Bognor Regis triathlon where a photo of me made it onto the page)! One small wound was dressed and then I was sent home and spent the next few days watching a huge amount of bruising slowly appear and not at all enjoying my backside sticking to whatever item of clothing was placed next to it. Lovely!
 
 Right now I cannot run due to a constant pain in my coccyx/tailbone area. Two weeks post-crash I have one area that's still swollen badly and also an area in my upper back is giving me quite a few problems.
 
 I've got an appointment with a physio for later this week and hopefully she'll poke and prod me in the hope that I can perhaps try a little jog this weekend. We'll see.
 
-So, with the Ironman race just over five weeks away I'm not running, swimming isn't greatand I can just about ride for an hour on the indoor bike trainer (which I'm trying to do most days) before my hip hurts things don't look great.
+So, with the Ironman race just over five weeks away I'm not running, swimming isn't great and I can just about ride for an hour on the indoor bike trainer (which I'm trying to do most days) before my hip hurts things don't look great.
 
 Hmn, a 2.4 mile swim, 112 miles on the bike and a 26.2 mile run. This ain't a knitting club!
 

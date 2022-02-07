@@ -10,7 +10,7 @@ author:
 
 The last few days we've been keeping an eye on the weather forecasts and tropical storm advisories - there was a storm heading in the direction of Hawaii but as of Sunday morning the tropical storm watch from the hurricane centre in Honolulu has been discontinued as the storm is headed away from the big island. There is a strong chance of heavy rain tonight but apart from that it seems like we're safe from the storm so that's a good thing.
 
-Today turned into a bit of a quieter one. Once again we headed to the pier for a morning swim. I wanted to get down there to watch the start of the [Pre-Ironman Triathlon Challenge race that has been held since 1992](http://www.teammangoraces.com/09_pre_ironman_triathlon.html). This is a 1.2 mile swim, 15 mile bike and 6 mile run organised by one of thelocal triathlon clubs.
+Today turned into a bit of a quieter one. Once again we headed to the pier for a morning swim. I wanted to get down there to watch the start of the [Pre-Ironman Triathlon Challenge race that has been held since 1992](http://www.teammangoraces.com/09_pre_ironman_triathlon.html). This is a 1.2 mile swim, 15 mile bike and 6 mile run organised by one of the local triathlon clubs.
 
 ![Race HQ and transition](/images/2015/20150927-0012800.jpg) 
 *Race HQ and transition*
@@ -29,7 +29,7 @@ Once they set off I headed down to the water for a swim whilst Sharon went for a
 ![Ready for the start of the race](/images/2015/20150927-0072889.jpg) 
 *Ready for the start of the race*
 
-With my GoPro camera stuffed down the front of my shorts I thought this might encourage some sea life (i.e., dolphins and turtles) to make an appearance but unfortunately it was not to be! Instead I took some photos of a couple of the swim buoys that are permanently anchored out here. There's a few more out there in addition towhat I've shown here.
+With my GoPro camera stuffed down the front of my shorts I thought this might encourage some sea life (i.e., dolphins and turtles) to make an appearance but unfortunately it was not to be! Instead I took some photos of a couple of the swim buoys that are permanently anchored out here. There's a few more out there in addition to what I've shown here.
 
 ![](/images/2015/20150927-0092956.jpg)
 

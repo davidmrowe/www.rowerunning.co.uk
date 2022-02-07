@@ -14,11 +14,11 @@ In my plans to get ready for a super early wake-up on race morning today we deci
 
 Whilst walking to the pier we met up with Andy and Emma. It was getting busy down there but through the crowd of lean toned and fit bodies there was one that stood out. [It was my bro-mance 'partner' from 2013, Paul Deen](/2013/10/kona-diaries-2013-day-18-bromance-on-the-high-seas/)!
 
-We were back at 'our' spot - by the big banyan tree close to the pier. It was great to see him (I last saw him post race at Ironman Wales in 2014 when I qualified for this race). He's just here to watch having raced here the pasttwo years.
+We were back at 'our' spot - by the big banyan tree close to the pier. It was great to see him (I last saw him post race at Ironman Wales in 2014 when I qualified for this race). He's just here to watch having raced here the past two years.
 
 ![DCIM108GOPRO](/images/2015/20151006-0167401.jpg)
 
-Today at 7am the Coffees of Hawaii floating espresso bar opened for business. Well... all was not what it seems. 'Coffees of Hawaii' no longer providethe coffee. I've no idea what the reasons behind it are (some months ago they stopped support of the excellent 'IM Talk' podcast so I guess they've chosen to step back from the sport). Anyway, we can be grateful that free coffee is still available out on the ocean for a few days during race week. This time it is served by Starbucks. If it wasn't for them then perhaps there would be no coffee on the boat... who knows...
+Today at 7am the Coffees of Hawaii floating espresso bar opened for business. Well... all was not what it seems. 'Coffees of Hawaii' no longer provide the coffee. I've no idea what the reasons behind it are (some months ago they stopped support of the excellent 'IM Talk' podcast so I guess they've chosen to step back from the sport). Anyway, we can be grateful that free coffee is still available out on the ocean for a few days during race week. This time it is served by Starbucks. If it wasn't for them then perhaps there would be no coffee on the boat... who knows...
 
 ![DCIM108GOPRO](/images/2015/20151006-0207477.jpg)
 
@@ -57,7 +57,7 @@ Post Huggo's a quick photo op where I had the chance to look as great as Michell
 
 ![20151006-faces](/images/2015/20151006-faces.jpg)
 
-I decided I may as well do a run today so I can start my run taper tomorrow (!). I've notmade it to the Energy Lab section (a part of the run between miles 16-19 which seems to be iconic in this race) this trip so I'll save that fun for race day.
+I decided I may as well do a run today so I can start my run taper tomorrow (!). I've not made it to the Energy Lab section (a part of the run between miles 16-19 which seems to be iconic in this race) this trip so I'll save that fun for race day.
 
 To help give Andy the full race preparation experience I asked him if he'd like to join me on a run at lunchtime. When it's nice and warm of course. He said yes and arranged to call for me at about 11:45am.
 
@@ -68,7 +68,7 @@ After returning home for a pre run drink (iced coffee) I got myself ready and af
 
 This place is truly crazy during Ironman week.
 
-Within a couple of minutes we made our first stop for some 'SOS' sportsdrink. Even though we were laden with some cold Powerade that I had in the fridge we felt obliged to chat and have a drink with the folk who are promoting their goods on the street.
+Within a couple of minutes we made our first stop for some 'SOS' sports drink. Even though we were laden with some cold Powerade that I had in the fridge we felt obliged to chat and have a drink with the folk who are promoting their goods on the street.
 
 ![DCIM108GOPRO](/images/2015/20151006-0017815.jpg)
 
@@ -78,7 +78,7 @@ So we headed on.
 
 We stopped for a few drinks during our run.
 
-'Clif'provided drinks in what looked like a petri dish - it barely held anything in it! Beggers can't be choosers though.
+'Clif' provided drinks in what looked like a petri dish - it barely held anything in it! Beggers can't be choosers though.
 
 ![DCIM108GOPRO](/images/2015/20151006-0037840.jpg)
 
@@ -126,11 +126,11 @@ Watching the main event - the dip'n'dash with a group of 6-14 years olds doing a
 
 ![DCIM108GOPRO](/images/2015/20151006-keiki.jpg)
 
-Once the race was over it was time for the Ironman Parade of Nations. This is a bit like the Olympics opening ceremony without itbeing the Olympics! Athletes from each country parade through town behind an official flagbearer.
+Once the race was over it was time for the Ironman Parade of Nations. This is a bit like the Olympics opening ceremony without it being the Olympics! Athletes from each country parade through town behind an official flag bearer.
 
 ![DCIM108GOPRO](/images/2015/20151006-0308120.jpg)
 
-Last year UK qualifiers werebeen provided with t-shirts to wear during the parade and this really made a difference and shows us together as one team. A special t-shirt was designed for this year by Richard from Freespeed that says on it 'God Save The Queen K' (you know, the 'Queen K' is the short name of the main road that we cycle and run on during the Ironman. It's a play on words you see. At least I hope you see!) Thanks to Fusion Sports for the t-shirts and to Paul for bringing them out here.
+Last year UK qualifiers were provided with t-shirts to wear during the parade and this really made a difference and shows us together as one team. A special t-shirt was designed for this year by Richard from Freespeed that says on it 'God Save The Queen K' (you know, the 'Queen K' is the short name of the main road that we cycle and run on during the Ironman. It's a play on words you see. At least I hope you see!) Thanks to Fusion Sports for the t-shirts and to Paul for bringing them out here.
 
 We were also given visors to wear as well thanks to the clothing company TYR.
 

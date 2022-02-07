@@ -8,7 +8,7 @@ author:
   - "david"
 ---
 
-_This is the fifth and final partof a number of posts describing my day at the 2015 Ironman World Championship in Kailua-Kona, Hawaii. Previous parts are [pre-race](/2015/10/kona-diaries-2015-race-day-pre-race/ "Kona Diaries 2013 - Race Day - Pre-Race"),[swim](/2015/10/kona-diaries-2015-race-day-swim/ "Kona Diaries 2013 - Race Day - Swim"),[bike](/2015/10/kona-diaries-2015-race-day-bike/)and [run](/2015/10/kona-diaries-2015-race-day-run/). I am planning on creating a little video about my day but you'll have to wait for that. So without further ado, here's how my day finished off and what I have planned for 2016 and beyond._
+_This is the fifth and final part of a number of posts describing my day at the 2015 Ironman World Championship in Kailua-Kona, Hawaii. Previous parts are [pre-race](/2015/10/kona-diaries-2015-race-day-pre-race/ "Kona Diaries 2013 - Race Day - Pre-Race"),[swim](/2015/10/kona-diaries-2015-race-day-swim/ "Kona Diaries 2013 - Race Day - Swim"),[bike](/2015/10/kona-diaries-2015-race-day-bike/)and [run](/2015/10/kona-diaries-2015-race-day-run/). I am planning on creating a little video about my day but you'll have to wait for that. So without further ado, here's how my day finished off and what I have planned for 2016 and beyond._
 
 Once I'd shown my 'catchers' that I was able to walk without assistance I headed to the post race recovery area. I found a table where coke was being offered so I had a couple of lines. Er, I mean cups.
 
@@ -58,7 +58,7 @@ Every now and then (more now than then) I'd sit down as I was just shattered. At
 
 ![20151010-0340969](/images/2015/20151010-0340969.jpg)
 
-One thing Sharon and I are proud of is that at every Ironman race I've done we've hung around until the final finisher has made it across the line - normally around 17 hours after they started. It's the least we can do. When it's dark, the streets are quiet and cold (well, it's not cold here but it was a bit chilly in Wales last September) I want to try and do my little bit and be at the finish line to cheer and supportthese people as they finish their race.
+One thing Sharon and I are proud of is that at every Ironman race I've done we've hung around until the final finisher has made it across the line - normally around 17 hours after they started. It's the least we can do. When it's dark, the streets are quiet and cold (well, it's not cold here but it was a bit chilly in Wales last September) I want to try and do my little bit and be at the finish line to cheer and support these people as they finish their race.
 
 It could easily have been me. Especially today.
 

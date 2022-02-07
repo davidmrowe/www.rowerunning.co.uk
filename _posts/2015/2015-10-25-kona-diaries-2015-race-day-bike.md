@@ -14,21 +14,21 @@ I got on the bike and started the mass bike procession around town.
 
 The 112 mile ride at the Ironman World Championship isn't a difficult ride in terms of gradients etc. It is however tough in a number of other ways. Some of these were [summed up pretty well](http://lavamagazine.com/scott-pros-weigh-in-on-the-brutal-queen-k/) shortly before the race by a number of professional triathletes. Here's a couple of example quotes:
 
-- "It's not the bike course that is tough itself, it's about how fast you want to go. At the Ironman Hawaii, you have the best competition of the season, everybody is at the highest fitness level and many are willing to risk everything. This is why the bike course is hard - everybody wants to go fast." _Marino Vanhoenacker_
-- "You don't turn left or right. You just stay down on your aero bars, pushing as hard as you can on the pedals! There is no entertainment, it's just you and the road." _Cyril Viennot_
+> "It's not the bike course that is tough itself, it's about how fast you want to go. At the Ironman Hawaii, you have the best competition of the season, everybody is at the highest fitness level and many are willing to risk everything. This is why the bike course is hard - everybody wants to go fast." _Marino Vanhoenacker_
+> "You don't turn left or right. You just stay down on your aero bars, pushing as hard as you can on the pedals! There is no entertainment, it's just you and the road." _Cyril Viennot_
 
 ![20151015-013714](/images/2015/20151015-013714.jpg)
 
 As soon as you head out of transition there's a slight uphill section and then a left turn at 'Hot Corner' (which is a couple of minutes walk from the pier). They call it this as there's loud music, commentary and the athletes go past it many times during the day. Nothing related to the temperature. It's hot all bloody day everywhere on the course.
 
-After turning athot corner you then loop around for a mile or so and end up back at the same spot (arriving from a different direction).
+After turning at hot corner you then loop around for a mile or so and end up back at the same spot (arriving from a different direction).
 
-Once back (athot corner) you turn left and head up the Kuakini Highway for about two and a quartermiles, turn around and race back to hot corner, turn right and head up Palani Road (which is about 400 meters long at a relatively steep grade) and then head onto the Queen Ka'ahumanu (Queen K) highway in the direction of Kawahae and then Hawi.
+Once back (athot corner) you turn left and head up the Kuakini Highway for about two and a quarter miles, turn around and race back to hot corner, turn right and head up Palani Road (which is about 400 meters long at a relatively steep grade) and then head onto the Queen Ka'ahumanu (Queen K) highway in the direction of Kawahae and then Hawi.
 
 ![20151015-021715](/images/2015/20151015-021715.jpg) 
 *Busy busy busy on the Kuakini Highway*
 
-I saw Sharon, Andy and Emma a couple of times near hot corner. I was keeping an eye outand it was great to see them. I think they were probably glad to see that I'd made it out of the swim and onto the bike. I know I was.
+I saw Sharon, Andy and Emma a couple of times near hot corner. I was keeping an eye out and it was great to see them. I think they were probably glad to see that I'd made it out of the swim and onto the bike. I know I was.
 
 My plan for the bike was to take it easy. Well, try and take it easy. I'm not quite sure what easy is but aim for the same sort of power that I did in the race here in 2013. I'm a stone heavier so this would mean slightly slower overall but that didn't matter to me one bit.
 
@@ -123,7 +123,7 @@ For anyone wondering - nutrition wise on the bike I had an energy gel every 20 m
 
 There's no magic formula for me when it comes to race nutrition. Other than my gel routine.
 
-- Biketime 5:42:51
+- Bike time 5:42:51
 - 1,118th overall after the bike (1,015th male)
 - 200th male aged 40-44 after the bike
 

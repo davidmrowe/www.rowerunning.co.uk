@@ -12,7 +12,7 @@ At the moment the days here seem to blur all together a bit. It's really quite d
 
 Or perhaps not!
 
-I started off with a splish splash paddle at the pier where the British contingent here on the big island isgrowing day by day. The place is really starting to ramp up in terms of busyness and the delightful sleepiness of the village is no more. The circus has arrived.
+I started off with a splish splash paddle at the pier where the British contingent here on the big island is growing day by day. The place is really starting to ramp up in terms of busyness and the delightful sleepiness of the village is no more. The circus has arrived.
 
 ![DCIM108GOPRO](/images/2015/20151002-0305716.jpg)
 
@@ -20,7 +20,7 @@ The expo area is being built up, the Ironman merchandise marquee in in place and
 
 As if!
 
-The swim area is looking as glorious as a tiny piece of sand surrounded by a concretepier can look. I think there's something special about this place and I never seem to tire of seeing photos of it.
+The swim area is looking as glorious as a tiny piece of sand surrounded by a concrete pier can look. I think there's something special about this place and I never seem to tire of seeing photos of it.
 
 ![DCIM108GOPRO](/images/2015/20151002-0345798.jpg)
 
@@ -94,6 +94,6 @@ Once we got home the sun was just setting so I scrambled to get the camera. I wa
 
 ![20151002-0906](/images/2015/20151002-0906.jpg)
 
-We jumpedin the pool and by 7pm were both shattered, full of food and happy.
+We jumped in the pool and by 7pm were both shattered, full of food and happy.
 
 Then I made an attempt to catch up on the blog.

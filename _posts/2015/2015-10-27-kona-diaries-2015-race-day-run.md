@@ -8,12 +8,12 @@ author:
   - "david"
 ---
 
-_This is the fourthof a number of posts describing my day at the 2015 Ironman World Championship in Kailua-Kona, Hawaii. Previous parts are [pre-race](/2015/10/kona-diaries-2015-race-day-pre-race/ "Kona Diaries 2013 - Race Day - Pre-Race"),[the swim](/2015/10/kona-diaries-2015-race-day-swim/ "Kona Diaries 2013 - Race Day - Swim")and [the bike](/2015/10/kona-diaries-2015-race-day-bike/)._
+_This is the fourth of a number of posts describing my day at the 2015 Ironman World Championship in Kailua-Kona, Hawaii. Previous parts are [pre-race](/2015/10/kona-diaries-2015-race-day-pre-race/ "Kona Diaries 2013 - Race Day - Pre-Race"),[the swim](/2015/10/kona-diaries-2015-race-day-swim/ "Kona Diaries 2013 - Race Day - Swim")and [the bike](/2015/10/kona-diaries-2015-race-day-bike/)._
 
 ![20151010-run-start](/images/2015/20151010-run-start.jpg) 
 *Crossing the timing mat at the start of the marathon*
 
-Heading out onto the road for the final part of the day wasa great feeling. These races are funny - you battle and train hard to qualify and just get to the start line of this race in Hawaii. So many people each year put in the work and don't manage to qualify. That must be tough - real tough. I've been very fortunate.
+Heading out onto the road for the final part of the day was a great feeling. These races are funny - you battle and train hard to qualify and just get to the start line of this race in Hawaii. So many people each year put in the work and don't manage to qualify. That must be tough - real tough. I've been very fortunate.
 
 Then, once the race is on you're in a dilemma - you want to enjoy it and savour the moment, but you also want to get to the finish and stop doing this crazy exercise malarkey. It's the same sort of feeling I think at any race (or parkrun). It's hard work at the time and you want the pain to end - but at the same time you know you're (sort of) having fun and enjoying yourself.
 
@@ -61,13 +61,13 @@ It was. For about a mile.
 
 Heading along Ali'i I found myself running alongside a chap called Doug. He said to me that he remembered me from two years ago and that I knew Steve and Mary.
 
-In my usual (who the heck are you) way I politely said something like, "er, yes, perhaps I do know rememberbut I just can't place them right now. You see, like yourself I'm a little busy at the moment."
+In my usual (who the heck are you) way I politely said something like, "er, yes, perhaps I do know remember but I just can't place them right now. You see, like yourself I'm a little busy at the moment."
 
 We chatted, it turned out that I did know the people he was referring to (met them in Kona two years ago) and we found ourselves jogging and chatting together.
 
 He asked if I fancied some company during the run. I was fine with this as I wasn't racing for a time (I just wanted to finish), and anything to help get through the next few hours sounded like a fine idea.
 
-Approximately every mile during the marathon there's an aid station. Consisting of sponges, water, ice, sports drink, energy gels, red bull, coke and the same again in reverse. Later in the evening there was hot soup available in addition to everything previouslylisted. It's a pretty good spread and one that I wanted to make the most of!
+Approximately every mile during the marathon there's an aid station. Consisting of sponges, water, ice, sports drink, energy gels, red bull, coke and the same again in reverse. Later in the evening there was hot soup available in addition to everything previously listed. It's a pretty good spread and one that I wanted to make the most of!
 
 In an Ironman I find that the swim seems to take forever and is never ending. Probably because I'm not a very good swimmer and don't train enough for it.
 
@@ -85,7 +85,7 @@ I politely declined the water jets as I didn't fancy the shoe squelching 'fun' I
 
 I didn't wear a running visor but opted to wear a running cap - one that I was given at Epic Camp in Canada last year. At each aid station I'd take a cup of ice, stick it in my cap and put it back on my head. It was a great way of helping to keep cool. I never thought my head would actually feel cold in this heat!
 
-The out and back element of Ali'i Drive is good to get an update on how friendsare doing. I remember seeing some of the Team Freespeed and BlackLineLondon - most of which were having good (if not great) days today. I remember getting a good cheer from Michelle (who was at Epic Camp last year), Nico's wife Luzelle and also from the human foghorn that is Steven Lord amongst others. Thanks.
+The out and back element of Ali'i Drive is good to get an update on how friends are doing. I remember seeing some of the Team Freespeed and BlackLineLondon - most of which were having good (if not great) days today. I remember getting a good cheer from Michelle (who was at Epic Camp last year), Nico's wife Luzelle and also from the human foghorn that is Steven Lord amongst others. Thanks.
 
 ![20151010-run-alii](/images/2015/20151010-run-alii.jpg)
 
@@ -134,7 +134,7 @@ At this point you're on the return to town and the finish line. The only downsid
 
 Towards the far end of the road I walked for a bit. The soles of my feet were killing me. They'd been hurting for about 10 miles or so. As if the balls of my feet were burning and on fire. Must be a lovely couple of blisters building up nicely then. Oh the joy.
 
-I noticedone of the photographers down here and rather than start running and pretending that I was feeling good I smiled and just continued walking. This is just how it was.
+I noticed one of the photographers down here and rather than start running and pretending that I was feeling good I smiled and just continued walking. This is just how it was.
 
 ![20151026-energylab](/images/2015/20151026-energylab.jpg)
 
@@ -184,19 +184,19 @@ I was chuffed to bits but not wanting to hurt myself any more by running hard (t
 
 I wanted to enjoy the moment.
 
-It was pretty much dark at this point. Just after the turn (at 'hot corner') ontothe Kuakini Highway I saw a chap with a sign that said "Smile if you peed during the swim."
+It was pretty much dark at this point. Just after the turn (at 'hot corner') onto the Kuakini Highway I saw a chap with a sign that said "Smile if you peed during the swim."
 
 I smiled. He said "Oh yeah!" and smiled back.
 
 I turned down onto Hualalai Road and this little downhill then turns onto Ali'i Drive for hands down the best finishing straight line in Ironman.
 
-There's no barriers beside the road - the spectators just leavea gap and you run down the middle of it. You're just following your way down Ali'i until you hit the finishing chute.
+There's no barriers beside the road - the spectators just leave a gap and you run down the middle of it. You're just following your way down Ali'i until you hit the finishing chute.
 
-At this point the excitement and the moment really gets to you. People are giving you the biggest cheers and support imaginable. You'retreated as if you'vewon the race.
+At this point the excitement and the moment really gets to you. People are giving you the biggest cheers and support imaginable. You'retreated as if you've won the race.
 
 You smile, you wave, you give a little back.
 
-Whatever you give back you get plenty more in returnfrom the supporters. It's awesome.
+Whatever you give back you get plenty more in return from the supporters. It's awesome.
 
 Heading past the Hulihe'e Palace I was looking out for Sharon. She recalls me looking around trying to spot her. I then saw her. She was jumping around trying to get my attention. It worked.
 

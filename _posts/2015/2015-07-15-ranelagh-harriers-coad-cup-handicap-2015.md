@@ -12,7 +12,7 @@ Although we now live away from West London I've put some of the main fixtures of
 
 Well, I found myself working up in 'town' on a gloomy Tuesday and it just so happened to be the same day as the [Ranelagh Harriers](http://www.ranelagh-harriers.com) Coad Cup summer handicap race. Perfect planning.
 
-This race is just shy of five miles in the beautiful surroundings of Richmond Park. I've previously run itfour times since [2007](/2007/07/ranelagh-harriers-coad-cup-2007/) and having not taken part since 2012 it was goodto come back.
+This race is just shy of five miles in the beautiful surroundings of Richmond Park. I've previously run it four times since [2007](/2007/07/ranelagh-harriers-coad-cup-2007/) and having not taken part since 2012 it was good to come back.
 
 The plan was to have a steady mid-week run (this will be my third week in a row of doing two runs! Yup, I'm not running much at present.) and meet up with club-mates who I'd not seen in a long time. It was lovely.
 
@@ -39,7 +39,7 @@ The handicapper must surely have only been looking at older race results for me 
 
 Within the first half mile I'd been overtaken and had ran into a low hanging (not any more) tree branch. I heard this almighty 'crack'. Oops. Thankfully there was only a tiny bit of blood on my forehead. Nothing that would put a halt to the proceedings.
 
-The normal game of follow-my-leader and then make your move towards the end turned into a case of listening to footsteps and then watching asmuch faster runners come past me. It wasn't a problem. I was there to have a solid run, enjoy myself and the scenery all around. It is not a race for winning. At least not for me! Definitely not tonight.
+The normal game of follow-my-leader and then make your move towards the end turned into a case of listening to footsteps and then watching as much faster runners come past me. It wasn't a problem. I was there to have a solid run, enjoy myself and the scenery all around. It is not a race for winning. At least not for me! Definitely not tonight.
 
 ![The fast boys. Phil and Ted starting with Ralph getting ready to start 10 seconds later](/images/2015/20150714-6973.jpg) 
 *The fast boys. Phil and Ted starting with Ralph getting ready to start 10 seconds later*
@@ -48,7 +48,7 @@ The rain had eased off and it was just warm and humid. The park looked lovely an
 
 Back to the run. It was uneventful and lonely for most of it. Although the main junction points were marked I was glad I knew the route. I did actually overtake a few runners towards the end but was firmly close to the back. So much so that one of the marshalls made a comment about me running not quite to the handicappers expectations! You're not wrong there.
 
-![20150714-6974](/images/2015/20150714-6974-300x400.jpg)I came round the final corner, felt strong(ish) and finished in a time of 34:48. This was the 29th fastest time on the night so I'm not complaining at that. In the actual handicap race I finished 64th. This only takes into account people with 'proper' handicap times from having run a number of club races. If everyone was included then I was 84th. I prefer 64th. Actually I think I prefer 29th so I'll go with that! I ran at around sevenminutes per mile pace.
+![20150714-6974](/images/2015/20150714-6974-300x400.jpg)I came round the final corner, felt strong(ish) and finished in a time of 34:48. This was the 29th fastest time on the night so I'm not complaining at that. In the actual handicap race I finished 64th. This only takes into account people with 'proper' handicap times from having run a number of club races. If everyone was included then I was 84th. I prefer 64th. Actually I think I prefer 29th so I'll go with that! I ran at around seven minutes per mile pace.
 
 Being honest about it I felt like I had a good run. I did and I was happy with how I ran. I'm still flogging the "I've hardly trained" line and will continue to do so for a good few more weeks!
 

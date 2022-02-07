@@ -75,7 +75,7 @@ We reached the top having had a great fun little adventure and a golden handshak
 
 Right, it must be time for lunch.
 
-I apologise that there's not much talk of Ironman training in todays diary. That's alright though. You don't need to train every day and surely I must be tapering now. In fact a few people asked me recently if had started my taper yet. My stock answer was "I've nothing to bloody taper from!"
+I apologise that there's not much talk of Ironman training in today's diary. That's alright though. You don't need to train every day and surely I must be tapering now. In fact a few people asked me recently if had started my taper yet. My stock answer was "I've nothing to bloody taper from!"
 
 Well, a big bike ride, a few swims and a couple of runs earns me a rest day in my books. So today was that day.
 
@@ -143,7 +143,7 @@ The car in front drove past it and then so did we as it really didn't know what 
 
 Ah, it was a red Jeep containing the same people who we saw earlier in the day! Bloody clueless I tell you.
 
-The drive down was actually much easier than the drive up. I think on the way up you worry more about what the drive down will be like. When you drive down it'sridiculously easy. You just need to know how to drive. Unfortunately some people I believe do not.
+The drive down was actually much easier than the drive up. I think on the way up you worry more about what the drive down will be like. When you drive down it's ridiculously easy. You just need to know how to drive. Unfortunately some people I believe do not.
 
 After getting back to the visitors centre we bought a couple of drinks and stayed around a while for the light to darken further and to listen and watch a stargazing 'lecture' from a chap with a really smart laser pointer thingy that he would shine up and show us different stars.
 
@@ -153,7 +153,7 @@ We saw the ISS (International Space Station) fly past as well as a number of sat
 
 The reason they have the giant telescopes at the summit is because it's one of the best places in the world to see the night sky.
 
-I tried to take some photos but didn't have the greatest of success. The first few photos were a bit of a disaster - I hadn't realised the lens cap was still on. I blame it from being dark and us requested not to use any torches or flashlights. I did manage a couple of reasonable shots though so my efforts were not completely wasted.
+I tried to take some photos but didn't have the greatest of success. The first few photos were a bit of a disaster - I hadn't realised the lens cap was still on. I blame it from being dark and us requested not to use any torches or flash lights. I did manage a couple of reasonable shots though so my efforts were not completely wasted.
 
 ![20151001-0895](/images/2015/20151001-0895.jpg)
 

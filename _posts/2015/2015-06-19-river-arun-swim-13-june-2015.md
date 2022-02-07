@@ -18,11 +18,11 @@ The beauty of this event is that it's held in the 2nd fastest flowing river in t
 
 After registering (at the finishing area by Littlehampton Lifeboat Station) the 350 or so swimmers jumped in double-decker buses that took us up-river to the starting area in Ford. We hung around and chatted whilst waiting for all the swimmers to arrive and then we had a pre-race briefing.
 
-The weather was lovely - scattered cloudswith a bit of a breeze (although the high banks of the river should shelter us from most of the wind). No adverse weather conditions (unlike at [Ironman Wales](/2014/09/ironman-wales-2014/) last year) and a strong flowsounded like just what I needed.
+The weather was lovely - scattered clouds with a bit of a breeze (although the high banks of the river should shelter us from most of the wind). No adverse weather conditions (unlike at [Ironman Wales](/2014/09/ironman-wales-2014/) last year) and a strong flow sounded like just what I needed.
 
 ![325](/images/2015/SSP_AB_A000259.jpg)
 
-Afterthe briefing you make your way to the starting area and at this point the tide had only turned a few minutes before and you were ever so slightly drifting with it.
+After the briefing you make your way to the starting area and at this point the tide had only turned a few minutes before and you were ever so slightly drifting with it.
 
 Once everyone was in the water the starting signal went and it was time for the 2.4 mile swim from Ford to Littlehampton.
 

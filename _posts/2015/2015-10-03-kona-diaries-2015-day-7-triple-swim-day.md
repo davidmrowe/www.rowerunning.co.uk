@@ -31,7 +31,7 @@ I turn around to get my swim gear and who do I lay my eyes on.
 
 No, not Miss Hawaii.
 
-Close though - my favourite Danish professional Ironman athlete - Michelle Vesterby. In fact, looking at the photo of us both I think the excitement got the better of me and I appear tohave wet myself with delight!
+Close though - my favourite Danish professional Ironman athlete - Michelle Vesterby. In fact, looking at the photo of us both I think the excitement got the better of me and I appear to have wet myself with delight!
 
 ![20150930-7425](/images/2015/20150930-7425.jpg)
 
@@ -41,7 +41,7 @@ The place is sometimes called 'Golden Sands' and is a lovely little beach with a
 
 ![DCIMGGOPRO](/images/2015/20150930-magicsands.jpg)
 
-The sets of waves are few and far between but today our timing could probably havenot been any worse. We just about made it out on our first attempt and then bobbed around for a bit enjoying the scenery.
+The sets of waves are few and far between but today our timing could probably have not been any worse. We just about made it out on our first attempt and then bobbed around for a bit enjoying the scenery.
 
 ![DCIM107GOPRO](/images/2015/20150930-0023836.jpg)
 
@@ -107,7 +107,7 @@ Rather like myself.
 
 Or perhaps not.
 
-Eventually we all returned to the boat, got out of our wetsuits and drank hot chocolate. Mikewas so happy with his 5mm (extra thick) wetsuit keeping himself warm he said "that 5mm was badass!" - I love it! I don't think I've ever said 'badass' in my life. It was the perfect description and sounds so much better with an American accent. I'd probably say something like "the wetsuit was jolly warm and pleasant."
+Eventually we all returned to the boat, got out of our wetsuits and drank hot chocolate. Mike was so happy with his 5mm (extra thick) wetsuit keeping himself warm he said "that 5mm was badass!" - I love it! I don't think I've ever said 'badass' in my life. It was the perfect description and sounds so much better with an American accent. I'd probably say something like "the wetsuit was jolly warm and pleasant."
 
 The return journey back to the harbour was in complete darkness and once we got back on dry land we returned home happy but hungry as all the bloody restaurants in town seem to close at 9pm!
 

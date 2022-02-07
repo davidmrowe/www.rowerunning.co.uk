@@ -21,7 +21,7 @@ As we all know, all good days start with a swim (!!) so we jumped in the car (I'
 
 My first professional athlete sighting was within the first minute of being on Ali'. Michelle Vesterby ([who I 'showered' with in 2013](/2013/10/kona-diaries-2013-day-13-ive-never-had-to-wring-out-my-shorts-after-a-run/)) from Denmark was out running early. I can't believe she didn't remember me. OK, the fact that she doesn't know who the heck I am and the fact I was in the car probably explains this. She's easy to spot - always smiling.
 
-We gotto the pier and the site was as impressive as ever. Well... the pier isn't very impressive. It's not like the pier back home in Bognor Regis with a nightclub, chip shop and amusement arcade. It was just fairly barrenwith a few locals fishing round the edge. It will look a little more impressive on race day in just over two weeks time.
+We got to the pier and the site was as impressive as ever. Well... the pier isn't very impressive. It's not like the pier back home in Bognor Regis with a nightclub, chip shop and amusement arcade. It was just fairly barren with a few locals fishing round the edge. It will look a little more impressive on race day in just over two weeks time.
 
 ![DCIM107GOPRO](/images/2015/20150925-0042672.jpg)
 
@@ -33,7 +33,7 @@ I had a little swim, nothing spectacular (to be fair, my swims are rarely that) 
 
 Post swim I showered off at the outdoor open air shower and unlike my [encounter two years ago in the shower with Michelle](/2013/10/kona-diaries-2013-day-13-ive-never-had-to-wring-out-my-shorts-after-a-run/) I think I arrived on 'female shave day' - two ladies there getting down and dirty - one of them rather intimate - with a razor blade!!!
 
-Sensibly wedidn't hang around for long and then took a stroll into town to Island Lava Java - a coffee shop/restaurant with an amazing view that is lovely to visit a couple of weeks or more before race day. Over the coming days it'll get much busier and then it'll be nuts for about a week before the race - it's really not the same then. Anyway, a first breakfast of pancakes and the largest cup of coffee that I think I've ever drunk - 100% Kona coffee of course.
+Sensibly we didn't hang around for long and then took a stroll into town to Island Lava Java - a coffee shop/restaurant with an amazing view that is lovely to visit a couple of weeks or more before race day. Over the coming days it'll get much busier and then it'll be nuts for about a week before the race - it's really not the same then. Anyway, a first breakfast of pancakes and the largest cup of coffee that I think I've ever drunk - 100% Kona coffee of course.
 
 ![20150925-7371](/images/2015/20150925-7371.jpg)
 
@@ -45,7 +45,7 @@ On the way back I made Sharon take a detour (I like that she's the only one insu
 
 When we returned to England we missed the place so much that we hooked up with the online stream of the station - so everything was good again. We then moved to the seaside - even better. Anyway, I collected a sticker from a nice chap in reception and shaka'd at the lady presenter of the morning show through the window outside!
 
-Anyway, enough of this nonsense -especially as they didn't want to inverview me on air! Shocking - I know.
+Anyway, enough of this nonsense -especially as they didn't want to interview me on air! Shocking - I know.
 
 Back 'home' to dump the wet swim gear off and then we off on the road again - first stop was to see Amy - the lady who runs the local florist shop. She was good to us two years ago and we popped in to say hello and to place a little order (for Sharon, not me) for some pre-race flowers.
 

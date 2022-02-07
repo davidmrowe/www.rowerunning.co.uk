@@ -68,7 +68,7 @@ So today, Monday, meant that my personal Ironman World Championship support crew
 
 Their flight arrived at 2pm and just after 4pm we were knocking on their door with the first of a week of fun events all lined up!
 
-Firstly we needed a beer. A cold one. A Kona Bewing Company Longboard lager. With a view of the ocean. Perfect.
+Firstly we needed a beer. A cold one. A Kona Brewing Company Longboard lager. With a view of the ocean. Perfect.
 
 ![20151005-7462](/images/2015/20151005-7462.jpg)
 

@@ -8,7 +8,7 @@ author:
   - "david"
 ---
 
-A year ago we had friends staying with us for the weekend and whilst I spent all day Sunday [riding 100+ miles around the Isle of Wight in the rain](/2015/05/isle-of-wight-randonnee-2015/) at a cyclingevent our friends took part in the Three Forts Challenge - a rather hilly marathon (or half marathon) held near Worthing (about 15 miles from home).
+A year ago we had friends staying with us for the weekend and whilst I spent all day Sunday [riding 100+ miles around the Isle of Wight in the rain](/2015/05/isle-of-wight-randonnee-2015/) at a cycling event our friends took part in the Three Forts Challenge - a rather hilly marathon (or half marathon) held near Worthing (about 15 miles from home).
 
 This year our friends were coming back to stay and I really didn't fancy such a tough day in the saddle - especially with my lack of bike riding this year.
 
@@ -30,14 +30,14 @@ The weather was perfect and although I could have easily got away with road shoe
 
 The course was stunning - the scenery across the South Downs and beyond was amazing. The weather was cool, there was a slight breeze and it was a joy to be out there. The only problem was that my legs ached! And I could feel blisters coming on both feet. Lovely.
 
-I think I had a pretty solid runand pretty much maintained my position throughout - indicating that I paced it pretty well. As I had no idea of the course (I didn't really look at the profile until after the race) I had to be prepared for whatever was around each corner. On a flat race I'd pick my pace, keep an eye on my GPS and feel and just get on with it. Here I had to work to feel much more rather than pace - as my pace fluctuated from about 6 minute miling to 12 minute miling.
+I think I had a pretty solid run and pretty much maintained my position throughout - indicating that I paced it pretty well. As I had no idea of the course (I didn't really look at the profile until after the race) I had to be prepared for whatever was around each corner. On a flat race I'd pick my pace, keep an eye on my GPS and feel and just get on with it. Here I had to work to feel much more rather than pace - as my pace fluctuated from about 6 minute miling to 12 minute miling.
 
 ![The finishing straight](/images/2016/20160501-1622.jpg) 
 *The finishing straight*
 
 There were maybe four drinks stations on route and the marshals were friendly and supportive. Thanks.
 
-When I did my nighttime training run a few weeks ago I had to concentrate incredibly hard on both seeing where I was going and where I was putting my feet down (as I only had a headtorch for visibility). This time it wasn't much easier as I was having to concentrate on my footing for pretty much every step. I'm sure given practice it gets easier. I just haven't practiced.
+When I did my night time training run a few weeks ago I had to concentrate incredibly hard on both seeing where I was going and where I was putting my feet down (as I only had a head torch for visibility). This time it wasn't much easier as I was having to concentrate on my footing for pretty much every step. I'm sure given practice it gets easier. I just haven't practiced.
 
 Coming into the finish I'd say I gave it my best shot today and was chuffed to finish in a time of 1 hour 43 minutes (and 42 seconds) which put me in 22nd place (out of 314 finishers). The winner finished in just under 1 hour 28.
 

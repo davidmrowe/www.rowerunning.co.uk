@@ -14,7 +14,7 @@ So this morning at 7am Lucy, Joe and Charlie met up at the pier for a swim. I jo
 
 ![20150926-7380](/images/2015/20150926-7380.jpg)
 
-So the fast boys (and girl) swam the full Ironman course (2.4 miles) and I trailed in a few minutes afterwards after swimming a fair bit less. We followed the swim witha lovely drink and a natter at a coffee place a few minutes walk away with a gorgeous view over the ocean.
+So the fast boys (and girl) swam the full Ironman course (2.4 miles) and I trailed in a few minutes afterwards after swimming a fair bit less. We followed the swim with a lovely drink and a natter at a coffee place a few minutes walk away with a gorgeous view over the ocean.
 
 ![20150926-post-swim-drink](/images/2015/20150926-post-swim-drink.jpg)
 
@@ -34,7 +34,7 @@ It was crazy. Did I say I've never ridden in anything like this before? Well, it
 
 Oh, and it boiling hot again today - just under 90 degrees.
 
-![20150926-7382](/images/2015/20150926-7382-300x400.jpg)Once I rolled into Kawaihae I stopped off at the garage to get a drinks refill. In addition to just under acouple of litres of sports drink I poured myself a lovely coffee-mocha type iced slushy drink. It was lurvely but took ages to drink.
+![20150926-7382](/images/2015/20150926-7382-300x400.jpg)Once I rolled into Kawaihae I stopped off at the garage to get a drinks refill. In addition to just under a couple of litres of sports drink I poured myself a lovely coffee-mocha type iced slushy drink. It was lurvely but took ages to drink.
 
 Once back on the road I knew I had about an hour's gentle climbing to get to Hawi - about 18 miles away.
 
@@ -50,11 +50,11 @@ I set her off on her way and said I'd be with her in about 25 minutes or so.
 
 ![20150926-1429](/images/2015/20150926-1429.jpg)
 
-Just as she headed off into the distance and I set off the rain began (you can see the clouds in the photo). The winds were still ridiculously fierce and were mostly side-winds at this point. The rain really got quite heavywhich rather than being unpleasant was actually fairly cooling. It was howevermaking my poor bike filthy.
+Just as she headed off into the distance and I set off the rain began (you can see the clouds in the photo). The winds were still ridiculously fierce and were mostly side-winds at this point. The rain really got quite heavy which rather than being unpleasant was actually fairly cooling. It was however making my poor bike filthy.
 
 As I got to Hawi I saw the car and pulled over. Sharon was browsing a couple of the local shops and I ended up chatting to a couple of people on holiday, er, vacation. They'd been blown about in their car and couldn't believe there were people out cycling.
 
-The ridewas 54.3 miles of cycling and took 3 hours 16 of pedalling (excluding stops). It was a slow old ride but all character building stuff for sure.
+The ride was 54.3 miles of cycling and took 3 hours 16 of pedalling (excluding stops). It was a slow old ride but all character building stuff for sure.
 
 After a few minutes we put the bike in the back of the car and headed back towards Kona. Within minutes the rain clouds covering the mountain had passed behind us and we were back in sunshine and rising temperatures.
 
@@ -70,7 +70,7 @@ After handing our tins of food over at the entrance my eyes locked with a young 
 
 ![20150926-7393](/images/2015/20150926-7393.jpg)
 
-Following the excitement of this - I believe Sharon's words to me were along the lines of 'oh docalm down!' we headed off and found some seats.
+Following the excitement of this - I believe Sharon's words to me were along the lines of 'oh do calm down!' we headed off and found some seats.
 
 The main act was a Grammy award winning artist John Cruz who was accompanied by father and son guitarists Mele'uhane. The music was wonderful, a group of dancers from a hula halau (hula school) entertained, the crowd were very appreciative and we really enjoyed a little non-ironman craziness. The music started at 5pm and went on until 6:30pm as it got dark.
 

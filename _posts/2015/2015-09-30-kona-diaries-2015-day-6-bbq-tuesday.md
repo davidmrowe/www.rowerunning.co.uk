@@ -38,7 +38,7 @@ Oh, and it wasn't raining which made a pleasant change.
 
 ![](/images/2015/20150929-0033496.jpg)
 
-I made it to Hawi, used the restroom at alocal shop (and left some money to say thank you) and then refuelled like a pro!
+I made it to Hawi, used the restroom at a local shop (and left some money to say thank you) and then refuelled like a pro!
 
 ![20150929-hawi](/images/2015/20150929-hawi.jpg)
 
@@ -56,7 +56,7 @@ You see, rather than turn around and head back down to Kawaihae and then back to
 
 I recall that there would be a bit of a climb but I hadn't planned for this - over 13 miles at an average gradient of 4.3%. Nothing too steep but it does grind on a bit.
 
-To behonest I felt so bad I had to stop when I saw a sign that said 'Healing Horse'.
+To be honest I felt so bad I had to stop when I saw a sign that said 'Healing Horse'.
 
 ![](/images/2015/20150929-0073582.jpg)
 
@@ -98,7 +98,7 @@ This was meant to be fun! It was not. At all.
 
 Eventually I made it to the bottom of this part of the mountain - the town of Waimea - 2676ft above sea level.
 
-I found myself a garage (at the 'Waimea Express') and got myself some lunch. Whilst browsing the shelves I saw something that looked interesting. I asked the cashier and she said it was some sort of heated bread/chicken/broccoli thing. That'll do. And a can of coke chaser if Imay.
+I found myself a garage (at the 'Waimea Express') and got myself some lunch. Whilst browsing the shelves I saw something that looked interesting. I asked the cashier and she said it was some sort of heated bread/chicken/broccoli thing. That'll do. And a can of coke chaser if I may.
 
 ![20150929-waimea](/images/2015/20150929-waimea.jpg)
 
@@ -108,25 +108,25 @@ Now that my feast was complete I jumped back on my trusty stead and found myself
 
 ![](/images/2015/20150929-0183713.jpg)
 
-As I rolled into the familiar sight of Kailua-Kona the pier was heaving with tourists getting a lift back to their monster cruise shipand I pedalled easy back to the condo. I pulled up at the front gate with over 116 miles ticked off.
+As I rolled into the familiar sight of Kailua-Kona the pier was heaving with tourists getting a lift back to their monster cruise ship and I pedalled easy back to the condo. I pulled up at the front gate with over 116 miles ticked off.
 
 ![](/images/2015/20150929-0193750.jpg)
 
 ![](/images/2015/20150929-0193753.jpg)
 
-Could I have run a marathon after that effort? Well... only if you made me. In 11 days time I hope to get off of the bike feelinglike I did today - then I think I'd be more than happy to go for a little run.
+Could I have run a marathon after that effort? Well... only if you made me. In 11 days time I hope to get off of the bike feeling like I did today - then I think I'd be more than happy to go for a little run.
 
 ![20150929-elevation](/images/2015/20150929-elevation1.png)
 
-![20150929-bike-route](/images/2015/20150929-bike-route.png)Today was my first ride over 100 miles since riding around the Isle of Wight at the start of May. My preparation for all sorts of reasons ([which I've posted about elsewhere on the blog](/2015/09/kona-diaries-2015-consistency-consistently-injured/)) has been terrible over the past 12 months but I needed to get todays ride done to get my head ina good place. It is in a good place now.
+![20150929-bike-route](/images/2015/20150929-bike-route.png)Today was my first ride over 100 miles since riding around the Isle of Wight at the start of May. My preparation for all sorts of reasons ([which I've posted about elsewhere on the blog](/2015/09/kona-diaries-2015-consistency-consistently-injured/)) has been terrible over the past 12 months but I needed to get today's ride done to get my head ina good place. It is in a good place now.
 
-So why is the title of this post called 'BBQ Tuesday' - well... back home in England there's a group of us who hold informal BBQ's at the beach on any warm sunny Tuesday evening during the summer months. Today was Tuesday. It was warm and sunny. OK it wasn't England but a BBQ would be perfect for me to get some protein inside of me to repair the muscle damage from todays ride.
+So why is the title of this post called 'BBQ Tuesday' - well... back home in England there's a group of us who hold informal BBQ's at the beach on any warm sunny Tuesday evening during the summer months. Today was Tuesday. It was warm and sunny. OK it wasn't England but a BBQ would be perfect for me to get some protein inside of me to repair the muscle damage from today's ride.
 
-So I did. As part of my 'get myself down to race weight' routine that I've just started I went easy on theportions. So here's a photo of my dinner.
+So I did. As part of my 'get myself down to race weight' routine that I've just started I went easy on the portions. So here's a photo of my dinner.
 
 ![20150929-7422](/images/2015/20150929-7422.jpg)
 
-Just as we finished cooking our food on the BBQ the sun started dropping below the horizonand the cruise liner headed off into the distance (tomorrow morning it will be docked on the island of Maui).
+Just as we finished cooking our food on the BBQ the sun started dropping below the horizon and the cruise liner headed off into the distance (tomorrow morning it will be docked on the island of Maui).
 
 ![20150929-7420](/images/2015/20150929-7420.jpg)
 

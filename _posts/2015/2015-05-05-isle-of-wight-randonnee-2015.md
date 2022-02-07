@@ -15,7 +15,7 @@ I'm starting to build up my cycling a little bit as of late although my longest 
 
 Of course, I had to get to the Island first. After my car decided to die on me two and a half years ago I'm trying to be a little more self sufficient. Sharon offered to give me a lift to Portsmouth to catch the ferry but I thought that if I cycled to Portsmouth I'd get a decent ride in of around 90 miles or so. The 'warm-up' to the island would certainly wake me up!
 
-In fact come the morning of the ride I was more woken up by the rain! The forecast wasn't looking good for the morning and to be fair it didn't seem \*that\* bad when I left home just before 6am. It was drizzling a little bit. Well, two miles in this turned into rain and that pretty much continued all the way to Portsmouth. I was soaked. It was lovely to see Marcus and some of the gang from Bognor parkrunsay hello to me from the warmth and dry of a car as they drove past. Cheers!
+In fact come the morning of the ride I was more woken up by the rain! The forecast wasn't looking good for the morning and to be fair it didn't seem \*that\* bad when I left home just before 6am. It was drizzling a little bit. Well, two miles in this turned into rain and that pretty much continued all the way to Portsmouth. I was soaked. It was lovely to see Marcus and some of the gang from Bognor parkrun say hello to me from the warmth and dry of a car as they drove past. Cheers!
 
 ![DCIM107GOPRO](/images/2015/20150503-0030853.jpg)
 
@@ -27,15 +27,15 @@ I arrived at about 7:45am and my ferry was booked for 8:15. Perfect. I'd booked 
 
 ![DCIM107GOPRO](/images/2015/20150503-0080872.jpg)
 
-Starting at Ryde Pier was lovely. It's a really impressivepier about half a mile long with beautiful smooth wooden boards to cycle along as you head to land. These boards were slippery like ice in the pouring rain so I had to be really careful. Yes, it was still pouring with rain. What joy.
+Starting at Ryde Pier was lovely. It's a really impressive pier about half a mile long with beautiful smooth wooden boards to cycle along as you head to land. These boards were slippery like ice in the pouring rain so I had to be really careful. Yes, it was still pouring with rain. What joy.
 
-It was about a fourmile ride (although I got confused and rode an extra mile or so) to the first checkpoint of the ride in Wooton (you can start and finish at any checkpoint - this was just the closest one to where I arrived on the island). Here you sign-in, collect a small 'check card' and prepare to get it stamped at each checkpoint round the island.
+It was about a four mile ride (although I got confused and rode an extra mile or so) to the first checkpoint of the ride in Wooton (you can start and finish at any checkpoint - this was just the closest one to where I arrived on the island). Here you sign-in, collect a small 'check card' and prepare to get it stamped at each checkpoint round the island.
 
 Today would be a long day in the saddle and I had to treat it that way. Ride slowly and well within myself - this would be the only way to get to the finish in one piece. The route changes direction each year (clockwise/anti-clockwise) and this was a clockwise year. I had the route downloaded onto my bike GPS so in addition to the excellent fixed 'round the island' signposts it was nice to have an idea of what was coming up ahead.
 
 ![DCIM107GOPRO](/images/2015/20150503-0170908.jpg)
 
-Shortly after setting off on the official route (I'd ridden about 30 miles already) I saw a couple of people wearing'Stragglist' cycling tops. These are folk from The Stragglers running club close to where we used to live in West LondonandI had a chat to them for a couple of miles. I was on the lookout for Ann and Ray from Bushy parkrun who I was told were a little way up the road.
+Shortly after setting off on the official route (I'd ridden about 30 miles already) I saw a couple of people wearing 'Stragglist' cycling tops. These are folk from The Stragglers running club close to where we used to live in West London and I had a chat to them for a couple of miles. I was on the lookout for Ann and Ray from Bushy parkrun who I was told were a little way up the road.
 
 Getting close to the next checkpoint near Bembridge I saw Ann. I said hello, we blew a few kisses (!) and I headed on to the checkpoint. Just as I was arriving the Bognor parkrun mob (about 10 of them) had just left. I hoped to catch them up shortly as all I needed to do was get my card stamped. Well, I had a chat with Ray (from Bushy parkrun) who was there, ended up buying a lovely sandwich and some chocolate. I then saw Marcus and Jo from Bognor parkrun who'd had an eventful start to their day due to a few navigation issues!
 
@@ -52,7 +52,7 @@ When the rain went the mist and fog arrived. I was glad of having bike lights wi
 
 ![DCIM107GOPRO](/images/2015/20150503-0250941.jpg)
 
-It was a shame that it was so foggy as there's some beautiful views to be had from the island. This does mean I'll have to come back I guess and do it again as the scenery didn't quite deliver today. The hills were there though! Riding the island would be excellent training for something like Ironman UK or Wales where there's lots of short sharp climbs, twists and turns. This is my kind of terrain - although weighinga stone heavier than I was a few months ago made it tougher.
+It was a shame that it was so foggy as there's some beautiful views to be had from the island. This does mean I'll have to come back I guess and do it again as the scenery didn't quite deliver today. The hills were there though! Riding the island would be excellent training for something like Ironman UK or Wales where there's lots of short sharp climbs, twists and turns. This is my kind of terrain - although weighing a stone heavier than I was a few months ago made it tougher.
 
 ![DCIM107GOPRO](/images/2015/20150503-0310965.jpg)
 
@@ -60,7 +60,7 @@ I was looking forward to getting to the westernmost point of the island, close t
 
 ![DCIM107GOPRO](/images/2015/20150503-0390998.jpg)
 
-Before getting to Yarmouth the official route takes you on a compacted gravel cycle track for a couple of miles or so. I could have ridden a slightlylonger route on the road but chose to follow the masses and took this slightly shorter route.
+Before getting to Yarmouth the official route takes you on a compacted gravel cycle track for a couple of miles or so. I could have ridden a slightly longer route on the road but chose to follow the masses and took this slightly shorter route.
 
 This past week I'd changed the wheels on my road bike and I had my really tough Continental GP 4 Season tyres which got me round and over the Rocky Mountains in Canada last year. I've had great experience with these tyres and with the weather like it was today I really didn't want to be fixing a mechanical at the side of the road.
 
@@ -90,7 +90,7 @@ Up a hill, down a hill, up a hill.... and before long I was back at Wooton. I go
 ![Full Route Finishers Certificate](/images/2015/20150503-certificate.jpg) 
 *Full Route Finishers Certificate*
 
-It was a satisfying little pedal back to Ryde pier (which was dry at this point as the sun had come out) and I got to the ferry with about 30 minutes to spare. A hot drink and some food was just what was neededas I relaxed and waited for the ferry.
+It was a satisfying little pedal back to Ryde pier (which was dry at this point as the sun had come out) and I got to the ferry with about 30 minutes to spare. A hot drink and some food was just what was needed as I relaxed and waited for the ferry.
 
 ![Ryde pier - lovely when it's dry!](/images/2015/20150503-0831171.jpg) 
 *Ryde pier - lovely when it's dry!*
@@ -99,7 +99,7 @@ It was a satisfying little pedal back to Ryde pier (which was dry at this point 
 
 ![DCIM107GOPRO](/images/2015/20150503-0891198.jpg)
 
-I'd ridden about 103 miles by this point (about 7 and a half hours of actual riding - only five hours more than my longest ride in the past seven months!). My right knee was really aching (makes a difference from my left ankle which is stopping me from doing any proper running at present) and I was about26 or so miles fromhome. Being sensible (for a change) I jumped on a train at Portsmouth Harbour station (which is literally 30 seconds walk from the ferry terminal). This took me to Barnham and I rode the final four miles home.
+I'd ridden about 103 miles by this point (about 7 and a half hours of actual riding - only five hours more than my longest ride in the past seven months!). My right knee was really aching (makes a difference from my left ankle which is stopping me from doing any proper running at present) and I was about26 or so miles from home. Being sensible (for a change) I jumped on a train at Portsmouth Harbour station (which is literally 30 seconds walk from the ferry terminal). This took me to Barnham and I rode the final four miles home.
 
 ![The train ride home](/images/2015/20150503-0941217.jpg) 
 *The train ride home*

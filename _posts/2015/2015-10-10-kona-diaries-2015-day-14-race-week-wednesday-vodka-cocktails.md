@@ -10,7 +10,7 @@ author:
 
 Wednesday started with guess what... a swim. A swim to the coffee boat is about 450m each way so this is all good low impact exercise in advance of Saturday's little race. Andy and I picked up a pair of free goggles as well out there from the good folk at Blueseventy.
 
-In preparation fortomorrows 'underpants run' I needed to give my ridiculously small (read, size 30 inch waist!) swimming trunks a go. The lovely 'Funky Trunks' that I had last time seemed to have gone AWOL. I think I left them in Canada last year. This is very upsetting as I know there's people back home (well, just one lady - Carol) who demand to see photos of me sporting these trunks.
+In preparation for tomorrows 'underpants run' I needed to give my ridiculously small (read, size 30 inch waist!) swimming trunks a go. The lovely 'Funky Trunks' that I had last time seemed to have gone AWOL. I think I left them in Canada last year. This is very upsetting as I know there's people back home (well, just one lady - Carol) who demand to see photos of me sporting these trunks.
 
 Well, I picked up another pair of similar style (i.e., too small and skimpy) trunks two years ago in Kona so these are the new trunks for me.
 
@@ -34,15 +34,13 @@ Whilst they went one way I went the other - back to the pier to register for the
 
 ![DCIM108GOPRO](/images/2015/20151007-registration1.jpg)
 
-Whilst I've been here in Kona I've been keeping an eye out for a [lovely volunteer](/2013/10/kona-diaries-2013-day-24-race-week-friday-bike-racking/) who I managed to somehow bump into many many times in 2013. A friendlyyoung lady by the name of Katie.
+Whilst I've been here in Kona I've been keeping an eye out for a [lovely volunteer](/2013/10/kona-diaries-2013-day-24-race-week-friday-bike-racking/) who I managed to somehow bump into many many times in 2013. A friendly young lady by the name of Katie.
 
 Well... you know where this is going don't you. As I left registration there's an area at the front of the main race hotel where you can leave bikes securely whilst you swim/register/whatever. One of the ladies there looked familiar. I went up to her and politely asked to confirm her name.
 
 She went nuts! It was brilliant. It was Katie. She remembered me. She remembered that she'd seen me a million times during race week before. It was lovely to see her (any by the look on her face she was pleased to see me). This cheered me up no end (not that there's much to be miserable about being here - oh, other than knowing that you'll be running a marathon in 90+ degree heat on Saturday afternoon!).
 
 ![DCIM108GOPRO](/images/2015/20151007-0398771.jpg)
-
-
 
 There's also a huge sign (it gets bigger every year) with a list of all the registered athletes taking part on it. I found my name and took the obligatory photo.
 

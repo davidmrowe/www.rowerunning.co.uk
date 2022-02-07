@@ -16,13 +16,13 @@ This brings me onto an excuse to show a photo of the beach (again). This is 'Dig
 
 The 'beach' is a really small area of sand and there's some steps that take you down to the beach. Firstly you need to tackle the ice rink that is the concrete walkway beside the wall. Sharon saw about 15 people slip up on it a couple of days ago. Unless someone comes out with a metal scrubbing brush in the next few daysI suspect some people are going to come a cropper big time next week when the pier and beach get rammed with triathlete types from all over the world.
 
-It's getting busier every day (and will do so in the lead up to the race) and it's lovely to enjoy itright now. If you make the long trip out just for race week you'll get a completely different experienceof thisplace.
+It's getting busier every day (and will do so in the lead up to the race) and it's lovely to enjoy it right now. If you make the long trip out just for race week you'll get a completely different experienceof thisplace.
 
-Whilst I headed outfor some (serious) swim training Sharon had a little splash around closer to shore and kept an eye on the sea life. There was quite an impressive display by all accounts.
+Whilst I headed out for some (serious) swim training Sharon had a little splash around closer to shore and kept an eye on the sea life. There was quite an impressive display by all accounts.
 
 ![](/images/2015/20150928-0113026.jpg)
 
-Post swim we saw Duncan and Claire from the UK. We first met Claire here in 2013 after she qualified earlier that year. We then met Duncan and Claire again at Ironman Wales in September 2014 when they both (and I) qualified for this years race. It's always good to seesome friendly faces.
+Post swim we saw Duncan and Claire from the UK. We first met Claire here in 2013 after she qualified earlier that year. We then met Duncan and Claire again at Ironman Wales in September 2014 when they both (and I) qualified for this years race. It's always good to see some friendly faces.
 
 ![](/images/2015/20150928-0133050.jpg)
 
@@ -34,7 +34,7 @@ Back home for breakfast on the lanai and whilst enjoying the sound of the crashi
 
 I just love being where we are - pretty darn close to the water - it's the only sound we can hear at night - the waves.
 
-Todays trainingplan was for.... oh yeah, I don't follow a plan... well, I decided to do a little bike ride and rather that the dull Queen K highway (yes, it is dull but it is very special from a race point of view) I headed off on a route that I rode a couple of years ago - the 'Painted Church Loop.'
+Today's training plan was for.... oh yeah, I don't follow a plan... well, I decided to do a little bike ride and rather that the dull Queen K highway (yes, it is dull but it is very special from a race point of view) I headed off on a route that I rode a couple of years ago - the 'Painted Church Loop.'
 
 ![](/images/2015/20150928-0173203.jpg)
 
@@ -44,11 +44,11 @@ The mountains love attracting big black clouds and today was no exception.
 
 ![](/images/2015/20150928-0183209.jpg)
 
-As I stopped briefly to take a photo of themenacing clouds I also took a photo to give you an idea of much of the road surface out here. It's nice and smooth but there's loads of little rocks and stones that love bicycle tyres!
+As I stopped briefly to take a photo of the menacing clouds I also took a photo to give you an idea of much of the road surface out here. It's nice and smooth but there's loads of little rocks and stones that love bicycle tyres!
 
 ![](/images/2015/20150928-0183226.jpg)
 
-The bay is also knownas 'Captain Cook' - this is close to where Captain Cook moored up, came ashore, got into a fight and met an untimely death in 1779. There's a monument across the baymarking the spot of his demise. This is a fantastic area for snorkeling and we went there last time on an organised kayak/snorkel trip that was great fun.
+The bay is also know nas 'Captain Cook' - this is close to where Captain Cook moored up, came ashore, got into a fight and met an untimely death in 1779. There's a monument across the bay marking the spot of his demise. This is a fantastic area for snorkeling and we went there last time on an organised kayak/snorkel trip that was great fun.
 
 ![Kealakekua Bay](/images/2015/20150928-0193245.jpg) 
 *Kealakekua Bay, with my bike in the way*
@@ -62,7 +62,7 @@ From the bay you continue cycling along a strange old barren road for a few mile
 
 ![](/images/2015/20150928-0213274.jpg)
 
-Although there were some big black clouds I managed toavoid the rain that was up there and the only reason my clothes were wet was from sweat. Did I mention it was another warm day today? I thought not.
+Although there were some big black clouds I managed to avoid the rain that was up there and the only reason my clothes were wet was from sweat. Did I mention it was another warm day today? I thought not.
 
 ![](/images/2015/20150928-0233319.jpg)
 
@@ -70,7 +70,7 @@ I cycled past the 'Painted Church' - I didn't stop though (been there, done that
 
 ![](/images/2015/20150928-0253345.jpg)
 
-Once at the top of the climb it was a beautiful quick ride back home. The thing is, asI weigh (at least) a stonemore than I did two years ago this makes me pretty quick on the downhills! I'm slower going up but quicker going down, and when my speedogot to nearly 52mph and I realised I was only wearing some thin lycra outfit (which I know from my recent bike crash doesn't like tarmac) I decided to ease off.
+Once at the top of the climb it was a beautiful quick ride back home. The thing is, asI weigh (at least) a stone more than I did two years ago this makes me pretty quick on the downhills! I'm slower going up but quicker going down, and when my speedo got to nearly 52mph and I realised I was only wearing some thin lycra outfit (which I know from my recent bike crash doesn't like tarmac) I decided to ease off.
 
 This is a really enjoyable bike ride, it's about 40 miles and is much more scenic than 40 miles of the Queen K. It's just a bit up, down, up, down as the ride profile shows...
 

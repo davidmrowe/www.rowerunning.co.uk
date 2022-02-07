@@ -83,7 +83,7 @@ Absolutely delicious burgers with free soft drink refills hit the spot. Highly r
 
 Eventually we made it back to Kailua which is now a much much quieter place. We had a little wander around and somehow - don't ask me how - ended up at the shave ice store.
 
-I went for a shave ice with chocolate mac-nut ice cream in the middle with flavouringsof coconut and strawberry poured on top.
+I went for a shave ice with chocolate mac-nut ice cream in the middle with flavourings of coconut and strawberry poured on top.
 
 It truly is a delicious snack and I think I may be turning into a shave ice....
 

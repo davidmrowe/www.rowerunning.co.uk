@@ -18,7 +18,7 @@ But first... the sunrise this morning. This was by far the best sunrise we've se
 
 ![20151004-1042](/images/2015/20151004-1042.jpg)
 
-Back to this mornings race. The only downside is that it starts at 7:30am. Although this seems rather early this also gives you the best chance of cooler conditions. This morning Kona airport measured 83 degress at 8:53am. The 'heat index' (what it actually feels like in the shade) was 89 and it topped off at 99 degrees for most of the afternoon.
+Back to this mornings race. The only downside is that it starts at 7:30am. Although this seems rather early this also gives you the best chance of cooler conditions. This morning Kona airport measured 83 degrees at 8:53am. The 'heat index' (what it actually feels like in the shade) was 89 and it topped off at 99 degrees for most of the afternoon.
 
 Yup, it was a warm one.
 
@@ -31,7 +31,7 @@ Sharon was already registered and had collected her race number yesterday at the
 
 
 
-Prior to the start I'd arranged to meet up with Shannon and Leah - who were part of the group who I spent 12 days with in August 2014 cycling across the Rocky Mountains in Canada with as part of Epic Camp. It was lovely to see them. There's a few of us from Canada here in Kona this year (not all competing, some just supporting) and I've also caught up with Barry and Rob so far. I just need to track down Douglas and I think that might be everyone who's here right now. I saw Andrewa little later this morning whilst the run was taking place.
+Prior to the start I'd arranged to meet up with Shannon and Leah - who were part of the group who I spent 12 days with in August 2014 cycling across the Rocky Mountains in Canada with as part of Epic Camp. It was lovely to see them. There's a few of us from Canada here in Kona this year (not all competing, some just supporting) and I've also caught up with Barry and Rob so far. I just need to track down Douglas and I think that might be everyone who's here right now.
 
 ![Some of the Epic Camp 2014 gang](/images/2015/20151004-0167023.jpg) 
 *Some of the Epic Camp 2014 gang (Barry, Andrew, Me, Leah, Shannon)*

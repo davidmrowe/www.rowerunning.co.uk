@@ -15,7 +15,7 @@ Here's a quick summary from last year:
 - Bike: 946 miles
 - Run: 749 miles
 
-I had originally planned (a year ago) to run over 1000 miles in 2015 but that didn't quite happen. I did increase my milage up from 2015 (444 miles) and only just got ahead of 2014 (742 miles) so I'm making progress. I'll have another go of trying to get over 1000 miles in 2017.
+I had originally planned (a year ago) to run over 1000 miles in 2015 but that didn't quite happen. I did increase my mileage up from 2015 (444 miles) and only just got ahead of 2014 (742 miles) so I'm making progress. I'll have another go of trying to get over 1000 miles in 2017.
 
 ![Run mileage since 2007](/images/2017/2016-run-summary.png)
 *Run mileage since 2007*

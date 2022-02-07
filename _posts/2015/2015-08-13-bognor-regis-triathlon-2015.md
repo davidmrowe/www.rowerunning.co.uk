@@ -92,7 +92,7 @@ Swim time for me was 13:53. Matt was 13:03.
 
 _David 0. Matt 1._
 
-Before long I was out on the bike. It's a flat course, a few roundabouts, a few traffic lights (which were all green apart from one that I had to slow down for before it changed back to green). You ride out to a section thatyou do twice. At the start of this first 'lap' I got overtaken by a couple of super quick chaps. Right... head down and stick with them.
+Before long I was out on the bike. It's a flat course, a few roundabouts, a few traffic lights (which were all green apart from one that I had to slow down for before it changed back to green). You ride out to a section that you do twice. At the start of this first 'lap' I got overtaken by a couple of super quick chaps. Right... head down and stick with them.
 
 Drafting is not allowed in the race and you have to keep at least 7m apart. The three of us kept a distance apart and pushed ourselves for the next 45 minutes or so. It was fast, it was fun, it wasn't easy. We changed positions a bit during the ride and made sure there was no cheating going on. It was fun.
 

@@ -80,7 +80,7 @@ As the sun set (it seems to do so on a daily basis) I headed to the King Kameham
 
 Actually the food was quite nice. I thought the event was pretty good - there was some traditional Polynesian dancing and then a number of interviews and conversation with the likes of Bob Babbit, Greg Welch, Lew Hollander, Paula Newby-Fraser, Craig Alexander and more.
 
-**The theme of this years race is 'Onipa'a. This meansthe strength to remain steadfast, resilient and resolute.**
+**The theme of this years race is 'Onipa'a. This means the strength to remain steadfast, resilient and resolute.**
 
 Many stories were told and we also heard that Hector Picard, a double arm amputee is taking part on Saturday. When he rides his bike he changes gears with his chin and brakes with his knees! There's an interview with him pre-race from Breakfast with Bob on YouTube.
 

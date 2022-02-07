@@ -7,7 +7,7 @@ author:
   - "david"
 ---
 
-Well... this is an easy blog to write. I didnt' take part! I withdrew from the race a couple of weeks ago.
+Well... this is an easy blog to write. I didn't take part! I withdrew from the race a couple of weeks ago.
 
 I started training 'proper' just after Christmas and started building up my weekly long runs (12 miles, 13 miles, 15.75, 15, 16, 17) and then on 9th February on a short run in advance of an 18 miler planned for the following day I stumbled badly on a large pebble (or similar) on the promenade close to home and twisted my ankle. It was hurting so much that I had it x-rayed the following day. I stopped all training and just over a week later I ran a parkrun. My ankle still didn't feel right.
 
@@ -17,4 +17,4 @@ Sharon and I did go and support and had a great time. It was hot (not 'Kona' hot
 
 My planned training log has now been removed from the fridge door at home. It was all going so well...
 
-![2017-04-brighton-traning](/images/2017/2017-04-brighton-traning.png)
+![2017-04-brighton-training](/images/2017/2017-04-brighton-traning.png)

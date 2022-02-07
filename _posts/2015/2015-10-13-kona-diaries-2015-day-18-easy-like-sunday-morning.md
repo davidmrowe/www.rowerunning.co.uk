@@ -24,7 +24,7 @@ We then strolled back to Huggo's to watch some of the interviews as part of the 
 
 We sat down and watched interviews with Ironman World Champion Daniela Ryf, Rachel Joyce (2nd female), Michelle Vesterby (4th female), Heather Jackson (5th female).
 
-Listening to the pros post race talking about how their day went was really interesting. Pre-race the interviews are good and you normally always hear things along the lines of 'I'm in the best shape I've been all year' etc. but that's often justfighting talk. Post race there's nothing to prove as it was all decided out on the race course the day before.
+Listening to the pros post race talking about how their day went was really interesting. Pre-race the interviews are good and you normally always hear things along the lines of 'I'm in the best shape I've been all year' etc. but that's often just fighting talk. Post race there's nothing to prove as it was all decided out on the race course the day before.
 
 ![20151011-0651167](/images/2015/20151011-0651167.jpg)
 
@@ -36,7 +36,7 @@ On the mens side of things we heard from World Champion Jan Frodeno, Timothy O'D
 
 Sharon and I then headed off to meet up with a couple of friends who were on Epic Camp in Canada last year. There's a group of 15 of them rending a lovely house right on Ali'i Drive and we had a lovely couple of hours with them (conversation, food, beer, swimming pool). All good.
 
-Back home for a 90 minute power nap and then it was offinto town to go to the race awards banquet. We got ourselves a reasonable spot with a few other English folk, at food, drank beer (from the Kona Brewing Company of course) and watched all the different age groups get presented with their prizes. There was a good GB contingent up there collecting prizes and it was especially great to see Charlie (who won the 10k race a week ago) go up and collect his second place prize for the 35-39 age group. Frustratingly he was only six seconds behind first place and was running him down. Charlie had the fastest non professional run split of the day (2:58:44) and finished 30th overall (including all the pros).
+Back home for a 90 minute power nap and then it was off into town to go to the race awards banquet. We got ourselves a reasonable spot with a few other English folk, at food, drank beer (from the Kona Brewing Company of course) and watched all the different age groups get presented with their prizes. There was a good GB contingent up there collecting prizes and it was especially great to see Charlie (who won the 10k race a week ago) go up and collect his second place prize for the 35-39 age group. Frustratingly he was only six seconds behind first place and was running him down. Charlie had the fastest non professional run split of the day (2:58:44) and finished 30th overall (including all the pros).
 
 ![20151011-7601](/images/2015/20151011-7601.jpg)
 

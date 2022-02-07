@@ -31,7 +31,7 @@ My longest swim was 3.8km. The week before the Ironman in the Ho'ala training sw
   
 ![20151010-duration-bike](/images/2015/20151010-duration-bike.png) I managed a bit more cycling. Mostly 30-60 minute turbo training rides at home. Very few outdoor rides took place. The 'big' weeks were in early May (when I cycled around the Isle of Wight).
 
-In late July I did a 68 mile ride and then a 50 miler three days later. That made that week look 'big' - it totalled 118 miles of outdoor riding (and just over 2 hours on the indoortrainer).
+In late July I did a 68 mile ride and then a 50 miler three days later. That made that week look 'big' - it totalled 118 miles of outdoor riding (and just over 2 hours on the indoor trainer).
 
   
 I managed two rides this year over 100 miles. One at the start of May and then one a few days before the bigrace. Hmn.
@@ -63,7 +63,7 @@ The alarm was set for 3am. Oh the joy. Race start is at 6:55am so that's quite a
 
 Coffee made - we've been big fans of [Lion coffee](http://www.lioncoffee.com/) this trip. They makea lovely 100% Kona Coffee. Sharon has six bags of the stuff in her checked in luggage on the plane.
 
-Timing chip on, race kit on, factor 50 waterproof suncream applied. Then time for breakfast - a tin of [Ambrosiarice pudding](https://www.google.co.uk/search?q=ambrosia+rice+pudding)(creamed rice), straight from the tin. We brought a tin with us from the UK. It's best not to do anything new on race day.
+Timing chip on, race kit on, factor 50 waterproof suncream applied. Then time for breakfast - a tin of [Ambrosia rice pudding](https://www.google.co.uk/search?q=ambrosia+rice+pudding)(creamed rice), straight from the tin. We brought a tin with us from the UK. It's best not to do anything new on race day.
 
 That is, apart from the actual race when you've not trained properly!
 
@@ -75,7 +75,7 @@ First up - drop off the bike special needs bag. This consisted of an inner tube 
 
 Then it's through to 'body marking'. They firstly wipe your arms with a towel/face-cloth soaked in alcohol. This is to get any suncream off of your arms - so that the race number transfers hold (and that your arms get sunburn).
 
-You then collect your numbers and then go find a volunteer who applies them to your arms. This process was very efficient and no where near as busyas it was 2013. Ironman are clearly listening to feedback and improving things.
+You then collect your numbers and then go find a volunteer who applies them to your arms. This process was very efficient and no where near as busy as it was 2013. Ironman are clearly listening to feedback and improving things.
 
 ![20151010-0080509](/images/2015/20151010-0080509.jpg)
 
@@ -85,7 +85,7 @@ Once marked up you head through to be weighed. On my way there I saw (my lovely 
 
 I stepped on the weighing scales (wearing tri shorts, top and shoes). The scores on the doors - 195.2 pounds. That's 13 stone 13 pounds. Or 88.54kg.
 
-Hmn.... how does this compare to 2013 when two months before Kona I was in the form of my life (hence winning the 40-44 age group at Ironman UK) although I had hardly run or biked in 6 weeks after a suspected stress fracture in my foot a couple of weeks after qualifying. Well - I was 180lbs (12st 12lb) in 2013, which is 81.6kg. So, this time around Iweigh over a stone (15 pounds) more.
+Hmn.... how does this compare to 2013 when two months before Kona I was in the form of my life (hence winning the 40-44 age group at Ironman UK) although I had hardly run or biked in 6 weeks after a suspected stress fracture in my foot a couple of weeks after qualifying. Well - I was 180lbs (12st 12lb) in 2013, which is 81.6kg. So, this time around I weigh over a stone (15 pounds) more.
 
 Finally for a little more perspective, in September 2014 when I raced Ironman Wales and qualified for Kona I weighed 12 stone 13 pounds (82.1kg). So about the same weight as in Kona 2013.
 
@@ -129,7 +129,7 @@ This is when it kind of gets real. I've seen the live online footage countless t
 
 The sun was just starting to appear and a completely cloudless (i.e., potentially rather warm) day was looming. The nearest temperature observation (from about eight miles away at the airport) at sunrise was 79 degrees.
 
-The eyes of the worlds triathlon media are all on this race. Not on me I might add. They seem more interested in theprofessionals who start at 6:25am (men) and 6:30 (women).
+The eyes of the worlds triathlon media are all on this race. Not on me I might add. They seem more interested in the professionals who start at 6:25am (men) and 6:30 (women).
 
 I had my first energy gel of the day, washed it down with some Powerade drink we'd bought from the supermarket a few days ago and tried to relax.
 

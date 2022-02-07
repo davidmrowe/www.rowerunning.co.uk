@@ -103,7 +103,7 @@ The flight left at 10:25pm. We're then heading to Los Angeles, then to Dallas an
 
 Right now as I get ready to hit the 'publish' button it's Friday afternoon (this blog is really about Thursday) and Sharon and I are at Dallas Fort Worth airport after 5.5 hours to LA and 2.5 hours to here. We've got about 9 more hours in the air before we land at Heathrow.
 
-Once again this has been an unforgettable trip and we've had an amazing time. It was a different experience doing 'Kona' for the second time - not worse, not better, just different. We spent 21 nights in Hawaii and feel ready to come home. We're looking forward to wearing a few more layers of clothes (including my new 'trucker' caps) and relaxingover pint or two at the local sailing club.
+Once again this has been an unforgettable trip and we've had an amazing time. It was a different experience doing 'Kona' for the second time - not worse, not better, just different. We spent 21 nights in Hawaii and feel ready to come home. We're looking forward to wearing a few more layers of clothes (including my new 'trucker' caps) and relaxing over pint or two at the local sailing club.
 
 One of the sad things is that the 30 second walk to the ocean from our condo is going to take all of two minutes when we get back home. We can still hear the ocean (the cold English Channel) when we go to bed though.
 

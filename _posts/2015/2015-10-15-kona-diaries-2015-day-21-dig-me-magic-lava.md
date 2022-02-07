@@ -26,7 +26,7 @@ After lunch (which consisted of pretty much nothing after the breakfast I'd just
 
 ![20151014-0082583](/images/2015/20151014-0082583.jpg)
 
-There was quite a shore break and so many people trying to body surf and boogie board on the same waves. I really don't know how so many people don't get hurt! This photo below has someone stood on their boogie board whilst at least fourothers between him and myself are on the same wave!
+There was quite a shore break and so many people trying to body surf and boogie board on the same waves. I really don't know how so many people don't get hurt! This photo below has someone stood on their boogie board whilst at least four others between him and myself are on the same wave!
 
  ![20151014-0092610](/images/2015/20151014-0092610.jpg) 
 

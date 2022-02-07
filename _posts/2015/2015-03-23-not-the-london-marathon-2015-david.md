@@ -7,7 +7,7 @@ author:
   - "david"
 ---
 
-In 2009 it was suggested that a social run around the Bushy parkrun 5k course a few weeks out from the London Marathon would be a great little motivator for those long runs and also to get to share a long run with people who are running different distances - so not just for the 20+ miler club! Not The London Marathonwas born! You can read about the[2009](/2009/03/not-the-london-marathon-8-march-2009/),[2010](/2010/03/not-the-london-marathon-part-2-14-march-2010/),[2011](/2011/03/not-the-london-marathon-2011/ "Not The London Marathon 2011"),[2012](/2012/03/not-the-london-marathon-2012-david/ "Not The London Marathon 2012 (David)"),[2013](/2013/03/not-the-london-marathon-2013-david/ "Not The London Marathon 2013 (David)")and [2014](/2014/03/not-the-london-marathon-2014-david/ "Not The London Marathon 2014 (David)")events elsewhere on this blog.
+In 2009 it was suggested that a social run around the Bushy parkrun 5k course a few weeks out from the London Marathon would be a great little motivator for those long runs and also to get to share a long run with people who are running different distances - so not just for the 20+ miler club! Not The London Marathon was born! You can read about the[2009](/2009/03/not-the-london-marathon-8-march-2009/),[2010](/2010/03/not-the-london-marathon-part-2-14-march-2010/),[2011](/2011/03/not-the-london-marathon-2011/ "Not The London Marathon 2011"),[2012](/2012/03/not-the-london-marathon-2012-david/ "Not The London Marathon 2012 (David)"),[2013](/2013/03/not-the-london-marathon-2013-david/ "Not The London Marathon 2013 (David)")and [2014](/2014/03/not-the-london-marathon-2014-david/ "Not The London Marathon 2014 (David)")events elsewhere on this blog.
 
 The 'rules' are as follows...
 
