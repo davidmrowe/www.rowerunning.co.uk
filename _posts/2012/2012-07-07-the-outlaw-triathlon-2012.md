@@ -123,7 +123,7 @@ Shortly after seeing Dave come past I saw another pirate coming the other way. T
 
 As I headed towards the final lake circuit with around 3.5 miles left to run I decided to do a few calculations. The upshot of this was that I had a chance of getting a time just under 10 hours 30 minutes if I really pushed on for the last few miles. I'd have to give it my best shot. I pushed on as hard as my legs could, my heart rate rose, my legs ached like hell but I was getting closer to a time that I'd be very happy with today. My speed didn't increase much (that pesky headwind in the final mile played a huge part in that) but I know I gave it everything I could at the time. The best feeling of the day was as I filtered into the finishing funnel, took the support from the crowd, gave plenty back and crossed the line.
 
-**Run time: 3 hours 43 minutes 54 seconds** **Run rank: 50th** **Overall (and final) position: 34nd (8 places gained during the run)**
+**Run time: 3 hours 43 minutes 54 seconds** **Run rank: 50th** **Overall (and final) position: 34th (8 places gained during the run)**
 
 ![](/images/2012/20120701-IMG_2478-300x400.jpg "20120701-IMG_2478")My overall time was **10 hours 28 minutes and 59 seconds** so nicely inside of 10:30. This is second fastest result over the distance with my best performance being at Roth, Germany in 2010. It's really difficult to compare times across races as the course difficulty and weather play huge parts in it so it's better to look at how you did compared to everyone else. Well, in this case looking at the non-relay athletes **I finished 34th out of 780 finishers**. This is in the top 5 percent of all finishers so that's not bad at all in my eyes.
 
