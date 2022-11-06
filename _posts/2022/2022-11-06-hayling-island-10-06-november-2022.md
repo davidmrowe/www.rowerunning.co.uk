@@ -8,6 +8,7 @@ categories:
 author: 
   - "david"
 excerpt: Puddles and yet more puddles but a great event.
+image: /images/2022/2022-11-06-hayling-10-sharon-finish.jpg
 ---
 
 In November 2014 [I ran this race](/2014/11/hayling-island-10-mile-road-race-30-november-2014) with a group of us from Bognor parkrun and really enjoyed the race saying that I'd do it again one day.  Well, that day was today - eight years later!  Sharon really fancied doing a 10 miler as she's not run one in years and I was keen to do a race as I normally only run one or two races each year.
