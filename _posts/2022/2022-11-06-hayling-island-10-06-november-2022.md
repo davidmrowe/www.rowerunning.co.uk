@@ -15,9 +15,9 @@ In November 2014 [I ran this race](/2014/11/hayling-island-10-mile-road-race-30-
 
 For the past few years during November we've been taking part in a running challenge to run every day during the month.  The rules are fairly relaxed and I'm aiming for at least 20 minutes running each day.  This may not seem much but I don't run a great deal at present (15-20 miles a week tops) but I am cycling a lot (on Zwift, but I'll leave that for another post sometime).
 
-After an extremely dry summer the weather gods has been giving us plenty of wind and rain as we head into autumn.  I've had a few great windsurfing sessions lately in the strong winds but it hasn't been ideal for running.  The weather this weekend has been pretty horrific to be fair - wet *and* windy.
+After an extremely dry summer the weather gods has been giving us plenty of wind and rain as we head into autumn.  I've had a few great windsurfing sessions lately in the strong winds but it hasn't been ideal for running.  The weather this weekend has been pretty miserable - wet *and* windy - and it was set to continue for race day.
 
-There was a good group of us from Bognor Regis Tone Zone Runners entered for the event (back in 2014 we weren't yet members of our local running club) and it's always good to put on your club vest.  We got a lift to the event with good friends Kirstee and Allen and drove through some horrific rain to the car park area near the start.  We then got soaked during the 10 minute walk to the actual race HQ.
+There was a good group of us from Bognor Regis Tone Zone Runners entered for the event (back in 2014 we weren't yet members of our local running club) and it's always good to put on your club vest.  We got a lift to the event with good friends Kirstee and Allen and drove through some terrible rain to the car park area near the start.  We then got soaked during the 10 minute walk to the actual race HQ.
 
 ![Moments before the start](/images/2022/2022-11-06-hayling-10-start.jpg) 
 *Moments before the start*
