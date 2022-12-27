@@ -1,6 +1,6 @@
 ---
 title: "Hayling Island 10 Mile Road Race - 6 November 2022"
-date: "2022-05-22"
+date: "2022-11-06"
 categories: 
   - "bognor-regis-tone-zone-runners"
   - "david"
