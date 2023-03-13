@@ -3,6 +3,7 @@ title: "Heading back to London"
 date: "2023-03-13"
 categories: 
   - "david"
+  - "bognor-regis-tone-zone-runners"
 image: "/images/2023/2023-03-13-heading-back-to-london.jpg"
 author: 
   - "david"
