@@ -25,9 +25,9 @@ I don't have a great deal of luck with standalone marathons....
 * 2019 - no marathon planned (other than the one during Ironman Lanzarote!)
 * 2020 - Virtual London Marathon [really enjoyed this no pressure run from home](https://rowerunning.co.uk/2020/10/virtual-london-marathon-2020-david/)
 
-Somehow I have managed to get round the London three times now (2009, 2012, 2013) and have always really enjoyed.  I had a "Good For Age" entry for 2014 which I deferred through injury to 2015 and in 2015 I was injured again so couldn't run.  Since then I've entered the London Marathon ballot each year with no luck whatsoever.  I'm also a member of the Bognor Regis Tone Zone Runners running club and enter their ballot for a marathon place each year (if I've passed their qualification criteria).
+Somehow I have managed to get round the London Marathon three times now (2009, 2012, 2013) and have always really enjoyed it.  I had a "Good For Age" entry for 2014 which I deferred through injury to 2015 and in 2015 I was injured again so couldn't run.  Since then I've entered the London Marathon ballot each year with no luck whatsoever.  I'm also a member of the Bognor Regis Tone Zone Runners running club and enter their ballot for a marathon place each year (if I've passed their qualification criteria).
 
-Well, in December 2022 my name got picked out of the hat for a running club place at London in April 2024 - all I had to do was pay the £50 entry fee and train for it!
+Well, in December 2022 my name got picked out of the hat for a running club place at London in April 2023 - all I had to do was pay the £50 entry fee and train for it!
 
 So, we're six weeks out and so far (touch wood) my training has been going pretty well I'd say.  As per usual I'm not following any training plan other than a really rough one which just gives me an idea of the long run mileage to reach each week prior to race day.  For example the week before the marathon I'll run 12 miles for my long run, the week before that 18, before that 22, then 20...   This is as much as my plan says.  And on top of that I'm not necessarily running long every week as I feel my ageing body (I'm 50 years old now) doesn't seem to like putting in long runs every seven days.
 
