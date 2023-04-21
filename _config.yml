@@ -21,9 +21,10 @@ plugins:
 defaults:
   - scope:
       path: ""
-      type: posts
+      type: posts # an empty string here means all files in the project
     values:
       layout: post
+      is_post: true # https://conductofcode.io/post/social-meta-tags-with-jekyll/ 
 
 
 gtag: UA-70634-8

@@ -20,6 +20,17 @@
     {% if site.description %}
       <meta name="description" content="{{ site.description }}">
     {% endif %}
+
+    {% if page.is_post %}
+      {% if page.image %}
+      <meta property="og:image" content="{{ site.url }}{{ page.image }}" />
+      {% else %}
+        {% comment %}
+          <meta property="og:image" content="{{ site.url }}/default_image.jpg" }} />
+        {% endcomment %}
+      {% endif %}
+    {% endif %}
+
   </head>
   <body>
     {% include navigation.html %}
