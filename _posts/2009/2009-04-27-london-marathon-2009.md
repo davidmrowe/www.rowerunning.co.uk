@@ -1,11 +1,11 @@
 ---
 title: "Flora London Marathon - 26 April 2009"
 date: "2009-04-27"
-categories: 
+categories:
   - "david"
   - "ranelagh-harriers"
   - "the-stragglers"
-author: 
+author:
   - "david"
 ---
 
@@ -33,7 +33,7 @@ At about 11 miles I was spotted by Simon and Deborah from [Ranelagh Harriers](ht
 
 ![2009-04-26-flm-1720](/images/2009/2009-04-26-flm-1720.jpg)
 
-I knew Sharon would be on the other side of the road at around 13 miles so I made sure I was a position where I could be spotted. We passed a double-decker bus in the middle of the road which was playing loud uplifing music and it was a real boost at this point. Only a matter of seconds later I could see the Fetch support area in the distance on the left so gave a wave to try and help attract attention. I'd told Sharon when I had expected to get there and I'd say I arrived bang on time.
+I knew Sharon would be on the other side of the road at around 13 miles so I made sure I was a position where I could be spotted. We passed a double-decker bus in the middle of the road which was playing loud uplifting music and it was a real boost at this point. Only a matter of seconds later I could see the Fetch support area in the distance on the left so gave a wave to try and help attract attention. I'd told Sharon when I had expected to get there and I'd say I arrived bang on time.
 
 I waved, I cheered and the supporters waved and cheered ten times as loud back at me. I could easily spot Sharon (maybe it was the great big camera!) and it was a most welcome boost. I knew I'd be back there to see them again in about nine miles time which would be cool.
 
@@ -93,6 +93,6 @@ At this point my legs ware starting to stiffen up - but nothing like they are no
 
 Before I started the race I'd said that the London Marathon was just a training run - as I'm doing a marathon in July (after a 2.4 mile swim and 112 mile bike ride) as part of an Ironman triathlon. The first 13-15 miles felt like that (a pleasant training run), but the last ten were much harder.
 
-Other than the Ironman in July, I really want to get my marathon time down closer to the 3 hour mark - so this certainly won't be the last time I run this distance. With a bit of luck I'll be back on the London startline next year. I'll just have to wait and see.
+Other than the Ironman in July, I really want to get my marathon time down closer to the 3 hour mark - so this certainly won't be the last time I run this distance. With a bit of luck I'll be back on the London start line next year. I'll just have to wait and see.
 
 If you've got to the end of this write-up then well done, you've just completed a marathon reading session! If you want to see a [fuller set of photos as taken by Sharon](http://rowephoto.co.uk/running/8028820) then head over to our photography website.
