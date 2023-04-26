@@ -24,11 +24,32 @@ article img
   margin-left: auto
   margin-right: auto
 
+  border-radius: 0.4rem!important
+
 article img + em
   display: block
   text-align: center
   font-size: 0.75em
   font-style: normal
+
+article figure img + em
+  display: block
+  text-align: center
+  font-size: 0.75em
+  font-style: normal
+
+// used for image alignment in image_aligned.html include
+.image-left
+  float: left!important
+  margin-right: 1em
+  margin-bottom: 1em
+
+// used for image alignment in image_aligned.html include
+.image-right
+  float: right!important
+  margin-left: 1em
+  margin-bottom: 1em
+
 
 .card-img-top
     width: 100%
@@ -50,7 +71,7 @@ blockquote
 
   a.nav-item.nav-link
     color: #5a5a5a
-  
+
 .post-description
   a.badge
     vertical-align: text-bottom

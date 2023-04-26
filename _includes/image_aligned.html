@@ -1,0 +1,24 @@
+<!-- _includes/image_aligned.html -->
+<!-- based on https://stackoverflow.com/a/51682829 -->
+<p
+    {% if include.class %}
+      class="{{ include.class }}"
+    {% endif %}
+    >
+    {% if include.url %}
+    <a href="{{ include.url }}">
+    {% endif %}
+    <img
+        {% if include.srcabs %}
+            src="{{ include.srcabs }}"
+        {% else %}
+            src="{{ site.baseurl }}{{ include.src }}"
+        {% endif %}
+    alt="{{ include.alt }}">
+    {% if include.url %}
+    </a>
+    {% endif %}
+    {% if include.caption %}
+        <em>{{ include.caption }}</em>
+    {% endif %}
+</p>
