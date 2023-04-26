@@ -48,7 +48,7 @@ Now it was time to push myself.
 {% include image_aligned.html
   class="image-left"
   src="/images/2023/london-marathon/2023-04-23-car-400x.jpg"
-  caption="My ideal race splits (for five mile intervals and half-way)"
+  caption="Off to East Croydon train station"
 %}
 
 I had a few good nights sleep in the run up to the race apart from Saturday night when it was terrible - that's kind of to be expected so I didn't mind.  The alarm was set for 5am but we were awake before that.  Coffee, breakfast (porridge) at about 5:20am and another coffee and we were off in the car to East Croydon.
