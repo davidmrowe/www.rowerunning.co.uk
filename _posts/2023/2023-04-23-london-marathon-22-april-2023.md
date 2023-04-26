@@ -78,7 +78,19 @@ At about 8:15am I sat down on a bench by a pond outside of my start area (yellow
 
 I then headed to the yellow start area - bumped into my old friend Danny (with a London Marathon personal best of just under 2 hours 40) who was volunteering and then had a little rest on the grass.
 
-Then it was toilet time.
+<br clear="both" />
+
+I posted the following message on the Bognor Regis Tone Zone runners Facebook page about 90 minutes before the start of the race:
+
+{% include image_aligned.html
+  class="image-right"
+  src="/images/2023/london-marathon/2023-04-23-pre-race-selfie-400x.jpg"
+  caption="Pre-race selfie"
+%}
+
+> I just wanted to say in advance (my start wave is from 10:04am) thank you very much to the club (and my good luck in the marathon ballot) for giving me the opportunity to head back to the London Marathon.  I've been fortunate enough to have raced it previously (last time was in 2013) and I've always loved it - so having an opportunity to go back is really exciting.  Having a club place means I want to give it my all for the club and this has given me the motivation (and accountability) to train better since the start of the year.  I've had a really consistent block of training (not big miles, that's for sure - averaging 26 miles per week since the start of this year) and I'm ready to give it my best.  I have an optimistic target time for today (3 hours 10) and I'm prepared to work really hard for it and also to fail (which I hope I don't).  If you're on the course and see me (you'll see my orange visor first) then give us a shout and I'll try my best to do the same back. Thanks for the opportunity and I hope to have a medal around my neck in a few hours time which I'll bring along to the group photo on Tuesday evening at West Park (where I will not be running!!).  Good luck to all the other Tone Zone runners racing today and to those that are watching/supporting in person or remotely.  It means a great deal.
+
+It was then toilet time.
 
 The queues were building and I waited about 10 minutes.  As soon as I came out the queues were huge so I walked straight to the back and joined them again - as I'd probably want to go again by the time I got back to the front.
 
@@ -87,17 +99,9 @@ The queues were building and I waited about 10 minutes.  As soon as I came out t
 
 It took me just over 30 minutes to get to the front of the queue!  Wow.
 
-{% include image_aligned.html
-  class="image-right"
-  src="/images/2023/london-marathon/2023-04-23-pre-race-selfie-400x.jpg"
-  caption="Pre-race selfie"
-%}
-
 At this point it started to spit a bit with rain and it was nearly 9:40am.  I sorted my post race bag out, turned my phone off and stuck it in the bag, handed it in (it's then put on a large lorry which then gets taken to the finish) and then went for a little jog to warm up.
 
 It was hilarious, there was a group of about 30 people (including myself) who were jogging/warming-up in a large oval shape which was probably about 200m around - all jogging in this large oval shape.  It was just like the parade ring before a horse race!
-
-<br clear="both"/>
 
 After a couple of minutes I headed to my start area for wave 2 (which was the wave I was allocated based on my predicted finishing time when I entered the race).  We waited and watched wave 1 head to the start and at 10am prompt they were off to a round of applause.  A few minutes later we were led towards the start and then we were off - I set off just after 10:05am.
 
@@ -112,9 +116,9 @@ Soon after the start there was a priest (or a man dressed as priest) flicking (h
 
 The rain had for the most part held off for the first mile or two and then it started getting heavier.  The weather wasn't cold (I didn't wear gloves or arm warmers) but the rain really did start to make an appearance.  In fact it poured with rain until about 8.5 miles.  There were some big puddles by the side of the road and I really didn't fancy trench-foot so early in the race so I tried my best to avoid them.  With the number of runners around me it was impossible not to get splashed (as well as being rained on from above) so I did get very wet.  You just have to deal with this and hope it isn't an issue later on.  Thankfully it wasn't.  On the plus side I didn't have to worry about overheating.  The temperature was lovely and cool and not once during the race did I feel cold.
 
-I remember seeing a sign held up by a supporter at the side of the road that said "Due to inflation you will be running 27 miles" which made me chuckle.
+I remember seeing a sign held up by a supporter at the side of the road that said *"Due to inflation you will be running 27 miles"* which made me chuckle.
 
-The first few miles were uneventful (which is a good thing).  The support even in the rain was superb and there were people along the entire route.  Lots of children at the edge of the road looking for high-fives etc.  When I [last ran here in 2013](/2013/04/virgin-london-marathon-21-april-2013/) I wasn't running for a fast time (for me) as I was doing an Ironman four weeks later so I treated this as a very long training run.  I loved it.  I was fighting fit - I high-fived, waved my arms - I had an amazing experience.
+The first few miles were uneventful (which is a good thing).  The support even in the rain was superb and there were people along the entire route.  Lots of children at the edge of the road looking for high-fives etc.  When I [last ran here in 2013](/2013/04/virgin-london-marathon-21-april-2013/) I wasn't running for a fast time (for me) as I was doing an Ironman four weeks later so I treated that as a very long training run.  I loved it.  I was fighting fit - I high-fived, waved my arms - I had an amazing experience.
 
 ![](/images/2013/2013-09-07-vlm.jpg)
 *Having fun in 2013*
@@ -125,7 +129,7 @@ This year I was in a different place - I had a target in mind (3:10) and I wasn'
 
 I did see a couple of runners trip over which wasn't good - I guess they clipped ankles or something.  They got themselves up and continued on their way and all seemed good.  You really needed to concentrate all the time whilst running - whether it was puddles, people suddenly changing direction at water stations or runners suddenly stopping to walk (this happens a bit during the final few miles)
 
-The sound systems (whether it was drumming ensembles, steel drum bands, huge loudspeaker systems and anything in-between) were awesome and the 30 seconds or so that you head them just take your mind away from what your legs are doing for a moment.
+The sound systems (whether it was drumming ensembles, jazz bands, steel drums, huge loudspeaker systems and anything in-between) were awesome and the 30 seconds or so that you hear them just take your mind away from what your legs are doing for a moment.
 
 Nutrition wise I had an energy gel about 30 minutes before the start and then again at 30 minute intervals.  My last gel was at 2 hours 30 minutes.  They were a combination of High5 gels and caffeinated cola gels that I bought on a good deal from wiggle.co.uk.  I have a pretty cast-iron stomach based on years of Ironman experience so I can deal with pretty much anything and everything.  All of these were washed down with water and the occasional sip of sports drink at the Lucozade sport drink points on course.  During long training runs I've carried a bottle of water/electrolyte drink with me and taken regular sips.  From around 18 miles I believe I then hung onto the little water bottles and just took regular sips whilst running.
 
@@ -227,9 +231,9 @@ My best time at London was in 2012 where I ran 3 hours 9 minutes and 9 seconds. 
 
 So… although I'm a little slower (and 11 years older!) I was much better in my age category.  For those who know about [age grading percentages](http://www.howardgrubb.co.uk/athletics/wmalookup15.html), my 2012 race was 66.4% and today I was 71.4%.  I'm really pleased to be over 70% age grading over a marathon.  On top of that I was wearing 'regular' running shoes with no "carbon super shoes" to be seen (although I may need to think about them at some point!)
 
-My training over the recent months hasn't been overly run focused (I seem to be a bit fragile for high mileage) and I've averaged just over 25 miles a week running so far this year.  This is really good for me.  I have spent 70 hours cycling on my trainer (using Zwift) which is over four hours a week so I've been getting in some good exercise in.  My weight made it down to just over 12 stone 6 pounds which is approximately 79kg.  This is the same weight as when I ran London in 2013 and when I ran it in 2012 I was just a pound or two heavier.  Being light (this is light for someone who's nearly 6 foot 4 tall) makes a huge difference and I was so pleased to be at this kind of weight before the start - this hugely helps.
+My training over the recent months hasn't been overly run focused (I seem to be a bit fragile for high mileage) and I've averaged around 26 miles running each week so far this year.  This is really good for me.  I have spent 70 hours cycling on my trainer (using Zwift) which is over four hours a week so I've been getting in some good exercise in.  My weight made it down to just over 12 stone 6 pounds which is approximately 79kg.  This is the same weight as when I ran London in 2013 (in 2012 I was just a pound or two heavier).  Being light (this is light for someone who's nearly 6 foot 4 tall) makes a huge difference and I was so pleased to be at this kind of weight before the start.
 
-I got some good long runs in (although I did miss one at the start of April) and was pleased to do four 20 mile runs and a couple of 17 milers.  My long runs were around 30-45 seconds per mile slower than target race pace.
+I got some good long runs in (although I did miss one planned 20 miler at the start of April) and was pleased to do four 20 mile runs and a couple of 17 milers.  My long runs were around 30-45 seconds per mile slower than target race pace.
 
 ![](/images/2023/london-marathon/2023-04-23-finish-with-medal-400x.jpg)
 
