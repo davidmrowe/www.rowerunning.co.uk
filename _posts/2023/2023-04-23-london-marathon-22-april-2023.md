@@ -172,9 +172,9 @@ Mile 22-23 I dropped to 7:31.  The road seemed pretty busy here and I actually t
 
 Somewhere around here I caught up with [London Marathon legend Chris Finill](http://everpresent.org.uk/finill.htm).  Chris is one of the London Ever-present runners - he entered the first London Marathon in 1981 at the age of 22 (finishing in 2:32:55) and has run it every year since.  Yes, every year.  He's now run the London Marathon 43 times.  There's only seven people who've run every London Marathon (a couple of them are doing 'virtual' London Marathons now).  It's the club you cannot enter and can only leave.  I was hoping to see Mike Peace (from our old running club) who's also an Ever Present runner but our paths did not cross today.  It was good to see Chris though and cheer him on en-route.  It was then back to my serious game face!
 
-Things didn't get any better.  I did somehow get in a mile of 7:17 after that but I think some of that was due to going slightly downhill into the Blackfriars Underpass.  This is the final part of the race where you get some peace and quiet other than as you turn into the finishing straight.
+Things didn't get any better.  I did somehow get in a mile of 7:17 after that but I think some of that was due to going slightly downhill into the Blackfriars Underpass.  This is the final part of the race where you get some peace and quiet other than at 26 miles when you start to turn into the finishing straight.
 
-Once you come out the other side it's just endless cheering to 26 miles.  The crowds along the Victoria Embankment are just immense.  It was a bit like Tower Bridge but just kept going and going.
+Once you come out the other side it's just endless cheering to the 26 miles marker (which says "385 yards to go").  The crowds along the Victoria Embankment are just immense.  It was a bit like Tower Bridge but just kept going and going for mile after mile.
 
 I knew to keep a lookout at around 24.5 miles for Sharon and some of the gang from our running club (Bognor Regis Tone Zone runners) and this was actually a good way to pass the time - concentrating on the people cheering at the side of the road (it's all barriered off for the final few miles).  I saw Sharon and the others and gave them a bit of a thumbs-down as it wasn't quite going to plan.
 
