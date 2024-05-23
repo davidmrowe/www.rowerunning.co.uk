@@ -4,8 +4,12 @@
     {% if include.class %}
       class="{{ include.class }}"
     {% endif %}
-    >
-    {% if include.url %}
+    
+    {% if include.style %}
+      style="{{ include.style }}"
+    {% endif %}
+>
+{% if include.url %}
     <a href="{{ include.url }}">
     {% endif %}
     <img
@@ -13,6 +17,10 @@
             src="{{ include.srcabs }}"
         {% else %}
             src="{{ site.baseurl }}{{ include.src }}"
+        {% endif %}
+
+        {% if include.image-style %}
+            style="{{ include.image-style }}"
         {% endif %}
     alt="{{ include.alt }}">
     {% if include.url %}
