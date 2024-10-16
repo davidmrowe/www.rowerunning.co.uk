@@ -47,7 +47,7 @@ It was a fast start to the run - mainly to try and get into a reasonable positio
 
 During the second lap I started to catch up with slower runners and everyone was incredibly polite in moving aside to let faster runners through.  This wasn't a race for medals or prizes.  Everyone gets rewarded at the end (did I mention the cake and wine!) and there was no rush as such.
 
-I found myself during the first two laps settled into a position not far behind a lady from the Midhurst Milers running club.  We ran at pretty much the exact speed the whole way round.  As we got to the end of our second lap (5k) it looked like the other runners further ahead of us had stopped at 5k.  I believe at this point she was in the lead and I wasn't too far behind.
+I found myself during the first two laps settled into a position not far behind a lady from the Midhurst Milers running club.  We ran at pretty much the exact same speed the whole way round.  As we got to the end of our second lap (5k) it looked like the other runners further ahead of us had stopped at 5k.  I believe at this point she was in the lead and I wasn't too far behind.
 
 <br clear="both" />
 
