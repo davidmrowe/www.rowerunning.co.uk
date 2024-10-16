@@ -18,13 +18,16 @@ permalink: /:year/:month/:title/
 plugins:
   - jekyll-paginate
 
+# Filtering Content https://jekyllrb.com/docs/configuration/default/
+future: true
+
 defaults:
   - scope:
       path: ""
       type: posts # an empty string here means all files in the project
     values:
       layout: post
-      is_post: true # https://conductofcode.io/post/social-meta-tags-with-jekyll/ 
+      is_post: true # https://conductofcode.io/post/social-meta-tags-with-jekyll/
 
 
 gtag: UA-70634-8
