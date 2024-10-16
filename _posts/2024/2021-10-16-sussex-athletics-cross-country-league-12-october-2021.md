@@ -7,6 +7,7 @@ categories:
   - "david"
 author:
   - "david"
+excerpt: Back off-road for mud, hills and rain.
 ---
 
 {% include image_aligned.html
