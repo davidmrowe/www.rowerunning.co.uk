@@ -51,7 +51,7 @@ During the second lap of the race I think I overtook about five or six other run
 
 I was overtaken by one person in the final half mile and it was a hard old slog.  The grassy climb is just energy sapping - it's not long, but it's horrible.
 
-Coming round to the finish I crossed the line with an official time of 33:12.  This was surprisingly only one second slower than three years ago!  I think the course was pretty much identical (the only slight deviation that I can see in the GPS tracks is near the end of each lap when you run beside the car park - it looks like it was a few meters longer in 2021).  Either way, I was chuffed to have run almost exactly the same as in 2011 and my pacing was clearly much better, as this year it wasn't a horrific slog to the finish.  My average heart rate was also a few beats lower this time around.
+Coming round to the finish I crossed the line with an official time of 33:12.  This was surprisingly only one second slower than three years ago!  I think the course was pretty much identical (the only slight deviation that I can see in the GPS tracks is near the end of each lap when you run beside the car park - it looks like it was a few meters longer in 2021).  Either way, I was chuffed to have run almost exactly the same as in 2021 and my pacing was clearly much better, as this year it wasn't a horrific slog to the finish.  My average heart rate was also a few beats lower this time around.
 
 I finished in 69th position (out of 117).  I was 70th (out of 132) last time.  Pretty consistent I'd say.
 
