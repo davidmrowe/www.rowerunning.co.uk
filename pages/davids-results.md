@@ -34,5 +34,6 @@ In September 2014 he raced Ironman Wales and qualified for the 2015 Ironman Worl
   * 2013 &#8211; [London Marathon](/2013/04/virgin-london-marathon-21-april-2013/ "Virgin London Marathon – 21 April 2013") (3:26:12)
   * 2020 &#8211; [(Virtual) London Marathon](/2020/10/virtual-london-marathon-2020-david/) (3:35:11)
   * 2023 - [London Marathon](/2023/04/london-marathon-22-april-2023/ "London Marathon") (3:12:03)
+  * 2025 - [London Marathon](/2025/05/london-marathon-27-april-2025/ "London Marathon") (3:59:02)
 
 Prior to running the London Marathon in 2023 David [wrote a blog that summarised his previous marathon attempts](/2023/03/heading-back-to-london/).
