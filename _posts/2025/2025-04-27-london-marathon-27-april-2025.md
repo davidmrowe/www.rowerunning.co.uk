@@ -22,7 +22,7 @@ I hoped to be able to run it in April 2025.
   caption="When your legs fail the wheels on the bus go round and round!"
 %}
 
-Things were looking reasonable and at the end of 2024 and start of 2025 I began to increase my running mileage and started to work on longer runs.  Towards the end of January I got up to 15 miles but this time my left hamstring really hurt after a run.  I cut right back and just over two weeks later in mid-February I got Sharon to drop me off on the way to her work and I’d run the nine miles back home.  I got to three miles and it went again.  I walked a mile to the bus stop and got the bus home.
+Things were looking reasonable and at the end of 2024 I began to increase my running mileage and started to work on longer runs.  Towards the end of January I got up to 15 miles but this time my left hamstring really hurt after a run.  I cut right back and just over two weeks later in mid-February I got Sharon to drop me off on the way to her work and I’d run the nine miles back home.  I got to three miles and it went again.  I walked a mile to the bus stop and got the bus home.
 
 This was far from ideal.
 
