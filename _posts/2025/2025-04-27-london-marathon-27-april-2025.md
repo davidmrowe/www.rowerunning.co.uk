@@ -139,7 +139,7 @@ Narrow Street was narrow as always.
 
 ![](/images/2025/london-marathon/20250427-london-marathon-2828.jpg){: style="width: 75%"}
 
-At about 15.5 miles I knew I’d find Sharon in the same place as we both were last year.  I saw her, she saw me - I stopped for about five seconds for a quick kiss and to tell that this “this is bloody hard.”
+At about 15.5 miles I knew I’d find Sharon in the same place as we both were last year.  I saw her, she saw me - I stopped for about five seconds for a quick kiss and to tell her that “this is bloody hard.”
 
 When I saw anyone I knew I tried to smile and wave.
 
