@@ -129,9 +129,11 @@ Here, I must have spotted a photographer but was in the wrong place for him/her.
 ![](/images/2025/london-marathon/20250427-london-marathon-official-2.jpg){: style="width: 100%"}
 *The lady in the lobster outfit beat me by just under 10 minutes*
 
+I then spotted one directly ahead of me.  People were moving all over the road to try and get photos - but I just had to hold my ground and hope for the best - and this is the best that came out of it.
+
 ![](/images/2025/london-marathon/20250427-london-marathon-478110049.jpg){: style="width: 100%"}
 
-I went through halfway (13.1 miles) in 1:57:28, so a little ahead of schedule.  I had every intention of running a little slower in the first half and hopefully speeding up in the second but that wasn’t looking good.  This pace would set me up for a finish of 3:54:56.  Hmn.  I'm not convinced.
+I went through halfway (13.1 miles) in 1:57:28, so a little ahead of schedule.  I had every intention of running slightly slower in the first half and hopefully speeding up in the second but that plan was out the window.  Based on my half way split I was on track for a finish of 3:54:56.  I wasn't convinced that this was going to happen.  Hmn.
 
 It's great to see the super fast runners heading back towards the finish on the other side of the road around the half way point (for me, not them).  I recognised one of the fast club runners and gave him shout of Boom Shakalaka! (if you know, you know)
 
